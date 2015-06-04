@@ -81,9 +81,9 @@ bezhotovostního převodu na účet správce vedený u PPF banky a.s., Evropská
 
 3. Smluvní strany se dohodly, že výše nájemného, uvedená v odst. 1. tohoto článku, bude každoročně upravena takto:
 
- a) počínaje rokem 2015 bude výše nájemného každoročně upravena vždy o částku odpovídající míře valorizace nájemních smluv v daném roce stanovené usnesením Rady hl. m. Prahy, maximálně však odpovídající roční míře inflace oficiálně vyhlášené ČSU za uplynulý kalendářní rok,
+            a) počínaje rokem 2015 bude výše nájemného každoročně upravena vždy o částku odpovídající míře valorizace nájemních smluv v daném roce stanovené usnesením Rady hl. m. Prahy, maximálně však odpovídající roční míře inflace oficiálně vyhlášené ČSU za uplynulý kalendářní rok,
 
- b) výměr upravující výši nájemného, doručí správce nájemci nejpozději do 30. 4. běžného kalendářního roku současně s novým výpočtovým listem, který bude tvořit přílohu této smlouvy a stane se její nedílnou součástí.
+            b) výměr upravující výši nájemného, doručí správce nájemci nejpozději do 30. 4. běžného kalendářního roku současně s novým výpočtovým listem, který bude tvořit přílohu této smlouvy a stane se její nedílnou součástí.
 
 4. Doplatek odpovídající rozdílu mezi původním nájemným a nájemným zvýšeným podle IV. odst. 3. této smlouvy za období od 1.1. běžného roku do doby doručení nového výpočtového listu zaplatí nájemce bezhotovostním převodem ve prospěch účtu správce při nejbližším řádném termínu úhrady nájemného.
 
@@ -114,40 +114,37 @@ aktuální stav, popř. závady.
 
 3. Nájemce se zejména zavazuje:
 
- a) užívat předmět nájmu jako řádný hospodář a pouze k účelu stanovenému v této smlouvě,
+            a) užívat předmět nájmu jako řádný hospodář a pouze k účelu stanovenému v této smlouvě,
 
- b) užívat předmět nájmu tak, aby nájemci sousedních prostor nebyli omezováni a rušeni,
+            b) užívat předmět nájmu tak, aby nájemci sousedních prostor nebyli omezováni a rušeni,
 
- c) udržovat čistotu a pořádek v předmětu nájmu,
+            c) udržovat čistotu a pořádek v předmětu nájmu,
 
- d) před zahájením provozu osadit v předmětu nájmu vodoměr a elektroměr, není-li dohodnuto jinak,
+            d) před zahájením provozu osadit v předmětu nájmu vodoměr a elektroměr, není-li dohodnuto jinak,
 
- e) provádět na své vlastní náklady běžnou údržbu a drobné opravy na předmětu nájmu, přičemž se běžnou údržbou rozumí: provádění činností směřujících ke zpomalení fyzického opotřebení a oddálení oprav předmětu nájmu, tzn. zejména úklid (čištění), malování (zdí), natírání (oken,
-dveří atd.), revize (elektro, plynu, atd.), dále drobné opravy (zámečnické, sklenářské, truhlářské, zdravotní instalace a elektroinstalace),
+            e) provádět na své vlastní náklady běžnou údržbu a drobné opravy na předmětu nájmu, přičemž se běžnou údržbou rozumí: provádění činností směřujících ke zpomalení fyzického opotřebení a oddálení oprav předmětu nájmu, tzn. zejména úklid (čištění), malování (zdí), natírání (oken, dveří atd.), revize (elektro, plynu, atd.), dále drobné opravy (zámečnické, sklenářské, truhlářské, zdravotní instalace a elektroinstalace),
 
- f) řádně a včas platit nájemné dle čl. IV. této smlouvy,
+            f) řádně a včas platit nájemné dle čl. IV. této smlouvy,
 
- g) na žádost pronajímatele, resp. správce, umožnit v nezbytném rozsahu prohlídku a revizi předmětu nájmu, jakož i přístup k i do předmětu nájmu za účelem kontroly, stavu a způsobu užívání,
+            g) na žádost pronajímatele, resp. správce, umožnit v nezbytném rozsahu prohlídku a revizi předmětu nájmu, jakož i přístup k i do předmětu nájmu za účelem kontroly, stavu a způsobu užívání,
 
- h) plnit povinnosti uložené pronajímateli jako vlastníkovi na základě právních předpisů a úseku požární ochrany, hygieny, bezpečnosti práce a při provozu speciálních zařízení,
+            h) plnit povinnosti uložené pronajímateli jako vlastníkovi na základě právních předpisů a úseku požární ochrany, hygieny, bezpečnosti práce a při provozu speciálních zařízení,
 
- i) bezodkladně hlásit pronajímateli, resp. správci, všechny vady vážnějšího charakteru, změny a okolnosti na předmětu nájmu, které by mohly způsobit pronajímateli škodu,
+            i) bezodkladně hlásit pronajímateli, resp. správci, všechny vady vážnějšího charakteru, změny a okolnosti na předmětu nájmu, které by mohly způsobit pronajímateli škodu,
 
- j) v předmětu nájmu dodržovat hlukové limity dle platné právní úpravy a noční klid,
+            j) v předmětu nájmu dodržovat hlukové limity dle platné právní úpravy a noční klid,
 
- k) na předmětu nájmu plnit povinnosti původce odpadů, dle ust. § 16 zákona č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, v platném znění. Nejpozději do 24 hodin po nabytí účinnosti této smlouvy smluvně zajistit nakládání s odpady (sběrná nádoba na směsný
-komunální odpad, separační sběrné nádoby na jednotlivé komodity, které při provozu živnostenské činnosti vznikají, pokud není původce odpadů na základě písemné smlouvy zapojen do systému organizovanému HMP aj.), udržovat čistotu kolem místa nájmu cca 2 m všemi směry,
+            k) na předmětu nájmu plnit povinnosti původce odpadů, dle ust. § 16 zákona č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, v platném znění. Nejpozději do 24 hodin po nabytí účinnosti této smlouvy smluvně zajistit nakládání s odpady (sběrná nádoba na směsný komunální odpad, separační sběrné nádoby na jednotlivé komodity, které při provozu živnostenské činnosti vznikají, pokud není původce odpadů na základě písemné smlouvy zapojen do systému organizovanému HMP aj.), udržovat čistotu kolem místa nájmu cca 2 m všemi směry,
 
- l) při skončení nájmu předmět nájmu vyklidit a vyklizený předat/odevzdat pronajímateli, resp. správci, ve stavu v jakém byl v době, kdy ho převzal, s přihlédnutím k obvyklému opotřebení při řádném užívání. O předání předmětu nájmu bude pořízen předávací protokol, ve kterém
-bude uveden zejména popis předmětu nájmu, jeho aktuální stav, popř. závady,
+            l) při skončení nájmu předmět nájmu vyklidit a vyklizený předat/odevzdat pronajímateli, resp. správci, ve stavu v jakém byl v době, kdy ho převzal, s přihlédnutím k obvyklému opotřebení při řádném užívání. O předání předmětu nájmu bude pořízen předávací protokol, ve kterém bude uveden zejména popis předmětu nájmu, jeho aktuální stav, popř. závady,
 
- m) Jakýkoliv zásah v, nebo na předmětu nájmu je nutné předem písemně projednat s příslušnými orgány státní památkové péče, zejména umístění nebo odstranění označení provozovny, reklamní poutače, nátěry fasády, výkladců apod.
+            m) Jakýkoliv zásah v, nebo na předmětu nájmu je nutné předem písemně projednat s příslušnými orgány státní památkové péče, zejména umístění nebo odstranění označení provozovny, reklamní poutače, nátěry fasády, výkladců apod.
 
 4. Nájemce je povinen:
 
- a) pečovat o to, aby na předmětu nájmu nevznikla škoda, příp. odstranit veškeré vady na předmětu nájmu, které způsobil nájemce, jeho zaměstnanci nebo ostatní osoby prodlévající v předmětu nájmu se souhlasem nájemce, popř. nahradit pronajímateli takto způsobenou škodu,
+            a) pečovat o to, aby na předmětu nájmu nevznikla škoda, příp. odstranit veškeré vady na předmětu nájmu, které způsobil nájemce, jeho zaměstnanci nebo ostatní osoby prodlévající v předmětu nájmu se souhlasem nájemce, popř. nahradit pronajímateli takto způsobenou škodu,
 
- b) umožnit pronajímateli, resp. správci, vstup do všech prostor předmětu nájmu za účelem kontroly stavu a způsobu jeho užívání, provedení potřebné opravy nebo údržby předmětu nájmu, apod. Je-li nezbytné zabránit škodě (např. havárie, požáru na předmětu nájmu apod.), ke vstupu je pronajímatel, resp. správce, oprávněn i v nepřítomnosti nájemce.
+            b) umožnit pronajímateli, resp. správci, vstup do všech prostor předmětu nájmu za účelem kontroly stavu a způsobu jeho užívání, provedení potřebné opravy nebo údržby předmětu nájmu, apod. Je-li nezbytné zabránit škodě (např. havárie, požáru na předmětu nájmu apod.), ke vstupu je pronajímatel, resp. správce, oprávněn i v nepřítomnosti nájemce.
 
 5. Nájemce nesmí zřídit třetí osobě k předmětu nájmu užívací právo, podnájem, bez předchozího písemného souhlasu pronajímatele. V případě, že bude nájemce žádat o souhlas ke zřízení užívacího práva, předloží pronajímateli v jednom výtisku podnájemní smlouvu. Úhrada za užívací
 právo přitom nebude převyšovat nájemné.
@@ -195,13 +192,13 @@ zásilku do deseti kalendářních dnů od jejího uložení na poště, považu
 
 1. Za nedodržení podmínek této smlouvy je nájemce povinen zaplatit pronajímateli tyto smluvní pokuty:
 
- a) při nezaplacení nájmu vdaném termínu pokutu ve výši 0,1% z dlužné částky za každý i započatý den prodlení, minimálně však 300 Kč celkem,
+            a) při nezaplacení nájmu vdaném termínu pokutu ve výši 0,1% z dlužné částky za každý i započatý den prodlení, minimálně však 300 Kč celkem,
 
- b) za užívání předmětu nájmu v rozporu s účelem nájmu podle této smlouvy jednorázově 10.000 Kč (desettisíc korun českých),
+            b) za užívání předmětu nájmu v rozporu s účelem nájmu podle této smlouvy jednorázově 10.000 Kč (desettisíc korun českých),
 
- c) v případě, že nájemce nepředá předmět nájmu ve stanovené lhůtě, je povinen zaplatit pronajímateli smluvní pokutu ve výši 5 % z měsíčního nájemného za každý započatý den prodlení,
+            c) v případě, že nájemce nepředá předmět nájmu ve stanovené lhůtě, je povinen zaplatit pronajímateli smluvní pokutu ve výši 5 % z měsíčního nájemného za každý započatý den prodlení,
 
- d) za nedodržení každé další podmínky stanovené touto smlouvou 1.000 Kč (slovy jedentisíc korun českých) za každý den, v němž bude toto porušení trvat.
+            d) za nedodržení každé další podmínky stanovené touto smlouvou 1.000 Kč (slovy jedentisíc korun českých) za každý den, v němž bude toto porušení trvat.
 
 2. Smluvní pokuty sjednané v této smlouvě se nijak nedotýkají nároků pronajímatele na náhradu škody vůči nájemci a lze je požadovat kumulativně.
 
@@ -257,3 +254,49 @@ Ing. Petr Vychodil
 předseda představenstva
 
 Operátor OPENCARD, a.s.
+
+**TABULKA MÍSTNOSTÍ**
+
+|Č.M.| NÁZEV| PLOCHA (m2)| SV. VÝŠKA (mm)| PODLAHA| STĚNY| STROP|
+|---|---|---|---|---|---|---|
+|401| SCHODIŠŤOVÁ HALA| 27,80| 2820| KERAM. DLAŽBA| BÍLÁ MALBA| POŽ. SDK PODHLED|
+|402| SCHODIŠTĚ| 9,50| -| KÁMEN| BÍLÁ MALBA| POŽ. SDK PODHLED|
+|403| KANCELÁŘ| 16,70| 2700| DŘ. PALUBKY| -| SDK PODHLED|
+|404| KANCELÁŘ| 17,90| 2700| DŘ. PALUBKY| BÍLÁ MALBA| SDK PODHLED|
+|405| CHODBA| 3,20| 2600| DŘ. PALUBKY| BÍLÁ MALBA| SDK PODHLED|
+|406| WC, UMÝVÁRNA| 5,70| 2600| KERAM. DLAŽBA| BÍLÁ MALBA| SDK PODHLED|
+|407| TERASA| 7,80| -| KERAM. DLAŽBA| KERAM.OBKLAD/BÍLÁ MALBA| SDK PODHLED|
+|408| KANCELÁŘ| 39,60| 2700| DŘ. PALUBKY| BARVA FASÁDY| SDK PODHLED|
+|409| KANCELÁŘ| 21,60| 3400| DŘ. PALUBKY| BÍLÁ MALBA| SDK PODHLED|
+|410| KUCHYŇKA| 6,70| 2530| DŘ. PALUBKY| BÍLÁ MALBA| SDK PODHLED|
+|411| CHODBA| 5,70| 2350| DŘ. PALUBKY| KERAM.OBKLAD/BÍLÁ MALBA| SDK PODHLED|
+|412| WC| 2,60| 2350| KERAM. DLAŽBA| BÍLÁ MALBA| SDK PODHLED|
+|413| KANCELÁŘ| 11,60| 3130| DŘ. PALUBKY| KERAM.OBKLAD/BÍLÁ MALBA| SDK PODHLED|
+|414| KANCELÁŘ| 17,80| 2730/3130| DŘ. PALUBKY| BÍLÁ MALBA| SDK PODHLED|
+|415| ŠATNA| 7,70| 2250| DŘ. PALUBKY| BÍLÁ MALBA| SDK PODHLED|
+|416| UMÝVÁRNA| 6,50| 2250| KERAM. DLAŽBA| BÍLÁ MALBA| SDK PODHLED|
+|417| KANCELÁŘ| 33,00| 3130| DŘ. PALUBKY| KERAM.OBKLAD/BÍLÁ MALBA| SDK PODHLED|
+|418| KUCHYŇKA| 9,60| 2730| DŘ. PALUBKY| BÍLÁ MALBA| SDK PODHLED|
+|419| CHODBA| 7,30| 2250| DŘ. PALUBKY| KERAM.OBKLAD/BÍLÁ MALBA| SDK PODHLED|
+|420| WC| 1,90| 2250| KERAM. DLAŽBA| BÍLÁ MALBA| SDK PODHLED|
+|421| KANCELÁŘ| 15,20| 2730| DŘ. PALUBKY| KERAM.OBKLAD/BÍLÁ MALBA| SDK PODHLED|
+|422| KANCELÁŘ| 19,50| 2930| DŘ. PALUBKY| BÍLÁ MALBA| SDK PODHLED|
+|423| KUCHYŇKA| 13,80| 3130| DŘ. PALUBKY| BÍLÁ MALBA| SDK PODHLED|
+|424| PŘEDSÍŇ| 6,90| 2250| DŘ. PALUBKY| KERAM.OBKLAD/BÍLÁ MALBA| SDK PODHLED|
+|425| UMÝVÁRNA| 5,50| 2250| KERAM. DLAŽBA| BÍLÁ MALBA| SDK PODHLED|
+|426| KANCELÁŘ| 34,00| 3000| DŘ. PALUBKY| KERAM.OBKLAD/BÍLÁ MALBA| SDK PODHLED|
+|427| KUCHYŇKA| 6,10| 2250/3000| DŘ. PALUBKY| BÍLÁ MALBA| SDK PODHLED|
+|428| CHODBA| 4,90| 2250| DŘ. PALUBKY| KERAM.OBKLAD/BÍLÁ MALBA| SDK PODHLED|
+|429| ŠATNA| 4,00| 2250| DŘ. PALUBKY| BÍLÁ MALBA| SDK PODHLED|
+|430| UMÝVÁRNA| 3,90| 2250| KERAM. DLAŽBA| BÍLÁ MALBA| SDK PODHLED|
+|431| WC| 2,40| 2500| KERAM. DLAŽBA| KERAM.OBKLAD/BÍLÁ MALBA| SDK PODHLED|
+|432| KANCELÁŘ| 12,30| 2730| DŘ. PALUBKY| KERAM.OBKLAD/BÍLÁ MALBA| SDK PODHLED|
+|433| KANCELÁŘ| 11,10| 2730| DŘ. PALUBKY| BÍLÁ MALBA| SDK PODHLED|
+|501| GALERIE| 11,50| 650/2480| DŘ. PALUBKY| BÍLÁ MALBA| SDK PODHLED|
+|502| SCHODIŠTĚ| 2,80| -| DŘEVO| -| SDK PODHLED|
+|503| GALERIE| 23,10| 650/2480| DŘ. PALUBKY| BÍLÁ MALBA| SDK PODHLED|
+|504| SCHODIŠTĚ| 2,20| -| DŘEVO| -| SDK PODHLED|
+|505| GALERIE| 18,40| 650/2480| DŘ. PALUBKY| BÍLÁ MALBA| SDK PODHLED|
+|506| SCHODIŠTĚ| 1,80| -| DŘEVO| -| SDK PODHLED|
+|507| GALERIE| 19,20| 650/2480| DŘ. PALUBKY| BÍLÁ MALBA| SDK PODHLED|
+|508| SCHODIŠTĚ| 1,70| -| DŘEVO| -| SDK PODHLED|
