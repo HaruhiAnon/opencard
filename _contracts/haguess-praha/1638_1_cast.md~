@@ -1,0 +1,1415 @@
+
+###OBSAH  
+1 OBECNÁ USTANOVENÍ ........................................................................................................... ..1  
+1.1 DEFINICE POJMŮ ................................................................................................................... .. 1  
+1.2 VÝKLADOVÁ PRAVIDLA ........................................................................................................ ..3  
+1.3 ÚČEL SMLOUVY .................................................................................................................... .. 3  
+2 ČINNOSTI GARANTA .............................................................................................................. ..4  
+2.1 POSKYTOVÁNÍ PODPORY SPRÁVCI ...................................................................................... ..4  
+2.2 KONTROLA VÝKONU ČINNOSTÍ PŘI ZAJIŠTĚNÍ PROVOZU PCKS ....................................... ..5  
+3 ČINNOSTI SPRÁVCE ................................................................................................................ ..5  
+3.1 ZÁSADY VÝKONU ČINNOSTÍ .................................................................................................. ..5  
+3.2 JEDNÁNÍ JMÉNEM GARANTA ................................................................................................ ..6  
+3.3 ROZVOJ PCKS ...................................................................................................................... ..7  
+3.4 ZAJIŠTĚNÍ PROVOZU SKC .................................................................................................... ..7  
+3.5 ZAJIŠTENÍ VYDÁVÁNÍ A SPRÁVY KARET ........................................................................... ..10
+3.6 PROVOZ KONTAKTNÍCH MÍST SKC ................................................................................... ..11
+3.7 PROVOZ KONTAKTNÍCH MÍST SKC NA KONTAKTNÍCH MÍSTECH KA A NA
+KONTAKTNÍCH MÍSTECH DOS ........................................................................................... ..11  
+3.8 PROVOZ KONTAKTNÍCH MÍST DOS NA KONTAKTNÍCH MÍSTECH SKC ......................... .. 12  
+3.9 INFORMAČNÍ POVINNOST SPRÁVCE ................................................................................... ..13  
+3.10 POJIŠTĚNÍ SPRÁVCE ........................................................................................................... ..13  
+3.11 DALŠÍ POVINNOSTI SPRÁVCE ............................................................................................. .. 14
+4 ODMĚNA A NÁKLADY .......................................................................................................... ..14  
+4.1 ODMĚNA ZA ZAJIŠTĚNÍ PROVOZU PCKS .......................................................................... ..14  
+4.2 NÁHRADA NÁKLADŮ VZNIKLÝCH PŘI ZAJIŠTĚNÍ PROVOZU PCKS ................................. ..14  
+5 OCHRANA DAT A OMEZENÍ UŽITÍ DAT ......................................................................... ..15  
+5.1 POVINNOST MLČENLIVOST] A OCHRANA INFORMACÍ ...................................................... .. 15  
+5.2 OCHRANA OSOBNÍCH ÚDAJŮ .............................................................................................. ..16  
+6 DUŠEVNÍ VLASTNICTVÍ ....................................................................................................... ..16    
+6.1 UŽITÍ OCHRANNÉ ZNÁMKY OPENCARD ............................................................................. ..16  
+6.2 PRÁVA K OSTATNÍM PŘEDMĚTŮM PRÁV DUŠEVNÍHO VLASTNICTVÍ ............................... ..17  
+7 PROHLÁŠENÍ A ZÁRUKY ..................................................................................................... ..17  
+7.1 PROHLÁŠENÍ A ZÁRUKY GARANTA .................................................................................... ..17  
+7.2 PROHLÁŠENÍ A ZÁRUKY SPRÁVCE ..................................................................................... ..17  
+8 ODPOVĚDNOST ...................................................................................................................... ..18   
+8.1 ODPOVĚDNOST GARANTA VŮČI SPRÁVCI ......................................................................... .. 18  
+8.2 ODPOVĚDNOST SPRÁVCE VŮČI GARANTOVI ..................................................................... ..18  
+9 SANKCE ..................................................................................................................................... ..19  
+9.1 SMLUVNÍ POKUTA ............................................................................................................... ..19  
+10 SITUACE OKAMŽITÉ REAKCE .......................................... ., .............................................. .. 20  
+10.1 ŘEŠENÍ SITUACE OKAMŽITÉ REAKCE ................................................................................ .. 20  
+11 ZMĚNY SMLOUVY ................................................................................................................. ..20  
+1 1.1 ZMĚNY SMLUVNÍCH UJEDNÁNÍ .......................................................................................... .. 20  
+11.2 ZMĚNY SMLOUVY ....................................... ..-. ..................................................................... ..21  
+11.3 ZMĚNY PODMÍNEK PVVK ................................................................................................. ..21  
+12 TRVÁNÍ A ZÁNIK SMLOUVY .............................................................................................. ..21  
+12.1 DOBA PLATNOSTI SMLOUVV .............................................................................................. .. 21  
+12.2 POSTUP PŘI REALIZACI SMLOUVY ..................................................................................... ..21  
+12.3 VÝPOVĚĎ .............................................................................................................................. .. 22  
+12.4 ODSTOUPENÍ OD SMLOUVY ................................................................................................ .. 22  
+12.5 NÁSLEDKY UKONČENÍ SMLOUVY ...................................................................................... ..23  
+13 ZMĚNA OSOBY OVLÁDAJÍCÍ SPRÁVCE ......................................................................... ..23  
+13.1 ÚMYSLNĚ VYPUŠTĚN ........................................................................................................... ..23  
+13.2 PŘEMĚNA SPRÁVCE A ZMĚNA OSOBY OVLÁDAJÍCÍ SPRÁVCE .......................................... ..23  
+14 ZÁVĚREČNÁ USTANOVENÍ ................................................................................................ ..24  
+14.1 PRÁVNÍ REŽIM ..................................................................................................................... ..24  
+14.2 ROZHODNÉ PRÁVO .............................................................................................................. ..24  
+14.3 ŘEŠENÍ SPORŮ ..................................................................................................................... ..24  
+14.4 ŮČINNOST SMLOUVV .......................................................................................................... ..24  
+14.5 ODDĚLITELNOST USTANOVENÍ .......................................................................................... ..24  
+14.6 DOHODA SMLUVNÍCH STRAN ............................................................................................. ..24  
+14.7 JEDNÁNÍ ZA SMLUVNÍ STRANY ........................................................................................... ..24  
+14.8 PÍSEMNÁ FORMA ................................................................................................................. ..24  
+14.9 OZNAMOVÁNÍ ...................................................................................................................... .. 25  
+14.10 KONTAKTY .......................................................................................................................... ..25
+14.11 POČET VYHOTOVENÍ ........................................................................................................... .. 25  
+ 
+###SEZNAM PŘÍLOH
+
+|||
+|:--:|:--:|
+|Příloha 1:|Pravidla provádění kontroly a podávání zpráv o výkonu činností při zajištění provozu PCKS|
+|Příloha 2:|Technické, bezpečnostní a časové parametry a podmínky provozu SKC a vydávání a správy Karet|
+|Příloha 3:|Podmínky provozu Kontaktních míst SKC|
+|Příloha 4:|Technický popis s definovanými parametry předávání dat mezi SKC a Kartovými aplikacemi; vymezení rozsahu předávaných dat|
+|Příloha 5:|Pravidla pro určení výše odměny a platební podmínky|
+|Příloha 6:|Vzor smlouvy o zpracování osobních údajů při provozu PCKS mezi Garantem a Správcem |
+|Příloha 7:|Podmínky poskytování součinnosti Garantem Správci|
+|Příloha 8:|Vzor smlouvy o zřízení a provozu Kontaktního místa SKC na Kontaktním místě DOS, počet a lokality Kontaktních míst SKC na Kontaktních místech DOS|
+|Příloha 9:|Vzor smlouvy o zřízení a provozu Kontaktního místa DOS na Kontaktním místě SKC|
+|Příloha 10:|Všeobecné podmínky Smlouvy o umožnění provozování kartové aplikace s využitím karty Opencard|
+|Příloha 11:|Vzor smlouvy o zpracování osobních údajů při provozu Kontaktního místa SKC mezi Garantem a Obsluhovatelem SKC|
+|Příloha 12:|Vymezení Důvěrných informací a pravidel pro zacházení s Důvěrnými informacemi|
+|Příloha 13:|Vymezení Přísně chráněných informací a pravidel pro zacházení s Přísně chráněnými informacemi|
+|Příloha 14:|Hardware a software potřebný pro provoz SKC|
+|Příloha 15:|Materiály potřebné pro provoz SKC|
+|Příloha 16:|Vzor smlouvy o zpracování osobních údajů při personalizaci Karet mezi Garantem a subjektem podílejícím se na personalizaci Karet|
+|Příloha 17:|Přehled třetích osob využívaných Správcem k výkonu činností dle této Smlouvy|
+
+
+TATO SMLOUVA o ZAJIŠTĚNÍ PROVOZU PRAŽSKÉHO CENTRA KARTOVÝCH SLUŽEB (dále jen **„Smlouva“**) se uzavírá
+
+MEZI:
+
+(1) **Hlavní město Praha**, se sídlem na adrese Mariánské nám. 2/2, Praha 1, PSČ 110 00, IČ: 00064581 (dále jen **„Garant”**) a
+
+(2) **HAGUESS, a.s.**, se sídlem na adrese Na Michovkách I. 686, Průhonice, okres Praha-západ, PSČ 252 43, IČ: 25085166, zapsaná v obchodním rejstříku vedeném Městským soudem v Praze, oddíl
+
+B, vložka č. 11127 (dále jen **„Správce”**)
+
+(společně dále jen **„Smluvní strany“** nebo též jednotlivě jen **„Smluvní strana“**)
+
+VZHLEDEM K TOMU, ŽE:
+
+(A) Podle záměru Garanta bude systém Pražského centra kartových služeb provozován jménem a na účet Garanta subjektem odlišným od Garanta;
+
+(B) Správce je schopen provoz systému Pražského centra kartových služeb zajistit a souhlasí s tím,
+aby byl touto činností pověřen; a
+
+(C) Garant souhlasí s tím, aby Správce zajišťoval provoz systému Pražského centra kartových
+služeb; 
+
+GARANT A SPRÁVCE SE TÍMTO DOHODLI na následující Smlouvě.
+
+ ---
+
+ 
+
+## 1. OBECNÁ USTANOVENÍ
+
+###1.1 DEFINICE POJMŮ
+
+Následující pojmy používané ve Smlouvě s velkými počátečními písmeny budou mít k nim
+přiřazený následující význam, pokud ze Smlouvy nebo zjejího kontextu nevyplývá něco jiného:
+
+1.1.1 **„Anonymní Karta“** je Karta, u které SKC nemá záznam o tom, kdo je jejím Držitelem.
+
+1.1.2 **„Blacklist“** znamená seznam blokovaných či zrušených Karet vydávaný SKC, přičemž tento seznam může být strukturovaný a vztahovat se na PCKS jako celek, na vybrané Kartové aplikace nebo na jednotlivou Kartovou aplikaci.
+
+1.1.3 **„Blokace“** znamená zařazení Karty na Blacklist na základě úkonu SKC.
+
+1.1.4 **„CLN“** znamená jedinečný číselný identifikátor, tzv. logické číslo Kvarty čili Card Logical Number, který obsahuje identifikátor vydavatele v souladu s normou CSN ISO/IEC 7816.
+
+1.1.5 **„Držitel“ **znamená fyzickou osobu, pro kterou byla Karta Personalizována nebo která oprávněně drží Anonymní Kartu, která není Personalizována. Držitel Karty může být osoba odlišná od Majitele.
+
+1.1.6 **Důvěrné informace** znamená informace vymezené v Příloze 12.
+
+1.1.7 **„Garant“** znamená hlavní město Prahu jako Smluvní stranu této Smlouvy.
+
+1.1.8 **„Interface SKC“ **je komunikační rozhraní, které slouží Kartovým aplikacím pro potřebnou výměnu dat a využívání funkcí SKC.
+
+1.1.9 **„Karta“** znamená multifunkční čipovou kartu Opencard vydávanou SKC nebo jinou osobou se souhlasem Garanta pro použití v rámci PCKS. Karta je vždy ve vlastnictví Garanta. Karta může být vydána jako Osobní Karta nebo jako Anonymní Karta.
+
+1.1.10 **„Kartová aplikace“** znamená soubor softwarových, hardwarových, personálních a dalších hmotných a nehmotných prostředků existující v rámci PCKS a umožňující s využitím Karet přístup ke službám poskytovaným Provozovatelem, popř. jiným subjektem na základě zvláštní smlouvy s Provozovatelem.
+
+1.1.11 **„Kartová aplikace DOS“** je Kartová aplikace Dopravní odbavovací systém provozovaná Provozovatelem DOS, která umožňuje elektronické odbavení Držitelů ve veřejné hromadné dopravě pro celý systém Pražské integrované dopravy a zajišťuje Držitelům s využitím Karet přístup k přepravním službám poskytovaným Provozovatelem DOS a dalšími dopravci účastnícími se systému Pražské integrované dopravy.
+
+1.1.12 **„Kontaktní místo DOS“** znamená kontaktní místo Kartové aplikace DOS provozované  Provozovatelem DOS nebo jiným subjektem pověřeným Provozovatelem DOS, které provádí vybrané činnosti umožňující Držitelům využívání Kartové aplikace DOS a kde dochází k osobnímu kontaktu s veřejností.
+
+1.1.13 **„Kontaktní místo KA“** znamená kontaktní místo konkrétní Kartové aplikace provozované Provozovatelem této Kartové aplikace nebo jiným subjektem pověřeným tímto Provozovatelem, které provádí vybrané činnosti umožňující Držitelům využívání Kartové aplikace a kde dochází k osobnímu kontaktu s veřejností.
+
+1.1.14 **„Kontaktní místo SKC“** znamená kontaktní místo obsluhované pracovníky Garanta nebo Správce nebo jinými Garantem nebo Správcem pověřenými osobami, které provádí vybrané činnosti SKC v souvislosti s vydáváním, správou, provozem a údržbou Karet a kde dochází
+k osobnímu kontaktu s veřejností.
+
+1.1.15 **„Majitel“** znamená fyzickou nebo právnickou osobu, která je podle záznamů vedených
+SKC oprávněna rozhodnout, pro které Kartové aplikace bude na Kartě provedeno Vyhrazení
+datového prostoru, žádat Vyhrazení datového prostoru, Blokaci nebo zrušení Karty. Držitel
+a Majitel konkrétní Karty mohou být rozdílné osoby.
+
+1.1.16 **„Materiály“** znamená žádosti, formuláře, informační brožury a jiné materiály potřebné pro
+výkon činností SKC. Vlastníkem Materiálů je Garant.
+
+1.1.17 **„Médium“** znamená typ karty, která má softwarové a hardwarové vybavení zahrnující
+kontaktní nebo kontaktní a bezkontaktní čip a která svým Držitelům umožňuje přístup ke
+Kartovým aplikacím, které byly na konkrétní Kartě aktivovány.
+
+1.1.18 **„Obsluhovatel DOS“** znamená subjekt odlišný od Provozovatele DOS, který na základě
+zvláštní smlouvy s Provozovatelem DOS provozuje Kontaktní místo DOS. Za
+Obsluhovatele DOS se nepovažuje Správce ani Obsluhovatel SKC, který s Provozovatelem
+DOS uzavřel smlouvu 0 zřízení a provozu Kontaktního místa DOS na Kontaktním místě
+SKC.
+
+1.1.19 **„Obsluhovatel SKC“** znamená subjekt odlišný od Správce, který na základě zvláštní
+smlouvy se Správcem provozuje Kontaktní místo SKC. Za Obsluhovatele SKC se
+nepovažuje Provozovatel DOS ani Obsluhovatel DOS, který se Správcem uzavřel smlouvu
+o zřízení a provozu Kontaktního místa SKC na Kontaktním místě DOS.
+
+1.1.20 **„Opencard“** je ochranná známka hlavního města Prahy „Opencard“ registrovaná Úřadem průmyslového vlastnictví, č. zápisu: 289392, druh: slovní grafická, používaná mimo jiné pro
+označení systému služeb, jejichž využívání je spojeno s multifunkční čipovou kartou
+v rámci PCKS.
+
+1.1.21 **„Osobní Karta“** je Karta, u které SKC vede záznam o tom, kdo je jejím Držitelem. Osobní
+Karta je Personalizována.
+
+1.1.22 **„PCKS“** znamená Pražské centrum kartových služeb jako systém přístupu ke službám prostřednictvím Karet, který sestává z SKC a Kartových aplikací. PCKS jako celek, nikoli však jednotlivé Kartové aplikace, je provozováno Garantem a jeho správu a provoz zajišťuje
+Správce na základě této Smlouvy.
+
+1.1.23 **„Personalizace“** znamená opatření Karty identifikačními prvky vztahujícími se ke
+konkrétnímu Držiteli.
+
+1.1.24 **„Podmínky PVVK“** jsou podmínky pro vydávání a využívání Karty, které jsou závazné pro
+žadatele o vydání Karty a Držitelé.
+
+1.1.25 **„Pracovní den“** znamená každý den mimo soboty, neděle, státních svátků a ostatních svátků ve smyslu zákona č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu, ve znění pozdějších předpisů. Pojem „pracovní den“ ve výše uvedeném významu může být v textu Smlouvy používán i s malým počátečním písmenem.
+
+1.1.26 **„Provozní řád SKC“** je soubor pravidel vydaných Správcem, která jsou závazná pro zaměstnance Správce při provozu SKC.
+
+1.1.27 **„Provozovatel“** znamená právní subjekt, který provozuje Kartovou aplikaci.
+
+1.1.28 **„Provozovatel DOS“** je Dopravní podnik hl. m. Prahy, akciová společnost, který provozuje
+Kartovou aplikaci DOS.
+
+1.1.29 **„Příloha“** znamená přílohu této Smlouvy uvedenou v seznamu Příloh. Přílohy jsou
+nedílnou součástí této Smlouvy a jejich obsah je pro Smluvní strany závazný.
+
+1.1.30 **„Přísně chráněné informace“** znamená informace vymezené v Příloze 13.
+
+1.1.31 **„Situace okamžité reakce“** znamená situaci vzniklou v souvislosti s PCKS, která může mít
+závažný dopad na Garanta, Správce nebo Provozovatele, popřípadě na jiné subjekty
+účastnící se systému PCKS, zejména ohrožení bezpečnosti či technické integrity systému
+PCKS nebo jeho součásti, dat či informací uložených v systému PCKS, zejména osobních
+údajů, ohrožení provozuschopnosti či funkcí systému PCKS, popřípadě i finančních
+transakcí a bezpečnosti některé Kartové aplikace, a která vyžaduje okamžitou reakci
+Garanta nebo Správce a/nebo jiných subjektů pro předejití možné škodě či nehmotné újmě
+nebo jejich minimalizaci.
+
+1.1.32 **„SKC“** znamená Servisní kartové centrum, které představuje soubor technických,
+personálních a dalších hmotných a nehmotných prostředků, jež slouží v rámci PCKS k vydávání, správě, provozu a údržbě Karet a k interakci s jednotlivýmí Kartovými aplikacemi. SKC je majetkem Garanta a jeho správu a provoz zajišťuje Správce v rámci provozu PCKS podle této Smlouvy.
+
+1.1.33 **„Správce“** znamená právní subjekt, který je Garantem podle této Smlouvy pověřen správou
+a provozem SKC a PCKS jako celkového systému.
+
+1.1.34 **„Vyhrazení datového prostoru“** znamená vyhrazení datového prostoru pro konkrétní Kartovou aplikaci v paměti čipu Karty provedené SKC nebo osobou pověřenou tuto činnost vykonat za SKC, které umožní zapisování dat této Kartové aplikace do čipu Karty a využívání Karty v této Kartové aplikaci.
+
+1.1.35 **„Vymazání Kartové aplikace“** znamená vymazání Kartové aplikace a veškerých dat
+zapsaných na Kartu pro příslušnou Kartovou aplikaci z datového prostoru Karty provedené
+SKC.
+
+1.1.36 **„Web Opencard“** znamená webové stránky provozované Garantem, které umožňují Držitelům a Majitelům dálkový přístup k informacím o Kartě a případně o jednotlivých Kartových aplikacích a provádění úkonů souvisejících s Kartou a případně s jednotlivými Kartovými aplikacemi prostřednictvím dálkového přístupu.
+
+1.1.37 **„ZOOÚ“** znamená zákon č. 101/2000 Sb., o ochraně osobních údajů, ve znění pozdějších předpisů, popřípadě obecně závazný právní předpis, kterým může být tento zákon v budoucnu nahrazen.
+
+###1.2 VÝKLADOVÁ PRAVIDLA
+
+1.2.1 *Odkazy ve Smlouvě*. Kde se v této Smlouvě odkazuje na kapitoly, články, odstavce či jinak pojmenovaná ustanovení nebo na Přílohy bez další specifikace, rozumí se tím ustanovení a Přílohy této Smlouvy.
+
+###1.3 ÚČEL SMLOUVY
+1.3.1 *Účel Smlouvy*. Správce se zavazuje provozovat jménem a na účet Garanta, pokud v této Smlouvě není v konkrétních případech stanoveno jinak, systém PCKS jako celek, včetně SKC. Správce bude při provozu PCKS postupovat samostatně a nemůže se zprostit, pokud v této Smlouvě není výslovně uvedeno jinak, své povinnosti či odpovědnosti tím, že od Garanta neobdrží k provedení určitého úkonu či vykonání určité činnosti pokyn. Správce
+bude provozovat PCKS s ohledem na zájmy Garanta a jejich ochranu a vedle činností
+výslovně uvedených v této Smlouvě bude vykonávat i veškeré další činnosti, které budou
+nutné či vhodné pro efektivní provoz systému PCKS.
+
+##2 ČINNOSTI GARANTA
+
+###2.1 POSKYTOVÁNÍ PODPORY SPRÁVC]
+
+2.1.1 *Závazek součinnosti.* Garant je v souladu s Přílohou 7 povinen poskytnout Správci za účelem zajištění provozu PCKS podle této Smlouvy potřebnou součinnost a informace a
+zpřístupnit mu potřebné údaje a technické Specifikace, pokud tyto nejsou Správci známy
+nebo nejsou vytvořeny jeho činností. Garant se zavazuje, že Správci poskytne technické a
+další prostředky, které jsou nezbytné pro poskytování služeb na základě této Smlouvy, a to v
+rozsahu, který je určen touto Smlouvou a jejími přílohami. Součinnost Garanta bude dále
+zahrnovat:
+
+(i) poskytnutí veškerých informaci týkajících se očekávaných změn zejména
+legislativního charakteru, které by mohly mít dopad na poskytování služeb,
+
+(ii) další součinnost, na které se Garant a Správce dohodnou.
+
+2.1.2 *Zpřístupňování smluv.* Garant bude Správci zpřístupňovat návrhy smluv o umožnění
+provozování kartové aplikace s využitím karty Opencard, které mají být uzavřeny mezi
+Garantem a jednotlivými Provozovateli, zasláním písemného vyhotovení návrhu uvedené
+smlouvy doporučenou poštou Správci v dostatečném předstihu před uzavřením smlouvy.
+Správce může do 15 dnů ode dne doručení návrhu smlouvy doručit Garantovi své písemné
+odůvodněné připomínky k návrhu smlouvy. Pokud tak Správce neučiní, platí, že
+s navrženým zněním smlouvy souhlasí a bude se řídit jejím obsahem v rozsahu, který
+z příslušné smlouvy pro Správce vyplývá. Pokud Správce řádně a včas své připomínky
+Garantovi doručí, je Garant povinen připomínky Správce přezkoumat a se Správcem
+projednat. Garant bude dále Správci zpřístupňovat platná a účinná znění smluv o umožnění
+provozování kartové aplikace s využitím karty Opencard uzavřených mezi Garantem a
+jednotlivými Provozovateli. Kopie všeobecných podmínek pro smlouvy s Provozovateli je
+součástí Přílohy 10. Stejnopis zvláštních podmínek smlouvy uzavřené s konkrétním
+Provozovatelem a jakékoli dodatky ktakové smlouvě bude Garant zasílat Správci
+doporučenou poštou do 5 dnů ode dne podpisu Garantem a příslušným Provozovatelem.
+Správce je povinen seznámit se se zněním smlouvy uzavřené mezi Garantem a
+Provozovatelem bez zbytečného odkladu pote', co je mu doručena, vždy však tak, aby mohl
+řádně a včas vykonávat činnosti, které pro něj z příslušné smlouvy vyplývají.
+
+2.1.3 *Hardware a software.* Garant Správci předá nebo zajistí předání hardwaru a softwaru
+uvedeného v Příloze l4 do 30 dnů od podpisu této Smlouvy oběma Smluvními stranami.
+Vlastníkem hardwaru i softwaru je Garant v souladu s licenčními podmínkami, které se k
+předmětnému hardware a software vztahují. Správce je povinen učinit potřebná opatření
+k zabezpečení předaného hardwaru a softwaru proti poškození, krádeži a neodbornému
+zacházení. Hardware a software bude Správci předán na adrese pro doručování Správci
+určené na základě článku 14.9, nedohodnou~li se Smluvní strany jinak. Správce je oprávněn
+tento hardware a software použít výhradně pro účely zajištění provozu PCKS, přičemž bude
+respektovat případná omezení, která vyplývají z licenčních podmínek jejich užívání pro
+Garanta. O předání hardwaru či softwaru bude vždy sepsán předávací protokol.
+
+ 
+
+2.1.4 *Materiály.* Garant zajistí předávání Materiálů uvedených v Příloze 15 Správci; podobu těchto Materiálů určí Garant po projednání se Správcem. Správce je povinen Garanta písemně informovat o potřebě konkrétního počtu konkrétních Materiálů nezbytných pro účely řádného provozu PCKS. Datum a misto pro předání a převzetí Materiálů bude Správci
+písemně oznamováno Garantem nejméně 7 pracovních dnů předem, pokud nebude mezi
+Smluvními stranami sjednáno jinak. Správce je po převzetí Materiálů povinen zajistit jejich distribuci a využití v rámci provozu PCKS.
+
+###2.2 KONTROLA VÝKONU ČINNOSTÍ PŘI ZAJIŠTĚNÍ PROVOZU PCKS
+
+2.2.1 *Právo kontroly.* Garant je oprávněn provádět kontrolu plnění povinností Správce či osob
+pověřených Správcem výkonem určitých činností podle této Smlouvy. Správce je povinen
+za účelem provedení kontroly umožnit Garantovi vstup na jakékoli pracoviště Správce či
+zajistit Garantovi vstup na jakékoli pracoviště třetí osoby, na kterých jsou vykonávány
+činnosti související splněním povinností Správce podle této Smlouvy. Správce je dále
+povinen Garantovi zpřístupnit veškeré dokumenty vedené Správcem v souvislosti s plněním
+povinností Správce podle této Smlouvy, popřípadě zajistit zpřístupnění takových dokumentů
+vedených třetí osobou, zejména je povinen umožnit Garantovi kontrolu evidence vedené
+podle odstavců 3.4.5 a 3.4.7. Garant nebude kontrolu podle tohoto odstavce provádět
+zpravidla častěji než jednou za kalendářní měsíc a musí Správci předem oznámit datum
+kontroly v předstihu alespoň 2 pracovních dnů. Další podmínky provádění kontroly podle
+tohoto odstavce jsou upraveny v Příloze 1.
+
+2.2.2 *Odstranění vad plnění.* Jestliže Garant v rámci kontroly prováděné podle odstavce 2.2.1 nebo jiným způsobem zjistí, že Správce neplní své povinnosti podle této Smlouvy řádně a
+včas, písemnou výzvou adresovanou Správci jej Garant vyzve k odstranění takových vad
+plnění. Garant je povinen vtéto výzvě vady plnění specifikovat vpotřebném rozsahu a
+stanovit Správci přiměřenou lhůtu kjejich odstranění. Pokud Správce výše uvedené vady,
+které mu byly Garantem vytknuty v souladu s tímto odstavcem, neodstraní ani v přiměřené
+lhůtě Garantem poskytnuté, je Garant oprávněn tuto Smlouvu vypovědět postupem podle
+odstavce 12.3.1. Toto ustanovení není na újmu jiných práv Garanta vyplývajících z porušení
+povinností Správce.
+
+##3 ČINNOSTI SPRÁVCE
+
+###3.1 ZÁSADY VÝKONU ČINNOSTÍ
+
+3.1.1 *Zásady výkonu činností.* Správce je povinen vykonávat činnosti, práva a povinnosti dle této
+Smlouvy poctivě, s odbornou péčí a postupovat vždy v zájmu Garanta a v souladu s jeho pokyny. Od pokynů Garanta se Správce může odchýlit pouze v případě, je-li to nezbytné v zájmu Garanta a Správce není schopen si včas zajistit souhlas Garanta; v takovém případě je Správce povinen Garanta o nedodržení pokynů neprodleně písemně informovat. Správce je povinen řádně a včas vykonávat činnosti, práva a povinnosti uvedené v Podmínkách PVVK a ve smlouvách o umožnění provozování kartové aplikace s využitím karty opencard, které mu byly Garantem zpřístupněny podle odstavce 2.1.2.
+
+3.1.2 *Oznamovací povinnost.* Správce je povinen Garantovi neprodleně oznámit veškeré skutečnosti, které se dozví a které by mohly mít vliv na pokyny Garanta. Správce je dále
+povinen Garanta neprodleně písemně upozornit na nesprávnost nebo nevhodnost pokynu
+uděleného Správci; pokud hrozí nebezpečí z prodlení, je Správce povinen Garanta
+informovat též telefonicky.
+
+3.2.3 *Povinnost jednat osobně.* Správce je povinen vykonávat činnosti uvedené ve Smlouvě osobně. S předchozím písemným souhlasem Garanta je Správce oprávněn k částem plnění předmětu této smlouvy použít třetí strany (subdodavatele). V takovém případě Správce:
+
+**a**) předem Garantovi sdělí identifikační údaje každého subdodavatele, jeho kvalifikaci a
+jeho úkoly, které mu mají být svěřeny. Po obdržení všech relevantních informací
+Garant do 7 pracovních dnů sdělí Správci, zda s výběrem subdodavatele souhlasí,přičemž souhlas nebude bezdůvodně odepřen.
+
+**b**) odpovídá Garantovi za příslušnou část plnění a dodržování všech závazků uvedených v této smlouvě ze strany subdodavatele stejně, jako kdyby příslušnou část plnění zajišťoval sám.
+
+Subdodavatelé nebudou oprávnění činit jménem Garanta jakékoli právní úkony, ledaže by k tomu Garant předem poskytl písemný výslovný souhlas; udělení souhlasu může být Garantem odepřeno i bez uvedení důvodu.
+
+3.1.4 *Udělení povolení využití třetích osob.* Garant uděluje Správci výslovný souhlas s využitím
+třetích osob uvedených v Příloze 17 pro účely uvedené v této Příloze.
+
+###3.2 JEDNÁNÍ JMÉNEM GARANTA
+
+3.2.1 *Jednání jménem Garanta.* Garant tímto zmocňuje Správce a Správce se zavazuje s odbornou
+péčí a v souladu se zájmy a pokyny Garanta jménem a na účet Garanta provádět činnosti a
+činit právní úkony v případech uvedených níže v tomto článku a za podmínek uvedených
+v této Smlouvě. Současně s podpisem této Smlouvy Garant vydá Správci příslušné plné
+moci, kterými bude Správce prokazovat své zmocnění činit právní úkony jménem Garanta v uvedených záležitostech vůči třetím osobám. Garant je oprávněn udělit Správci další písemné pokyny týkající se jednání jménem Garanta podle tohoto článku, které bude
+Správce respektovat, pokud takové pokyny nejsou v rozporu se závazky Správce podle této Smlouvy.
+
+3.2.2 *Jednání v souvislostí se smlouvami o vydání a využívání Karty.* Správce bude jménem
+Garanta uzavírat smlouvy o vydání a využívání Karty s jednotlivými žadateli o vydání Karty
+a provádět činnosti, včetně přijímání souhlasů se zpracováním osobních údajů a poskytování
+informací 'a poučení o zpracování osobních údajů, a činit právní úkony vůči žadatelům o
+vydání Karty, Držitelům či Majítelům související se smlouvami o vydání a využívání Karty.
+Správce bude provádět výše uvedené činnosti a právní úkony ve všech případech
+stanovených v Podmínkách PVVK a v případech, kde tak stanoví tato Smlouva, zejména,
+nikoli však výlučně, odstavec 3.4.3, nebo je-li to nezbytné pro zajištění provozu PCKS
+podle této Smlouvy nebo pro ochranu práv a právem chráněných zájmů Garanta.
+
+3.2.3 *Jednání v souvislosti se smlouvami o zpracování osobních údajů při provozu Kontaktních míst SKC.* Správce bude jménem Garanta uzavírat smlouvy o zpracování osobních údajů při
+provozu Kontaktních míst SKC s Obsluhovateli SKC, se kterými uzavře vlastním jménem
+smlouvu o zřízení a provozu Kontaktního místa SKC. Správce bude provádět činnosti a činit
+právní úkony vůči Obsluhovatelům SKC související s těmito smlouvami a vykonávat práva
+a povinnosti Garanta podle těchto smluv v rozsahu vymezeném v konkrétních uzavřených
+smlouvách. Správce bude provádět uvedené činnosti a právní úkony ve všech případech,
+kdy z uvedené smlouvy nebo z této Smlouvy vyplývá, že Správce má za daných okolností
+jednat jménem Garanta, popřípadě i vjiných případech, kdy je to nezbytné pro zajištění
+provozu PCKS nebo Kontaktního místa SKC provozovaného příslušným Obsluhovatelem
+SKC nebo pro ochranu práv a právem chráněných zájmů Garanta. Vzor smlouvy o
+zpracování osobních údajů, kterou bude Správce jménem Garanta uzavírat s Obsluhovateli
+SKC je uvedena v Příloze ll; konkrétní uzavřená smlouva bude ve všech podstatných
+ohledech odpovídat tomuto vzoru, ledaže se Správce a příslušný Obsluhovatel SKC
+s předchozím písemným souhlasem Garanta dohodnou jinak. Způsobem uvedeným v tomto
+odstavci bude Správce postupovat rovněž vůči Provozovateli DOS nebo Obsluhovatelům
+DOS, pokud sněkterým znich uzavře vlastním jménem smlouvu o zřízení a provozu
+Kontaktního místa SKC.
+
+3.2.4 *Jednání v souvislosti se smlouvami o umožnění provozování kartové aplikace s využitím karty Opencard.* Správce bude jménem Garanta provádět činnosti a činit právní úkony vůči
+Provozovatelům v rozsahu uvedeném ve smlouvách o umožnění provozování kartové 
+aplikace s využitím karty Opencard, které Garant s jednotlivými Provozovateli uzavře,
+ledaže z konkrétní smlouvy vyplývá, že určité činnosti nebo právní úkony bude provádět
+výhradně Garant. Jestliže zkonkrétní smlouvy vyplývá, že určité činnosti nebo právní
+úkony bude Správce provádět pouze s předchozím souhlasem Garanta, je Správce povinen
+si před provedením takové činnosti nebo právního úkonu souhlas Garanta opatřit. Správce
+bude provádět rovněž činnosti a právní úkony v konkrétní smlouvě výslovně neuvedené,
+pokud je to potřebné k výkonu práv či povinností Garanta podle příslušné smlouvy. Výše
+uvedené Činnosti a právní úkony bude Správce provádět za podmínek uvedených v příslušné
+ smlouvě.
+
+3.2.5 *Jednání v souvislosti se smlouvami 0 zpracování osobních údajů při Personalizaci Karet.*
+Správce bude jménem Garanta uzavírat smlouvy 0 zpracování osobních údajů při
+Personalizaci Karet se subjekty podílejícími se na Personalizaci Karet a provádět činnosti a
+činit právní úkony vůči těmto subjektům související s těmito smlouvami a vykonávat práva
+a povinnosti Garanta podle těchto smluv v rozsahu vymezeném v konkrétních uzavřených
+smlouvách. Správce uzavře uvedenou smlouvu o zpracování osobních údajů s každým
+subjektem, se kterým uzavře vlastním jménem smlouvu 0 provedení úkonů souvisejících
+s Personalizací Karet. Správce bude provádět uvedené činnosti a právní úkony ve všech
+ případech, kdy z uvedené smlouvy nebo z této Smlouvy vyplývá, že Správce má za daných
+ okolností jednat jménem Garanta, popřípadě i v jiných případech, kdy je to nezbytné pro zajištění Personalizace Karet nebo pro ochranu práv a právem chráněných zájmů Garanta. 
+Vzor smlouvy o zpracování osobních údajů, kterou bude Správce jménem Garanta uzavírat
+se subjekty podílejícími se na Personalizaci Karet je uvedena v Příloze 16; konkrétní uzavřená smlouva bude ve všech podstatných ohledech odpovídat tomuto vzoru, ledaže se Správce a příslušný subjekt podílející se na Personalizaci Karet s předchozím písemným  souhlasem Garanta dohodnou jinak.
+
+3.2.6 *Jednání vlastním jménem Správce.* Pokud Správce nejedná jménem a na účet Garanta podle této Smlouvy nebo na základě zvláštní plné moci udělené Garantem, jedná výhradně 
+i vlastním jménem a na vlastní účet. V takových případech Správce jedná samostatně a je
+ plně odpovědný za své jednání. V souvislosti s uzavíráním a plněním smluv 0 provozu
+Kontaktních míst SKC s Obsluhovateli SKC a smluv o provedení úkonů souvisejících 
+s Personalizací Karet se subjekty podílejícími se na Personalizaci Karet jedná Správce 
+vlastním jménem a na vlastní účet v rámci plnění svých povinností při provozu PCKS podle 
+této Smlouvy. V souvislosti s uzavíráním a plněním smluv o provozu Kontaktních míst SKC na Kontaktních místech KA a smluv o provozu Kontaktních míst DOS na Kontaktních
+místech SKC jedná Správce vlastním jménem a na vlastní účet v rámci plnění svých
+povinností při provozu PCKS podle této Smlouvy.
+
+###3.3 ROZVOJ PCKS
+
+3.3.1 *Závazek rozvíjet PCKS.* Správce bude předkládat Garantovi písemné návrhy na rozvoj
+ PCKS a zvyšování technických, bezpečnostních a časových parametrů provozu PCKS
+ v souladu s úrovní vývoje informačních a jiných technologií a standardem fungování SKC
+za účelem zlepšení fungování PCKS, jeho zabezpečení a zvýšení uživatelského komfortu
+ pro Držitelé. Správce není oprávněn realizovat bez písemného souhlasu Garanta ty návrhy na rozvoj PCKS, které by měly za následek vznik finančních závazků na straně Garanta; v případě porušení této povinnosti je Správce povinen tyto finanční závazky splnit za
+Garanta.
+
+###3.4 ZAJIŠTĚNÍ PROVOZU SKC
+
+3.4.1 *Provoz SKC.* Správce zajistí provoz SKC po celou dobu účinnosti této Smlouvy za
+podmínek dohodnutých v této Smlouvě a v souladu s Podmínkami PVVK, a to minimálně
+v rozsahu technických, bezpečnostních a časových parametrů stanovených touto Smlouvou,
+zejména Přílohou 2. Kde jsou vtéto Smlouvě zmiňovány činnosti SKC, rozumí se tím
+činnosti, které je Správce povinen zajistit podle této Smlouvy. Správce však bude vykonávat
+i činnosti v této Smlouvě výslovně neuvedené, pokud budou potřebné k zajištění provozu
+PCKS či SKC podle této Smlouvy a pokud tato Smlouva výslovně nestanoví jinak. Správce
+předloží Garantovi doklad prokazující oprávnění Správce užívat nebytové prostory, ve
+kterých Správce provozuje centrální pracoviště SKC, a to do 15 dnů od uzavření této
+Smlouvy nebo, při změně nebytových prostor, nejpozději 15 dnů před zahájením provozu
+centrálního pracoviště SKC v příslušných nebytových prostorech.
+
+3.4.2 *Provoz záložního systému SKC.* Správce zajistí provoz záložního systému SKC za účelem
+zajištění nepřerušeného provozu SKC v případě plánovaného i neplánovaného výpadku
+v systému SKC, a to v rozsahu technických, bezpečnostních a časových parametrů
+stanovených touto Smlouvou, zejména Přílohou 2, a na místě fyzicky odděleném od místa
+provozu SKC uvedeném v Příloze 2. Správce bude pro provoz záložního systému SKC
+používat vlastní hardware a software. Správce* předloží Garantovi doklad prokazující
+oprávnění Správce užívat nebytové prostory, ve kterých Správce provozuje záložní systém
+SKC, a to do 15 dnů od uzavření této Smlouvy nebo, při změně nebytových prostor,
+nejpozději 15 dnů před zahájením provozu záložního systému SKC v příslušných
+nebytových prostorech.
+
+3.4.3 *Základní činnosti SKC*. V rámci provozu SKC Správce zajistí nejméně následující základní
+činnosti:
+
+ 
+
+(a) udržování Kontaktních mist SKC pro styk s veřejností v minimálním rozsahu
+uvedeném v Příloze 3,
+
+(b) vydávání a Personalizace Karet,
+
+(c) předávání Osobních Karet jednotlivým žadatelům o vydání Osobní Karty a distribuce
+Anonymních Karet prostřednictvím všech Kontaktních míst SKC provozovaných
+Správcem,
+
+(d) Vyhrazení datového prostoru na Kartě,
+
+(e) vedeni evidence žadatelů 0 vydání Osobní Karty, Držitelů Osobních Karet, Majitelů a
+zákonných zástupců těchto osob, přičemž osobní údaje uvedených osob budou
+v evidenci vedeny pouze v rozsahu nezbytném pro provoz SKC po dobu platnosti
+Karty a dále po dobu do konce pátého kalendářního roku následujícího po roce, v němž
+skončila platnost Karty. Minimální rozsah údajů vedených SKC je stanoven v Příloze
+2. Doba vedení údajů v evidenci může být jednostranně upravena Garantem, pokud to
+bude nezbytné pro vyhovění požadavkům obecně závazných právních předpisů na
+ochranu osobních údajů,
+
+(f) změny údajů o žadatelích 0 vydání Osobní Karty, Držitelích Osobních Karet,
+Majitelích a zákonných zástupcích těchto osob vedených v databázích SKC, pokud
+uvedené osoby takovou změnu SKC nahlásí,
+
+(g) vedeni evidence vydaných Karet a základních údajů o nich, včetně stavu Karty,
+
+(h) vedení evidence Kartových aplikaci zapojených do PCKS a jejich Provozovatelů,
+včetně osob oprávněných jednat za Provozovatele,
+
+(i) vytváření Blacklistu a jeho zpřístupňování Provozovatelům, kterým právo na
+zpřístupnění Blacklistu vzniklo podle smlouvy o umožnění provozování kartové
+aplikace s využitím karty Opencard uzavřené s Garantem,
+
+(j) zamezení akceptace Karet uvedených na Blacklistu v rámci SKC,
+
+(k) umožnění akceptace Karet neuvedených na Blacklistu v rámci SKC,
+
+(l) vyřizování reklamací Karet,
+
+(m) rušení Karet na žádost Držitele nebo Majitele či vjiných případech vsouladu se
+Smlouvou nebo Podminkami PWK.
+
+3.4.4 *Zajištění Materiálů a provoz uživatelské telefonní linky.* Správce postupem podle odstavce
+2.1.4 zajistí, aby na každém Kontaktním místě SKC byly veřejnosti k dispozici
+v dostatečném počtu Materiály uvedené v Příloze 15 a aby na Kontaktních místech SKC
+byly poskytovány informace a poradenství o systému PCKS. Správce dále zajistí provoz
+uživatelské telefonní linky zpoplatněné běžným tarifem, tj. která není Zpoplatněná nad
+běžný tarif hrazený volajícím, za účelem přijímání žádostí Držitelů o blokování Karty a
+provádění dalších úkonů SKC ve vztahu ke Kartě podle Podmínek PVVK,
+
+3.4.5 *Vybírání poplatků.* Správce je oprávněn a povinen v souvislosti s provozem PCKS vlastním
+jménem a na vlastní účet vybírat od žadatelů o vydání Osobní Karty, resp. zájemců o
+Anonymní Kartu a Držitelů poplatky. Zpoplatněná činnost a výše poplatků bude Správci
+písemně oznámena Garantem po projednání se Správcem a Správce je povinen tyto
+skutečnosti promítnout v ceníku vydávaném podle Podmínek PVVK s účinností od l. dne
+následujícího kalendářního měsíce. Změna ceníku vydaného podle Podmínek PVVK ajeho
+přesné znění podléhá vždy předchozímu písemnému odsouhlasení ze strany Garanta.
+Poplatky jsou příjmem Správce a Správce je oprávněn je použít výhradně na úhradu nákladů
+vzniklých při zpoplatněných činnostech. Správce je povinen vést o poplatcích vybraných
+podle tohoto odstavce oddělenou evidenci. Správce je dále povinen předložit Garantovi
+spolu s měsíčními zprávami o činnosti Správce podle odstavce 3.9.1 vyúčtování poplatků
+vybraných za předchozí kalendářní měsíc a doklady prokazující uskutečnění transakcí, které
+jsou ve Vyúčtování uvedeny; současně Garantovi předá písemné čestné prohlášení
+podepsané osobou oprávněnou jednat jménem Správce, ve kterém bude uvedeno, že
+poskytnuté vyúčtování je úplné a pravdivé a v plném rozsahu odpovídá údajům vedeným
+v účetnictví Správce. Vyúčtování je Správcem Garantovi předkládáno za účelem stanovení
+činností, které budou zpoplatněny, a určení výše poplatků Garantem; pro odstranění
+pochybností platí, že výše poplatků za zpoplatněné Činnosti je určována za účelem pokrytí
+nákladů prokazatelně vynaložených Správcem na zajištění těchto činností, tj. nikoli za
+účelem dosažení zisku.
+
+3.4.6 *Vyřizování reklamací.* Správce bude vyřizovat veškeré reklamace uplatněné třetími osobami
+v souvislosti s plněními poskytovanými Správcem podle této Smlouvy.
+
+ 
+
+3.4.7 *Vyplácení peněžních prostředků.* Jestliže bude Správce podle této Smlouvy, Podmínek
+PVVK, popřípadě podle jiného dokumentu upravujícího smluvní vztah o vydání a využívání
+Karty mezi Garantem a Držitelem, resp. žadatelem o vydání Karty, či Majitelem povinen '
+vyplatit peněžní prostředky Držiteli, resp. žadateli o vydání Karty, či Majiteli, učiní tak
+výhradně z vlastních finančních zdrojů, nikoli z prostředků Garanta. Pro odstranění
+pochybností platí, že vyplacení peněžních prostředků podle tohoto odstavce Smlouvy se
+nevztahuje na vyplacení peněžních prostředků, které mají provést Provozovatelé Kartových
+aplikací. Správce je povinen vést o peněžních prostředcích vyplacených podle tohoto
+odstavce oddělenou evidenci. Správce je dále povinen předložit Garantovi spolu s
+měsíčními zprávami o činnosti Správce podle odstavce 3.9.] vyúčtování peněžních
+prostředků vyplacených za předchozí kalendářní měsíc a doklady prokazující uskutečnění
+transakcí, které jsou ve vyúčtování uvedeny; současně Garantovi předá písemné čestné
+prohlášení podepsané osobou oprávněnou jednat jménem Správce, ve kterém bude uvedeno,
+že poskytnuté vyúčtování je úplné a pravdivé a v plném rozsahu odpovídá údajům vedeným
+v účetnictví Správce.
+
+3.4.8 *Činnosti potřebné k provozu Webu Opencard.* Správce bude vykonávat činnosti potřebné
+k zajištění provozu Webu Opencard a bude poskytovat další součinnost Garantovi nebo
+Garantem určené osobě za účelem provozu Webu Opencard.
+
+3.4.9 *Zpřístupnění SKC a údajů vedených SKC Provozovatelům.* Kde tato Smlouva stanoví, že
+Správce umožní Provozovatelům přístup do SKC nebo zpřístupní Provozovatelům údaje
+vedené SKC, učiní tak Správce v rozsahu stanoveném touto Smlouvou nebo, bude-li mezi
+Garantem a jednotlivými Provozovateli dohodnut jiný rozsah, v rozsahu stanoveném ve
+smlouvě o umožnění provozování kartové aplikace s využitím karty Opencard uzavřené
+Garantem s konkrétním Provozovatelem. Pokud zvláštní podmínky smlouvy o umožnění
+provozování kartové aplikace s využitím karty Opencard stanoví odlišný rozsah přístupu do
+SKC nebo zpřístupnění údajů vedených SKC, je pro Správce závazný rozsah uvedený ve
+zvláštních podmínkách uvedené smlouvy.
+
+3.4.10 *Přístup do SKC.* Správce umožní Provozovatelům propojení SKC a jednotlivých Kartových
+aplikací prostřednictvím Interface SKC v míře stanovené touto Smlouvou.
+
+3.4.11 *Zpřístupnění údajů z evidence Karet, Držitelů a Majitelů.* Správce zpřístupní údaje
+z evidence Karet, Držitelů Osobních Karet a Majitelů vedené SKC každému Provozovateli
+v rozsahu uvedeném v této Smlouvě. Správce však nebude povinen tyto údaje poskytnout,
+pokud by poskytnutí údajů či jejich zpřístupnění bránily obecně závazné právní předpisy.
+
+3.4.12 *Zpřístupnění identifikačního čísla Karty.* Správce zpřístupní, způsobem uvedeným v Příloze
+4, identifikační číslo Karty jednotlivým Provozovatelům, pokud tak stanoví zvláštní
+podmínky smlouvy o umožnění provozování kartové aplikace s využitím karty Opencard
+uzavřené Garantem s příslušným Provozovatelem.
+
+3.4.13 *Výměna dat.* Mezi SKC a jednotlivými Kartovými aplikacemi bude probíhat výměna dat a
+informací v rozsahu a způsobem vymezeným v Příloze 4. Pokud zvláštní podmínky
+smlouvy o umožnění provozování kartové aplikace s využitím karty Opencard stanoví
+odlišný rozsah či způsob výměny dat a informací, je pro Správce závazný rozsah uvedený
+ve zvláštních podmínkách uvedené smlouvy.
+
+###3.5 ZAJIŠTĚNÍ VYDÁVÁNÍ A SPRÁVY KARET
+
+ 
+
+3.5.1 *Vydávání a správa Karet.* Správce zajistí vydávání a Personalizaci Karet, předávání Karet
+Držitelům a správu Karet po celou dobu účinnosti této Smlouvy za podmínek dohodnutých
+v této Smlouvě a v souladu s Podmínkami PVVK a Provozním řádem SKC, a to minimálně
+v rozsahu technických, bezpečnostních a časových parametrů stanovených touto Smlouvou,
+zejména Přílohou 2. Správce přidělí minimálně jedno identifikační číslo každé Kartě
+v podobě CLN, popřípadě jiného jedinečného čísla.
+
+3.5.2 *Kapacita SKC.* Správce zajistí, aby SKC bylo schopné vydávat alespoň 20.000 Karet
+měsíčně a zajistit funkčnost alespoň 500.000 Karet současně v rámci PCKS. Na základě
+písemné žádosti Garanta Správce zajistí, aby SKC bylo schopné vydávat alespoň 30.000
+Karet měsíčně a zajistit funkčnost alespoň 750.000 Karet v rámci PCKS, a to do 3 měsíců
+ode dne doručení této žádosti Správci. Závazek Správce nezahrnuje povinnost zajistit
+adekvátní rozsah hardware a software, zejména pak uvedení licenčních podmínek software
+do souladu s kapacitními požadavky. Garant je povinen Správci podmínky pro vydávání
+Karet dle tohoto odstavce zajistit; k tomu je Správce povinen poskytnout Garantovi odborné
+poradenství a veškerou potřebnou součinnost.
+
+3.5.3 *Doba platnosti Karet.* Dobu platnosti Karet určí Správce v rozmezí 3 měsíce až 5 let od
+doby jejich vydání s přihlédnutím k potřebám PCKS a s předchozím písemným souhlasem
+Garanta. Ke dni podpisu této Smlouvy je schválena doba platnosti Karty v délce 4 roky.
+Doba platnosti bude vždy omezena na poslední den měsíce, v němž by jinak platnost Karty
+skončila.
+
+3.5.4 *Oznámení o Vyhrazení datového prostoru.* Způsob Vyhrazení datového prostoru pro
+konkrétní Kartovou aplikaci a konkrétní identifikátory datového prostoru v návaznosti na
+každé Médium využívané v rámci PCKS bude Správce oznamovat Provozovatelům
+v písemné podobě jako Důvěrnou nebo Přísně chráněnou informaci SKC ve lhůtě uvedené
+v Příloze 2. Vyhrazený datový prostor může být poskytnut pro účely jiné Kartové aplikace
+pouze po Vymazání Kartové aplikace, pro kterou bylo Vyhrazení datového prostoru
+provedeno.
+
+3.5.5 *Vyměna Karet.* SKC bude provádět výměnu Karet v případech a za podmínek stanovených
+v Podmínkách PVVK.
+
+3.5.6 *Vymazání Kartové aplikace.* SKC provede Vymazání Kartové aplikace v případech a za
+podmínek stanovených v Podmínkách PVVK.
+
+3.5.7 *Blokace Karty.* Blokaci Karty může provést SKC bez souhlasu jednotlivých Provozovatelů,
+Držitele či Majitele v případech stanovených v Podmínkách PVVK. SKC bude v Blacklistu
+zpřístupňovaném Provozovatelům konkrétních Kartových aplikací uvádět pouze Karty,
+které jsou blokovány ve vztahu k příslušné Kartové aplikaci.
+
+3.5.8 *Odblokování Karty.* Odblokování Karty provede SKC neprodleně poté, co pomine důvod
+Blokace, nejpozději však ve lhůtě uvedené v Podmínkách PVVK.
+
+3.5.9 *Zrušení Karty.* SKC zruší Kartu na základě písemné žádosti Držitelé či Majitele nebo
+v jiných případech stanovených v této Smlouvě či Podmínkách PVVK. Zrušením Karty se rozumí trvalá a nezrušitelná Blokace Karty pro PCKS jako celek, kdy Karta přestává být
+funkční bez možnosti opětovného použití. SKC zajistí, aby zrušená Karta přestala být
+funkční pro použití v rámci PCKS a nebylo možné ji opětovně použít. V případě zrušení
+Karty SKC Kartu fyzicky zlikviduje, má-li SKC Kartu fyzicky k dispozici.
+
+3.5.10 *Uzavírání smluv.* Správce bude s Držiteli uzavírat smlouvy pouze ve vztahu ke Kartě, nikoli
+k jednotlivým Kartovým aplikacím, pokud mu Garant písemným oznámením neurčí jinak
+nebo se s Garantem ve zvláštní smlouvě nedohodne jinak. V takovém případě bude Správce
+při uzavírání smluv postupovat způsobem uvedeným v Příloze 2.
+
+###3.6 PROVOZ KONTAKTNÍCH MÍST SKC
+
+3.6.1 *Provoz Kontaktních míst SKC.* Správce zajistí provoz Kontaktních míst SKC v lokalitách
+uvedených v Příloze 3, za podmínek stanovených touto Smlouvou a minimálně v rozsahu
+technických, bezpečnostních a časových parametrů stanovených v Příloze 3.
+
+###3.7 PROVOZ KONTAKTNÍCH MÍST SKC NA KONTAKTNÍCH MÍSTECH KA A NA KONTAKTNÍCH MÍSTECH DOS
+
+3.7.1 *Provoz Kontaktních míst SKC na Kontaktních místech KA.* Správce zajistí provoz
+Kontaktních míst SKC na Kontaktních místech KA za podmínek stanovených touto
+Smlouvou a minimálně vrozsahu technických, bezpečnostních a časových parametrů
+stanovených v Příloze 3. Rozsah činností vykonávaných na kontaktních místech KA určí
+Správce po předchozí dohodě s Garantem. Výběr konkrétních Kontaktních míst KA, na
+kterých budou Kontaktní místa SKC provozována, a podrobnosti hrazení nákladů a odměny
+za zřízení a provoz Kontaktních míst SKC budou předmětem dohody Správce s
+Provozovatelem příslušné Kartové aplikace; uzavření této dohody podléhá předchozímu
+písemnému schválení Garantem.
+
+3.7.2 *Provoz Kontaktních míst SKC na Kontaktních místech DOS.* Na základě smlouvy o
+umožnění provozování kartové aplikace s využitím karty Opencard uzavřené mezi Garantem
+a Provozovatelem DOS je Správce oprávněn zřídit Kontaktní místo SKC na kterémkoli
+Kontaktním místě DOS a požadovat, aby Provozovatel DOS zajistil jeho provoz. Správce za
+podmínek stanovených touto Smlouvou zajistí zřízení a provoz Kontaktních míst SKC na Kontaktních místech DOS v počtu a v lokalitách uvedených v Příloze 8; Kontaktní místa 
+SKC nad počet a mimo lokality uvedené v Příloze 8 může Správce zřídit a provozovat
+pouze s předchozím písemným souhlasem Garanta. Vzor smlouvy 0 zřízení a provozu
+Kontaktního místa SKC na Kontaktním místě DOS, kterou Správce s Provozovatelem DOS,
+popřípadě Obsluhovatelem DOS, uzavře, je uveden v Příloze 8. Konkrétní uzavřená
+smlouva bude ve všech podstatných ohledech odpovídat vzoru uvedenému v Příloze 8,
+ledaže se její smluvní strany s předchozím písemným souhlasem Garanta dohodnou jinak.
+
+3.7.3  *Náklady na zřízení Kontaktních míst SKC na Kontaktních místech DOS.* Náklady na
+ standardní technickÉ vybavení Kontaktních míst SKC na Kontaktních místech DOS a na
+stavební úpravy potřebné ke zřízení Kontaktních míst SKC na Kontaktních místech DOS hradí v plné výši Provozovatel DOS. V případě, že bude příslušné Kontaktní místo DOS 
+provozováno Obsluhovatelem DOS, může hradit tyto náklady Obsluhovatel DOS na základě
+smlouvy s Provozovatelem DOS.
+
+3.7.4 *Náklady na provoz Kontaktních míst SKC na Kontaktních místech DOS, úplata.* Náklady na
+provoz Kontaktních míst SKC na Kontaktních místech DOS budou zahrnuty v úplatě
+hrazené Správcem Provozovateli DOS, popř. Obsluhovateli DOS, za provozování
+Kontaktního místa SKC. Výše této úplaty bude určena dohodou mezi Správcem a
+Provozovatelem DOS, popřípadě Obsluhovatelem DOS. Náhrada úplaty hrazené Správcem
+Provozovateli DOS, popř. Obsluhovateli DOS, za provozování Kontaktního místa SKC je
+zahrnuta v odměně hrazené Garantem Správci podle této Smlouvy; Správce není oprávněn
+požadovat po Garantovi náhradu finančních prostředků vynaložených na úhradu této úplaty vedle odměny podle této Smlouvy.
+
+###3.8 PROVOZ KONTAKTNÍCH MÍST DOS NA KONTAKTNÍCH MÍSTECH SKC
+
+3.8.1 *Oblígatorní provoz Kontaktního místa DOS na Kontaktním místě SKC.* Podle smlouvy o
+umožnění provozování kartové aplikace s využitím karty Opencard uzavřené mezi Garantem
+a Provozovatelem DOS je Provozovatel DOS povinen umožnit Správci zřízení a provoz
+Kontaktního místa DOS na Kontaktním místě SKC. Správce zajistí provoz Kontaktního
+místa DOS na tomto Kontaktním místě SKC, za podmínek stanovených touto Smlouvou,
+smlouvou o umožnění provozování kartové aplikace s využitím karty Opencard uzavřenou
+mezi Garantem a Provozovatelem DOS a smlouvou o zřízení a provozu Kontaktního místa
+DOS na Kontaktním místě SKC, kterou s Provozovatelem DOS sám uzavře. Vzor smlouvy
+0 zřízení a provozu Kontaktního místa DOS na Kontaktním místě SKC je uveden v Příloze
+9. Konkrétní uzavřená smlouva bude ve všech podstatných ohledech odpovídat vzoru
+uvedenému v Příloze 9, ledaže se její smluvní strany s předchozím písemným souhlasem
+Garanta dohodnou jinak.
+
+3.8.2 *Provoz Kontaktních míst DOS na Kontaktních místech SKC provozovaných Správcem.*
+Správce bude na základě písemné žádosti Provozovatele DOS jednat s Provozovatelem
+DOS 0 možnosti zřízení Kontaktních míst DOS na Kontaktních místech SKC podle
+smlouvy o umožnění provozování kartové aplikace s využitím karty Opencard uzavřené
+mezi Garantem a Provozovatelem DOS a v případě dosažení dohody uzavře
+s Provozovatelem DOS smlouvu o zřízení a provozu Kontaktního místa DOS. Na základě
+dohody se Správcem může Provozovatel DOS zřídit a Správce zajistit provoz Kontaktních
+míst DOS i na Kontaktních místech SKC ve smlouvě 0 umožnění provozování kartové
+aplikace svyužitím karty openCard neuvedených. Vzor smlouvy o zřízení a provozu
+Kontaktního místa DOS na Kontaktním místě SKC, kterou Správce s Provozovatelem DOS
+v případě dosažení dohody uzavře, je uveden v Příloze 9. Konkrétní uzavřená smlouva bude
+ve všech podstatných ohledech odpovídat vzoru uvedenému v Příloze 9, ledaže se její
+smluvní strany dohodnou s předchozím písemným souhlasem Garanta jinak. V případě
+ uzavření výše uvedené smlouvy Správce poskytne Provozovateli DOS při zřizování
+Kontaktního místa DOS na Kontaktním místě SKC potřebnou součinnost a zpřístupní
+Provozovateli DOS veškeré potřebné údaje a technické specifikace.
+
+3.8.3 *Náklady na zřízení a provoz Kontaktních míst DOS na Kontaktních místech SKC, úplata.*
+Veškeré náklady na zřízení a provoz Kontaktnich míst DOS na Kontaktních místech SKC
+budou zahrnuty v úplatě hrazené Provozovatelem DOS za provoz Kontaktního místa DOS;
+pokud Provozovatel DOS úplatu Správci nezaplatí, Garant poskytne Správci součinnost při
+ vymáhání jeho pohledávky za Provozovatelem DOS. Výše úplaty hrazené Provozovatelem
+ DOS za provoz Kontaktního místa DOS bude určena dohodou mezi Správcem a
+Provozovatelem DOS na základě vyúčtování předloženého Provozovateli DOS Správcem.
+
+
+###3.9 INFORMAČNÍ POVINNOST SPRÁVCE
+
+3.9.1 *Zprávy o činnosti Správce.* Správce bude elektronickou poštou a zároveň doporučenou
+ poštou zasílat Garantovi měsíční zprávy o výkonu činností Správce podle této Smlouvy,
+popřípadě třetích osob pověřených Správcem k výkonu těchto činností, včetně činností
+prováděných podle odstavce 3.2.4, a o provozu PCKS, a to vždy do 15 dnů po uplynutí
+ hodnoceného měsíce; zpráva za poslední měsíc kalendářního roku bude navíc obsahovat
+  zhodnocení výkonu výše uvedených činností a provozu PCKS za příslušný kalendářní rok.
+z” Správce bude rovněž podávat Garantovi zprávy o výkonu výše uvedených činností ústně a
+elektronickou poštou na základě dotazu Garanta vzneseného telefonicky nebo osobně, a to vždy ihned nebo, nebude-li možné dotaz zodpovědět ihned, do konce nejbližšího následujícího pracovního dne. Podrobnosti podávání zpráv Garantovi podle tohoto odstavce 
+jsou stanoveny v Příloze l.
+
+3.9.2 *Informace o porušení smlouvy jiným subjektem.* Správce bude písemným oznámením
+zaslaným elektronickou poštou a zároveň doporučenou poštou Garanta informovat o
+ každém porušení smlouvy o umožnění provozování kartové aplikace svyužitím karty
+" Opencard Provozovatelem, snímž Garant příslušnou smlouvu uzavřel, které by mohlo
+odůvodňovat výpověď či odstoupení od uvedené smlouvy Garantem nebo vznik nároku
+Garanta na zaplacení smluvní pokuty či nároku na náhradu škody vůči Provozovateli.
+á „ Správce bude písemným oznámením zaslaným elektronickou poštou a zároveň doporučenou
+ poštou Garanta informovat o každém porušení smlouvy o zpracování osobních údajů
+1 zpracovatelem osobních údajů, s nímž Správce příslušnou smlouvu jménem Garanta uzavřel
+ podle článku 3.2. O výše uvedených skutečnostech bude Správce informovat Garanta neprodleně poté, co se o nich dozví.
+
+###3.10 POJIŠTĚNÍ SPRÁVCE
+
+3.10.1 *Pojištění odpovědností za škodu.* Správce je povinen pojistit se proti odpovědnosti za škodu
+způsobenou v souvislosti se zajištěním provozu PCKS pro pojistné plnění v minimální výši
+10.000.000,- Kč, přičemž vlastni vrub Správce může činit maximálně l.000.000,- Kč, a
+pojištění v tomto rozsahu udržovat po celou dobu trvání této Smlouvy.
+
+3.10.2 *Prokázání pojištění.* Správce je povinen předložit Garantovi doklad o pojištění (pojistku) do
+1 měsíce ode dne uzavření této Smlouvy a po celou dobu účinnosti této Smlouvy kdykoli na
+žádost Garanta trvání pojištěni prokázat předložením dokladu 0 pojištěni do 5 pracovních
+dnů ode dne obdržení písemné výzvy Garanta k prokázání pojištění.
+
+3.10.3 *Možnost výpovědi.* Jestliže Správce neprokáže Garantovi existenci pojištěni podle odstavce
+3.10.2 v rozsahu uvedeném v odstavci 3.10.1, je Garant oprávněn tuto Smlouvu vypovědět postupem podle odstavce 12.32.
+
+###3.11 DALŠÍ POVINNOSTI SPRÁVCE
+
+3.11.1 *Konsolidované znění smlouvy 0 umožnění provozování kartové aplikace s využitím karty
+Opencard.* Podle všeobecných podmínek smlouvy o umožnění provozování kartové aplikace
+s využitím karty Opencard uzavřené mezi Garantem a konkrétním Provozovatelem jsou
+smluvní strany uvedené smlouvy povinny podepsat konsolidované znění smlouvy do 10 dnů
+od obdržení žádosti Správce, aby tak učinily. Správce je povinen takovou žádost učinit
+kdykoli na základě písemné žádosti Garanta, a to do 10 dnů od obdržení žádosti Garanta
+v písemné formě.
+
+3.11.2 *Schvalování projektové dokumentace k realizaci smlouvy o umožnění provozování kartové
+aplikace s využitím karty Opencard.* Podle všeobecných podmínek smlouvy o umožnění
+provozování kartové aplikace s využitím karty Opencard uzavřené mezi Garantem a
+konkrétním Provozovatelem Správce schvaluje projektovou dokumentaci předkládanou
+příslušným Provozovatelem za účelem realizace uvedené smlouvy. Podle všeobecných
+podmínek uvedené smlouvy platí, že pokud Správce projektovou dokumentaci ve lhůtě
+stanovené ve zvláštních podmínkách uvedené smlouvy neschválí, smlouva uplynutím
+takové lhůty zanikne. Správce je povinen projektovou dokumentaci s odbornou péčí
+posoudit do 30 dnů od jejího obdržení a v téže lhůtě zaslat Garantovi a příslušnému
+Provozovateli doporučenou poštou své písemné vyjádření k projektové dokumentaci, ve
+kterém může pouze projektovou dokumentaci schválit nebo k ní vznést důvodné a náležitě
+specifikované připomínky. Výše popsaným způsobem se bude Správce zabývat i
+projektovou dokumentací obsahující změny provedené příslušným Provozovatelem na
+základě připomínek Správce či Garanta. Správce je oprávněn projektovou dokumentaci
+schválit pouze za předpokladu, že projektová dokumentace je v souladu s parametry
+provozu PCKS podle této Smlouvy a postup podle projektové dokumentace nebude
+představovat nepřiměřené riziko pro systém PCKS. Jestliže Správce projektovou
+dokumentaci ve lhůtě stanovené ve zvláštních podmínkách uvedené smlouvy nebude moci
+nebo zamýšlet schválit, je Správce povinen o této skutečnosti vyrozumět Garanta zasláním
+písemného oznámení elektronickou poštou a zároveň doporučenou poštou nejpozději do 30
+dnů od obdržení projektové dokumentace a následně s Garantem na jeho žádost jednat o
+možném řešení této situace.
+
+##4 ODMĚNA A NÁKLADY
+
+
+
+
+
+###4.1 ODMĚNA ZA ZAJIŠTĚNÍ PROVOZU PCKS
+
+4.1.1 *Odměna.* Garant se zavazuje platit Správci za zajištění provozu PCKS podle této Smlouvy
+odměnu. V této odměně je zahrnuta i odměna za jednání Správce jménem Garanta podle
+této Smlouvy, včetně jednání podle odstavce 3.2.4. Garant není povinen pIatit Správci za
+plnění, která nebyla poskytnuta řádně a včas.
+
+4.1.2 *Určení výše odměny, vyúčtování, platební podmínky.* Pravidla pro určení výše odměny a její
+vyúčtování a platební podmínky jsou stanoveny v Příloze 5.
+
+###4.2 NÁHRADA NÁKLADŮ VZNIKLÝCH PŘI ZAJIŠTĚNÍ PROVOZU PCKS
+
+Náklady, které Správci vzniknou v souvislosti se zajištěním provozu PCKS podle této Smlouvy,
+jsou zahrnuty v odměně podle článku 4.] a Správce nemá nárok na jejich náhradu Garantem vedle
+smluvní odměny; uvedené se netýká nákladů, které byly vynaloženy Správcem v souvislosti
+s Činnostmi zpoplatněnými dle ceníku vydaného podle Podmínek PVVK, tyto náklady jsou Správci
+hrazeny v rámci poplatků za zpoplatněné činnosti dle ceníku vydaného podle Podmínek PVVK
+v souladu s odstavcem 3.4.5. Garant je oprávněn postupem v souladu se zákonem č. 137/2006 Sb., 0
+veřejných zakázkách, ve znění pozdějších předpisů, požadovat po Správci provedení činností, jejichž
+provedení má podle této Smlouvy zajistit sám; v takovém případě je Správce oprávněn požadovat po Garantovi úhradu nákladů, které prokazatelně vynaložil při zajišťování těchto Činnosti.
+
+##5 OCHRANA DAT A OMEZENÍ UŽITÍ DAT
+
+###5.1 POVINNOST MLČENLIVOSTI A OCHRANA INFORMACÍ
+
+5.1.1 *Povinnost mlčenlivostí.* Informace, které si Smluvní strany navzájem předaly v souvislosti
+s touto Smlouvou, mohou být Smluvními stranami použity pouze pro účely výkonu práv a
+plnění povinností z této Smlouvy, ledaže z obecně závazných právních předpisů bude
+vyplývat nutnost použít předané informace za účelem plnění povinností uložených takovými
+předpisy. Smluvní strany souhlasí s tím, aby informace o této Smlouvě, nikoli však její
+obsah, byly zveřejněny v Centrální evidenci smluv vedené Garantem v rozsahu, ve kterém
+jsou informace o smlouvách v této evidenci zveřejňovány ke dni uzavření této Smlouvy.
+Žádná ze Smluvních stran nezveřejní obsah této Smlouvy v jiné evidenci smluv ani jiným
+způsobem ani jej nezpřístupní třetím osobám s výjimkami uvedenými v této Smlouvě.
+
+5.1.2 *Ochrana Důvěrných informací.* Důvěrné informace nesmějí být předávány jakékoli třetí
+osobě mimo osob, které Garant určí v této Smlouvě nebo písemným sdělením Správci jako
+oprávněné příjemce Důvěrných informací v návaznosti na jejich zapojení do PCKS. Rozsah
+informací, které jsou považovány za Důvěrné informace, a pravidla pro zacházení
+s Důvěrnými informacemi jsou stanovena v Příloze 12.
+
+5.1.3 *Třetí osoby.* Za třetí osoby podle tohoto článku nebudou považovány statutární orgány,
+zaměstnanci a externí spolupracovníci Smluvních stran, jejich právní zástupci, daňoví
+poradci a auditoři, vždy však pouze za předpokladu, že budou tyto osoby poučeny o
+důvěrném charakteru Důvěrných informací a pravidlech pro zacházení s Důvěrnými
+informacemi, budou pověřeny zacházením s Důvěrnými informacemi v souvislosti s jimi
+vykonávanými úkoly a budou zákonem nebo smluvně vázány zachovávat mlčenlivost o
+Důvěrných informacích nebo o obsahu této Smlouvy.
+
+5.1.4 *Omezení okruhu Důvěrných informací.* Za Důvěrné informace nebudou považovány ty
+informace, které (i) budou dostupné z veřejných informačních zdrojů nebo budou obecně
+známé, to však kromě případů, kdy se stanou takto dostupnými v důsledku porušení
+povinnosti zachování mlčenlivosti či důvěrnosti informací dle této Smlouvy, nebo (ii) před
+uzavřením této Smlouvy byly prokazatelně k dispozici příslušné Smluvní straně, která si
+s takovou informací přeje nakládat, to však zároveň za předpokladu, že jí nebyly takové
+informace poskytnuty v souvislosti s vyjednáváním o této Smlouvě nebo o předmětu této
+Smlouvy nebo osobami vázanými povinností mlčenlivosti vůči osobě, která je zdrojem
+informace, (iii) budou příslušné Smluvní straně poskytnuty třetí osobou, to však za
+předpokladu, že taková osoba je neposkytne v rozporu s povinností mlčenlivosti, ať už
+převzatou vůči druhé Smluvní straně ze zákona či smluvně.
+
+5.1.5 *Ochrana Přísně chráněných informací.* Okruh Přísně chráněných informací a pravidla pro
+zacházení s Přísně chráněnými informacemi jsou vymezena v Příloze 13. Přísně chráněné
+informace mohou být předávány pouze osobám zapsaným v seznamu osob autorizovaných
+pro nakládání s takovými informacemi vedeném Správcem se souhlasem Garanta a nesmí
+být předány žádné osobě, která není na seznamu zapsána. Okruh osob, které budou mít
+přístup kPřísně chráněným informacím, by měl být udržován co nejužší. Správce na
+písemnou žádost Garanta, resp. spísemným souhlasem Garanta zapíše do seznamu ty
+osoby, které si Garant, resp. Správce vybere, popřípadě určené osoby ze seznamu vymaže,
+to však za předpokladu, že se tyto osoby zaváží dodržovat mlčenlivost a veškeré postupy při
+ochraně Přísně chráněných informací, které stanoví Směrnice pro zacházení s Přísně
+chráněnými infomacemi. Tato Směrnice není veřejně přístupná a není fyzicky připojena ke
+Smlouvě z důvodu utajení jejího obsahu; před uzavřením této Smlouvy uvedenou směrnici
+přijmou obě Smluvní strany jako závaznou. S obsahem Směrnice bude zacházeno jako s Důvěrnou informací.
+
+5.1.6 *Výjimky z povinnosti mlčenlivosti a ochrany informací.* V souvislosti s případnou fúzí,
+rozdělením, změnou právní formy, převodem jmění na společníka či převzetím Správce
+nebo převodem SKC mohou být zpřístupněny osobám, které mají zájem se takové transakce
+účastnit, v rámci právní či ekonomické prověrky Důvěrné informace a/nebo obsah této
+Smlouvy, to však jen v rozsahu nezbytném pro dosažení účelu prověrky. Přísně chráněné
+informace zpřístupněny být nemohou.
+
+5.1.7 *Informační povinnost.* Smluvní strany se budou neprodleně navzájem telefonicky a zasláním
+písemného oznámení informovat, zjistí-li nebo budou-li mít důvodné podezření, že došlo ke
+zpřístupnění Důvěrných informací nebo Přísně chráněných informací neoprávněné osobě.
+V takovém případě jsou Smluvní strany povinny podniknout veškeré potřebné kroky
+k odvrácení nebezpečí nebo k minimalizaci negativních následků takového zpřístupnění.
+
+ 
+
+###5.2 OCHRANA OSOBNÍCH ÚDAJŮ
+
+5.2.1 *Zpracování osobních údajů.* Správce bude při zajištění provozu PCKS zpracovávat osobní
+údaje jako zpracovatel osobních údajů podle ZOOÚ za účelem stanoveným Garantem jako
+správcem těchto osobních údajů. Správce si je vědom povinností, které mu v souvislosti se
+zpracováním osobních údajů vznikají podle obecně závazných právních předpisů, a zavazuje
+se tyto své povinnosti plnit.
+
+5.2.2 *Smlouva o zpracování osobních údajů.* Správce bude osobní údaje zpracovávat na základě
+smlouvy o zpracování osobních údajů, kterou uzavře s Garantem do 1 měsíce ode dne
+uzavření této Smlouvy, nejpozději však do dne nejblíže předcházejícího dní, kdy má být
+zahájeno plnění podle této Smlouvy. Vzor smlouvy o zpracování osobních údajů je součástí
+Přílohy 6; konkrétní uzavřená smlouva bude ve všech podstatných ohledech odpovídat
+tomuto vzoru, pokud se Smluvní strany nedohodnou jinak. '
+
+5.2.3 Neoprávněné zpracování osobních údajů. Správce není oprávněn zahájit zpracování
+osobních údajů podle odstavce 5.2.1, dokud s Garantem neuzavře příslušnou smlouvu o
+zpracování osobních údajů. Jestliže bude Správce zpracovávat osobní údaje v souvislosti s
+plněním této Smlouvy bez uzavření výše uvedené smlouvy o zpracování osobních údajů
+nebo tak bude činit v rozporu s uvedenou smlouvou, odpovídá Garantovi za způsobenou
+škodu.
+
+##6 DUŠEVNÍ VLASTNICTVÍ
+
+###6.1 UŽITÍ OCHRANNÉ ZNÁMKY OPENCARD
+
+6.1.1 *Licence k užití ochranné známky Opencard.* Zvláštní smlouvou uzavřenou mezi Smluvními
+stranami Garant udělil Správci licenci k užívání ochranné známky Opencard.
+
+6.1.2 *Způsob užívání ochranné známky Opencard.* Správce je povinen užívat ochrannou známku
+Opencard pouze způsobem, který nebude snižovat hodnotu ochranné známky Opencard,
+nebude snižovat důstojnost nebo poškozovat dobrou pověst Garanta, PCKS, SKC a/nebo
+ochranné známky Opencard nebo narušovat důvěru v PCKS, a tak aby nemohla být
+spojována s činnostmi, které jsou v rozporu s dobrými mravy nebo v rozporu s dobrými
+mravy hospodářské soutěže nebo jsou považovány za nedůstojné, nevkusné Či jinak
+dehonestující.
+
+6.1.3 *Zmocnění k udělení souhlasu.* Garant dává touto Smlouvou Správci výslovný souhlas
+k tomu, aby jménem Garanta udělil souhlas s užitím ochranné známky Opencard třetím
+osobám, které vykonávají činnosti související s provozem PCKS na základě zvláštní smlouvy uzavřené mezi Správcem a takovou třetí osobou. Správce je v takovém případě
+povinen zajistit, že třetí osoba bude ochrannou známku Opencard užívat pouze za účelem,
+v rozsahu a způsobem sjednaným v licenční smlouvě podle odstavce 6.1.1 a v odstavci
+6.1.2.
+
+###6.2 PRÁVA K OSTATNÍM PŘEDMĚTŮM PRÁV DUŠEVNÍHO VLASTNICTVÍ
+
+6.2.1 *Vlastnická práva k nosičům dat.* Dokumenty, CD, DVD či jiné nosiče dat jakéhokoli druhu
+předané mezi Smluvními stranami na základě této Smlouvy a v souvislosti s touto
+Smlouvou se stávají majetkem přijímající Smluvní strany; předávající Smluvní strana si
+však podrží veškerá práva k datům uloženým na předaných nosičích dat. Kromě případů,
+kdy si tak předávající Smluvní strana výslovně vymíní, není předávající Smluvní strana
+oprávněna žádat vrácení předaných nosičů dat.
+
+6.2.2 *Práva k ostatním předmětům práv duševního vlastnictví.* Pokud v souvislosti s touto Smlouvou zpřístupní či poskytne jedna Smluvní strana druhé Smluvní straně za účelem
+výkonu práv či plnění povinností podle této Smlouvy jakýkoli předmět práv duševního
+vlastnictví, bude Smluvní strana, které bude předmět práv duševního vlastnictví poskytnut,
+oprávněna jej v rámci výše vymezeného účelu využít; uvedené neplatí, pokud mezi
+Smluvními stranami je či bude k takovému předmětu práva duševního vlastnictví uzavřena
+zvláštní licenční smlouva, která stanoví jinak. Toto oprávnění se poskytuje jako neomezené,
+na další osoby nepřevoditelné, bezúplatné a bez nároku na protiplnění. Smluvní strana
+poskytující předmět práv duševního vlastnictví je v takovém případě, pokud sama není
+oprávněna disponovat právy k danému předmětu práv duševního vlastnictví, povinna pro
+druhou Smluvní stranu zajistit příslušná práva k bezúplatnému užívání, jinak bude
+odpovídat za škodu, která tím druhé Smluvní straně vznikne; to neplatí V případě, že
+poskytující Smluvní strana druhou Smluvní stranu s dostatečným předstihem písemně
+upozorní na nutnost zajištění příslušných práv.
+
+6.2.3 *Práva k nehmotným statkům vytvořeným Správcem.* Garant se na základě této Smlouvy
+stane výlučným vlastníkem nehmotného statku, popřípadě výlučným držitelem práv
+k nehmotnému statku, který byl vytvořen jako výsledek plnění poskytovaných v rámci této
+smlouvy Správcem a bude oprávněn takový nehmotný statek výlučně užívat za účelem
+zajišťování provozu PCKS.
+
+##7 PROHLÁŠENÍ A ZÁRUKY
+
+###7.1 PROHLÁŠENÍ A ZÁRUKY GARANTA
+
+7.1.1 *Oprávnění Garanta.* Garant prohlašuje, že je oprávněn tuto Smlouvu se Správcem uzavřít,
+vykonávat práva a plnit povinnosti podle této Smlouvy a zmocnit Správce k udělení
+souhlasu s užíváním ochranné známky Opencard třetím osobám podle odstavce 6.1.3. S
+obsahem Smlouvy souhlasí příslušné orgány Garanta v souladu s požadavky obecně
+závazných právních předpisů.
+
+7.1.2 *Oprávnění jednající osoby.* Osoba podepisující tuto Smlouvu jménem Garanta je oprávněna
+tak učinit a Smlouvu uzavřít s účinky pro Garanta.
+
+7.1.3 Platnost prohlášení. Garant činí výše uvedená prohlášení a záruky ke dni podpisu této Smlouvy.
+
+###7.2 PROHLÁŠENÍ A ZÁRUKY SPRÁVCE
+
+7.2.1 *Oprávnění uzavřít Smlouvu.* Správce prohlašuje, že je oprávněn tuto Smlouvu s Garantem
+uzavřít, vykonávat práva a plnit povinnosti podle této Smlouvy a že si není vědom žádné skutečnosti, která by mu vtom bránila nebo která by mohla způsobit neplatnost této
+Smlouvy. Správce jako právnická osoba prohlašuje, že jeho orgány poskytly souhlas
+s uzavřením této Smlouvy v souladu s požadavky obecně závazných právních předpisů,
+které se na Správce vztahují, a v souladu s jeho vnitřními předpisy.
+
+7.2.2 *Právní způsobilost Správce.* Správce prohlašuje, že je právnickou osobou řádně založenou a
+existující podle českého práva.
+
+7.2.3 *Oprávnění k provozování PCKS.* Správce tímto prohlašuje, že má veškerá práva potřebná
+k zajištění provozu PCKS a je oprávněn užívat hardware a software užívaný při provozu
+PCKS.
+
+7.2.4 *Soudní a jiná řízení.* Správce prohlašuje, že není účastníkem žádného soudního nebo jiného
+řízení, jehož výsledek by mohl podstatným způsobem negativně ovlivnit možnosti plnění
+Smlouvy ze strany Správce nebo toto plnění zcela znemožnit.
+
+7.2.5 *Povolení.* Správce prohlašuje, že získal veškerá povolení, souhlasy, licence a další
+oprávnění potřebná k podpisu této Smlouvy a výkonu jeho práv a povinností podle této
+Smlouvy v souladu s českým právem. Správce prohlašuje, že jeho činnost podle této
+Smlouvy je v souladu s jeho společenskou smlouvou a stanovami. Dále Správce prohlašuje,
+že jeho oprávnění jsou zapsána v příslušných veřejných rejstřících, pokud tam mají být
+zapsána podle českého práva.
+
+7.2.6 *Majetková situace Správce.* Správce prohlašuje, že není v úpadku, nebylo vůči němu
+zahájeno insolvenční řízení, nevstoupil do likvidace, nebyl na podstatnou část jeho majetku
+nařízen výkon rozhodnutí nebo exekuce ani nedošlo k provedení jiného úkonu nebo k
+události, které mají obdobný účinek jako některý z výše jmenovaných úkonů nebo událostí.
+
+7.2.7 Oprávnění jednajích osoby.* Správce prohlašuje, že osoba podepisující tuto Smlouvu jménem
+Správce je oprávněna tak učinit a Smlouvu uzavřít s účinky pro Správce.
+
+7.2.8 *Platnost prohlášení.* Správce činí výše uvedená prohlášení a záruky ke dni podpisu této
+Smlouvy.
+
+7.2.9 *Změny prohlášení.* Správce bude informovat o jakékoli skutečnosti, která nastane po
+podpisu této Smlouvy a která vážně ohrožuje nebo by mohla vážně ohrozit naplnění účelu
+této Smlouvy, nebo která způsobí, že výše uvedené prohlášení a záruky Správce již nejsou
+pravdivé či přesné. Písemné oznámení obsahující takovou informaci je Správce povinen
+Garantovi oznámit bez zbytečného odkladu, nejpozději však do 3 pracovních dnů ode dne,
+kdy se o informaci dozvěděl.
+
+##8 ODPOVĚDNOST
+###8.1 ODPOVĚDNOST GARANTA VŮČI SPRÁVCI
+
+8.1.1 *Vyšší moc.* Garant neodpovídá za škodu vzniklou v důsledku jednání orgánů veřejné správy
+nebo soudů, odepření nebo pozdního vydání úředního povolení nebo škody vzniklé za
+okolností vylučujících odpovědnost za škodu.
+
+###8.2 ODPOVĚDNOST SPRÁVCE VŮČI GARANTOV]
+
+8.2.1 *Zajištění provozu PCKS.* Správce odpovídá za zajištění provozu PCKS v rozsahu a za
+podmínek vymezených touto Smlouvou.
+
+ 
+
+8.2.2 *Bezpečnost SKC.* Správce odpovídá za přijetí bezpečnostních opatření VSKC podle specifikace uvedené v Příloze 2 za účelem ochrany SKC a předejití Situacím okamžité
+reakce.
+
+8.2.3 *Bezpečnost Média.* Správce odpovídá za opatření Média bezpečnostními prvky podle
+specifikace uvedené v Příloze 2 za účelem jeho ochrany proti zneužití a garance
+jedinečnosti.
+
+8.2.4 *Způsobilost Karet k užívání.* Správce odpovídá za to, že v okamžiku předání Držiteli bude
+Karta způsobilá k užívání v rámci technických standardů stanovených touto Smlouvou.
+Správce dále odpovídá za to, že v případě nakládání s Kartou v souladu s Podmínkami
+PVVK zůstane Karta funkční po celou dobu své platností.
+
+8.2.5 *Vyšší moc.* Správce neodpovídá za škodu vzniklou v důsledku jednání orgánů veřejné
+správy nebo soudů, odepření nebo pozdního vydání úředního povolení nebo škody vzniklé
+za okolností vylučujících odpovědnost za škodu.
+
+8.2.6 *Slib odškodnění.* Pokud v příčinné souvislosti s výkonem činností Správce, včetně
+zpracování údajů podle této Smlouvy nebo v souvislosti sní, vznikne Garantovi škoda,
+způsobená činností Správce, Správce zavazuje se, že Garantovi poskytne odškodnění
+v prokazatelné výši takové škody. Okolnosti vylučující odpovědnost za škodu jsou
+definovány odstavcem 8.2.5.
+
+8.2.7 *Výkon činností třetí osobou.* Správce je oprávněn pověřit třetí osobu výkonem činností podle
+této Smlouvy pouze v případech, kdy tak stanoví tato Smlouva; v případě porušení této
+povinnosti Správcem je Garant oprávněn Smlouvu vypovědět způsobem uvedeným
+v odstavci 12.3.3. Pokud Správce pověří výkonem činností podle této Smlouvy jakoukoli
+třetí osobu, odpovídá za provádění těchto činností tak, jako by je vykonával sám.
+
+##9 SANKCE
+###9.1 SMLUVNÍ POKUTA
+
+9.1.1 *Závazek uhradit smluvní pokutu.* Stanoví-li tak výslovně tato Smlouva, zaplatí Smluvní
+strana za každé jednotlivé porušení svých povinností podle této Smlouvy dmhé Smluvní
+straně smluvní pokutu.
+
+9.1.2 *Neodstranění vad plnění.* V případě, že Správce neodstraní vady plnění poskytovaného
+Správcem podle této Smlouvy, které mu byly Garantem vytknuty v souladu s odstavcem
+2.2.2, ani v přiměřené lhůtě, Správce uhradí Garantovi smluvní pokutu ve výši 5.000,- Kč
+(slovy: pět tisíc korun českých) za každý den prodlení s odstraněním každé vytknuté vady.
+
+9.1.3 *Porušení odstavce 3.9.1.* V případě porušení informační povinnosti dle odstavce 3.9.1
+uhradí Správce Garantovi smluvní pokutu ve výši 3.000,- Kč (slovy: tři tisíce korun
+českých) za každý den prodlení.
+
+9.1.4. *Porušení povinností mlčenlivosti a ochrany informací.* V případě porušení povinnosti
+mlčenlivosti či ochrany informací podle článku 5.1 uhradí Smluvní strana porušující danou
+povinnost druhé Smluvní straně smluvní pokutu ve výši 100.000,- Kč (slovy: sto tisíc korun
+českých).
+
+9.1.5 *Ostatní závazky.* Zaplacení smluvní pokuty nezbavuje Smluvní stranu závazku splnit danou
+
+povinnost. Druhá Smluvní strana je oprávněna vedle smluvní pokuty požadovat náhradu
+škody způsobené porušením příslušné povinnosti v plné výši.
+
+##10 SITUACE OKAMŽITÉ REAKCE
+
+###10.1 ŘEŠENÍ SITUACE OKAMŽITÉ REAKCE
+
+10.1.1 *Zjištění Situace okamžité reakce.* Za účelem předcházení Situacím okamžité reakce bude
+Správce povinen sledovat a vyhodnocovat s odbornou péčí provoz PCKS. Pokud se
+Správce dozví o okolnostech, které s vynaložením odborné péče vyhodnotí tak, že mohou
+představovat Situaci okamžité reakce nebo by mohly vyústit v Situaci okamžité reakce, je
+povinen o tom okamžitě informovat Garanta, a to telefonicky a zároveň elektronickou
+poštou. Správce provede s odbornou péčí nezbytné kroky nutné k odvrácení či nápravě
+škodlivých následků Situace okamžité reakce.
+
+10.1.2 *Posouzení existence Situace okamžité reakce.* Rozhodnutí, zda určité okolnosti představují
+Situaci okamžité reakce nebo v ní hrozí přerůst, činí s odbornou péčí Správce a je za něj
+odpovědný. Pokud však Garant rozhodne, že se o Situaci okamžité reakce nejedná ani její
+vznik nehrozí, nebo pokud uloží Správci, aby k řešení Situace okamžité reakce nepodnikal
+další kroky, je Správce povinen rozhodnutí Garanta respektovat a další kroky k řešení
+Situace okamžité reakce neprovádět. Dále platí, že pokud se určitá situace bude týkat
+výhradně jediné Kartové aplikace a nebude představovat výrazné riziko pro PCKS,
+popřípadě pro ostatní Kartové aplikace, Garant bude oprávněn rozhodnout, že se nejedná o
+Situaci okamžité reakce, i pokud skutkové okolnosti budou odpovídat vymezení Situace
+okamžité reakce podle odstavce 1.1.31. Výše uvedená rozhodnutí musí Garant oznámit
+Správci telefonicky a do 3 hodin je doložit písemně či alespoň elektronickou poštou, jinak
+Správce není povinen je respektovat. Pokud Garant rozhodne o tom, že se nejedná o
+Situaci okamžité reakce, Správce neodpovídá za škodu, která v důsledku nesprávnosti
+tohoto rozhodnutí vznikla.
+
+10.1.3 *Způsob řešení Situace okamžité reakce.* Pokud Správce dojde k závěru, že nastala Situace
+okamžité reakce nebo její vznik hrozí, a Garant mu neoznámí své rozhodnutí podle
+odstavce 10.1.2, rozhoduje o dalších krocích k řešení Situace okamžité reakce Správce
+s odbornou péčí a s přihlédnutím k zájmům Garanta, PCKS a subjektů účastnících se
+systému PCKS, a je za svá rozhodnutí odpovědný; o přijatých rozhodnutích a vývoji
+situace okamžité reakce je Správce povinen Garanta neprodleně informovat elektronickou
+poštou. Správce rozhodne, zda bude subjekty účastnící se systému PCKS o Situaci
+okamžité reakce informovat. Správce je oprávněn udělovat těmto subjektům závazné
+instrukce účinné po dobu a v rozsahu potřebném pro vyloučení negativních následků
+Situace okamžité reakce. Tyto subjekty jsou na základě zvláštních smluv uzavřených s
+Garantem povinny se instrukcemi Správce řídit a jednat podle nich.
+
+10.1.4 *Pracovní skupina.* Pokud to Správce uzná za nutné, vyzve telefonicky a elektronickou
+poštou Provozovatele k ustanovení pracovní skupiny pro řešení Situace okamžité reakce
+tvořené zástupci Správce a Provozovatelů, která se sejde v čase určeném Správcem nikoli
+kratším než jedna hodina od zaslání uvedené výzvy elektronickou poštou Provozovatelům.
+Správce zašle uvedenou výzvu elektronickou poštou rovněž Garantovi; rozhodnutí o účasti
+Garanta v pracovní skupině je předmětem volného uvážení Garanta.
+
+10.1.5 *Interní Předpis.* Další podrobnosti řešení Situace okamžité reakce upravuje interní předpis
+Správce, který po schválení Garantem vydá Správce.
+
+##11 ZMĚNY SMLOUVY
+
+###11.1 ZMĚNY SMLUVNÍCH UJEDNÁNÍ
+
+11.1.1 *Nutnost změn v budoucnu.* Smluvní strany jsou si vědomy skutečnosti, že v budoucnu může být nutné či vhodné provést změny této Smlouvy nebo Podmínek PVVK.
+V případě nutnosti takových změn budou Smluvní strany postupovat podle pravidel
+dohodnutých níže, nestanoví-li tato Smlouva v konkrétních případech výslovně jinak.
+
+11.1.2 *Konsolidované znění Smlouvy.* Na žádost Garanta Správce podepíše konsolidované znění
+Smlouvy, a to do 10 dnů od obdržení takové žádosti Garanta. V konsolidovaném znění
+Smlouvy budou zpracovány veškeré dodatky a změny Smlouvy přijaté po dni původního
+podpisu Smlouvy a budou k němu připojeny dosavadní Přílohy a jejich změny a další
+přílohy a jiné dokumenty přijaté a připojené ke Smlouvě po dni jejího původního
+podpisu. Konsolidované znění Smlouvy nahradí dosavadní Smlouvu a její Přílohy a
+dodatky, změny a jiné dokumenty přijaté či připojené ke Smlouvě před podpisem
+konsolidovaného znění Smlouvy. Konsolidované znění Smlouvy bude obsahovat
+ustanovení, že toto znění je konsolidací Smlouvy ve znění platném ke dni podpisu
+konsolidovaného znění Smlouvy a že práva a povinnosti Smluvních stran vzniklé přede
+dnem podpisu konsolidovaného znění Smlouvy tím nejsou dotčena.
+
+11.1.3 *Rozhodné znění Smlouvy.* Při posuzování práv a povinností podle této Smlouvy nebo
+skutečností majících význam pro posouzení práv a povinností podle této Smlouvy bude
+vždy rozhodné znění Smlouvy účinné ke dni, kdy příslušná práva či povinnosti byly,
+resp. nebyly vykonány, nebo kdy příslušná skutečnost nastala, resp. nenastala.
+
+###11.2 ZMĚNY SMLOUVY
+
+11.2.1 *Rozhodování o změnách.* Smlouva může být měněna pouze dohodou obou Smluvních
+stran, není-li ve Smlouvě výslovně stanoveno jinak.
+
+11.2.2 *Návrh a projednání změn.* V případě, že jedna Smluvní strana usoudí, že je nutné či
+vhodné Smlouvu a/nebo její Přílohy změnit, vypracuje návrh změn, který zašle
+elektronickou poštou a zároveň doporučenou poštou druhé Smluvní straně. Ve lhůtě l-
+měsíce ode dne odeslání návrhu změn doporučenou poštou druhé Smluvní straně se
+Smluvní strany sejdou, aby o navrhovaných změnách jednaly. Při jednání budou
+postupovat v souladu se zásadami poctivého obchodního styku.
+
+11.2.3 *Nutné změny.* V případě, že bude nutné Smlouvu a/nebo její Přílohy změnit z důvodu
+změn okolností na straně Garanta prokazatelně nezávisejících na vůli Garanta, zavazují
+se Smluvní strany o změně navrhované Garantem jednat a dosáhnout dohody. Pokud
+Smluvní strany nedosáhnou dohody do 2 měsíců ode dne odeslání návrhu změn
+Garantem Správci podle odstavce 112.2, bude Garant oprávněn Smlouvu vypovědět
+postupem podle odstavce 123.4.
+
+###11.3 ZMĚNY PODMÍNEK PVVK
+
+11.3.1 *Rozhodování o změnách.* O změnách Podmínek PWK rozhoduje Garant po předchozím
+projednání těchto změn se Správcem. Garant zašle doporučenou poštou Správci změněné
+znění Podmínek PVVK nejméně 2 měsíce přede dnem, kdy má nabýt účinnosti vůči
+Držitelům.
+
+##12 TRVÁNÍ A ZÁNIK SMLOUVY
+
+###12.1 DOBA PLATNOSTI SMLOUVY
+
+12.1.1 Doba platnosti. Smlouva se uzavírá na dobu určitou do 31. 12. 2008.
+
+###12.2 POSTUP PŘI REALIZACI SMLOUVY
+
+12.2.1 *Den zahájení plnění.* Správce zajistí provoz PCKS podle této Smlouvy ode dne l. 8. 2008.
+
+###12.3 VÝPOVĚĎ
+
+12.3.1 *Výpověď podle odstavce 2.2.2.* V případě uvedeném v odstavci 2.2.2 je Garant oprávněn
+Smlouvu vypovědět s výpovědní lhůtou 3 měsíců ke konci kalendářního měsíce.
+
+12.3.2 *Výpověď podle odstavce 3.10.3.* V případě uvedeném v odstavci 3.10.3 je Garant oprávněn
+Smlouvu vypovědět s výpovědní lhůtou 3 měsíců ke konci kalendářního měsíce.
+
+12.3.3 *Výpověď podle odstavce 8.2.7.* V případě uvedeném v odstavci 8.2.7 je Garant oprávněn
+Smlouvu vypovědět s výpovědní lhůtou 3 měsíců ke konci kalendářního měsíce.
+
+12.3.4 *Výpověď podle odstavce 11.2.3.* V případě uvedeném v odstavci 11.2.3 je Garant oprávněn
+Smlouvu vypovědět s výpovědní lhůtou 3 měsíců ke konci kalendářního měsíce.
+
+12.3.5 *Výpověď podle odstavce 13.2.2.* V případě uvedeném v odstavci 13.2.2 je Garant oprávněn
+Smlouvu vypovědět s výpovědní lhůtou 3 měsíců ke konci kalendářního měsíce.
+
+12.3.6 *Výpověď při podstatném porušení Smlouvy.* Jestliže Správce podstatným způsobem poruší
+svoji povinnost podle této Smlouvy, je Garant oprávněn Smlouvu vypovědět ve lhůtě 3 měsíců ke konci kalendářního měsíce. Jestliže Garant podstatným způsobem poruší svoji
+povinnost podle této Smlouvy, je Správce oprávněn Smlouvu vypovědět ve lhůtě 3 měsíců
+ke konci kalendářního měsíce. Písemná výpověď Smlouvy podle tohoto odstavce musí být
+Smluvní straně, která podstatným způsobem porušila svou povinnost podle této Smlouvy,
+doručena do 2 měsíců ode dne, kdy se o takovém porušení povinnosti druhá Smluvní
+strana dozví; v případě zmeškání lhůty pro doručení písemné výpovědi právo Smluvní
+strany vypovědět Smlouvu dle tohoto odstavce zaniká. Právo vypovědět Smlouvu dle
+tohoto odstavce zaniká též v případě, že podstatné porušení Smlouvy již bylo porušující
+Smluvní stranou napraveno nebo již takové porušení Smlouvy dále netrvá. Podstatným
+porušením Smlouvy podle tohoto odstavce se rozumí takové porušení Smlouvy, jestliže
+Smluvní strana porušující Smlouvu věděla v době uzavření Smlouvy nebo v této době bylo
+rozumné předvídat s přihlédnutím k účelu Smlouvy, který vyplynul z jejího obsahu nebo
+z okolností, za nichž byla Smlouva uzavřena, že druhá Smluvní strana nebude mít zájem
+na plnění povinností při takovém porušení Smlouvy; v pochybnostech se má za to, že
+porušení Smlouvy není podstatné.
+
+12.3.7 Nedělitelnost Smlouvy pro účely výpovědí. Vypoví-li kterákoli ze Smluvních stran tuto
+Smlouvu, vztahuje se výpověď na Smlouvu jako celek. Žádná ze Smluvních stran není
+oprávněna vypovědět tuto Smlouvu pouze ve vztahu k její části, byt' by se jednalo o
+oddělitelné ustanovení ve smyslu článku 14.5 Smlouvy.
+
+###12.4 ODSTOUPENÍ OD SMLOUVY
+
+12.4.1 *Možnost odstoupení.* Smluvní strany mohou od této Smlouvy odstoupit pouze v případech
+uvedených v této Smlouvě a v zákoně, pokud použitelnost takových zákonných ustanovení
+není vyloučena touto Smlouvou.
+
+12.4.2 *Podstatná a nepodstatná porušení Smlouvy.* Užití ustanovení § 345 odstavec 1 a 3 a ustanovení § 346 až 350 zákona č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, je tímto vyloučeno.
+
+12.4.3 *Odstoupení v případě zadlužení či likvidace Správce.* Garant je oprávněn odstoupit od této
+Smlouvy, jestliže Správce bude v úpadku, bude vůči němu zahájeno insolvenční řízení,
+vstoupí do likvidace, bude na podstatnou část jeho majetku nařízen výkon rozhodnutí nebo
+exekuce nebo jestliže dojde k provedení jiného úkonu nebo dojde k události, které mají obdobný účinek jako některý z výše jmenovaných úkonů nebo události.
+
+###12.5 NÁSLEDKY UKONČENÍ SMLOUVY
+
+12.5.1 *Povinnosti před ukončením Smlouvy.* Přiměřenou dobu před skončením účinnosti této
+Smlouvy je Správce povinen na výzvu Garanta poskytnout subjektu určenému Garantem
+kopie dokumentace vztahující se k provozu a správě PCKS a poskytnout tomuto subjektu
+přiměřenou součinnost tak, aby po ukončení této Smlouvy byla zachována plynulost
+provozu PCKS a subjekt určený Garantem mohl řádně vykonávat činnosti Správce podle
+této Smlouvy. Předání dokumentace je podmíněno uzavřením dohody o ochraně informací
+mezi Správcem a tímto subjektem, pokud taková dohoda nebude uzavřena, bude
+dokumentace předána prostřednictvím Garanta. Pro odstranění pochybností platí, že
+Správce neodpovídá za žádné škody, které vzniknou v důsledku jednání subjektu určeného
+Garantem. Současně s předáním dokumentace je Správce povinen Garantovi písemně
+sdělit, jaké kroky je třeba učinit k předejití vzniku případné škodě na straně Garanta
+v souvislosti s provozem PCKS.
+
+12.5.2 *Povinnosti při ukončení Smlouvy.* V případě ukončení této Smlouvy jsou Smluvní strany
+povinny si vzájemně navrátit dokumenty obsahující Přísně chráněné informace, které si
+navzájem poskytly, a vymazat Přísně chráněné informace a Důvěmé informace ze svých
+systémů. Dále je Správce povinen předat Garantovi originály veškeré dokumentace PCKS.
+Tyto úkony budou provedeny do 30 dnů po ukončení Smlouvy a ve stejné lhůtě si Smluvní
+strany o provedení těchto úkonů navzájem předají potvrzení.
+
+12.5.3 *Přetrvání účinnosti.* Ustanovení kapitoly 5, kapitoly 8, článku 12.5 a článku 14.3 přetrvají
+jakékoli ukončení této Smlouvy, ať už dohodou, výpovědí, odstoupením či jinak.
+Ustanovení § 35] odstavec l obchodního zákoníku tím není dotčeno.
+
+12.5.4 *Ukončení smlouvy o zpracování osobních údajů.* Ukončení této Smlouvy má za následek
+automatické ukončení smlouvy o zpracování osobních údajů uzavřené mezi Smluvními
+stranami pro účely vymezení vzájemných práv a povinností v souvislosti se zpracováním
+osobních údajů při provozu PCKS, nebude-li mezi Garantem a Správcem písemně
+sjednáno jinak.
+
+##13 ZMĚNA OSOBY OVLÁDAJÍCÍ SPRÁVCE
+
+###13.1 ÚMYSLNĚ VYPUŠTĚN
+
+###13.2 PŘEMĚNA SPRÁVCE A ZMĚNA OSOBY OVLÁDAJÍCÍ SPRÁVCE
+
+13.2.1 *Přechod práv a povinností.* Veškerá práva a povinnosti z této Smlouvy přecházejí na
+právního nástupce Správce, ať již v důsledku fúze, rozdělení, změny právní formy,
+převodu jmění na společníka, převodu podniku nebo jeho části nebo jiné právní
+skutečnosti.
+
+13.2.2 *Oznámení.* Správce je povinen Garanta informovat o skutečnosti, že má dojít k přeměně
+Správce, zejména ve formě uvedené v odstavci 132.1, nebo že má dojít ke změně osoby
+ovládající Správce ve smyslu § 66a obchodního zákoníku, neprodleně poté, co se o této
+skutečnosti dozví. Pokud k přeměně Správce či ke změně osoby ovládající Správce
+skutečně dojde, je Správce povinen tuto skutečnost Garantovi písemně oznámit do 14 dnů
+poté, co nastala. V případě přeměny Správce nebo změny osoby ovládající Správce podle
+tohoto článku je Garant oprávněn tuto Smlouvu vypovědět postupem podle odstavce
+123.5.
+
+##14 ZÁVĚREČNÁ USTANOVENÍ
+
+###14.1 PRÁVNÍ REŽIM
+
+ Tato Smlouva a právní vztahy související s touto Smlouvou se řídí zákonem č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, a dalšími obecně závaznými právními předpisy
+České republiky v platném a účinném znění. Ujednání této Smlouvy, na která se vztahují
+ustanovení obchodního zákoníku o mandátní smlouvě, se řídí těmito ustanoveními, nestanoví-li tato Smlouva jinak. Ustanovení § 568 odstavec 2, 3 a 4, § 571, § 572, § 573, § 574 odstavec 1 a 2 a § 575 odstavec 1 obchodního zákoníku se na práva a povinnosti Smluvních stran z této Smlouvy
+nepoužijí
+
+###14.2 ROZHODNÉ PRÁVO
+ Rozhodné právo je české.
+###14.3 ŘEŠENÍ SPORŮ
+
+Veškeré spory vzniklé z této Smlouvy nebo v souvislosti s touto Smlouvou se Smluvní strany
+pokusí vyřešit smírnou cestou. Nedojdou-li Smluvní strany ke smírnému řešení sporu, je k řešení
+veškerých sporů vzniklých z této Smlouvy nebo v souvislosti s touto Smlouvou dána výlučná
+pravomoc soudů České republiky; místně příslušným soudem pro řešení případných sporů je
+vždy obecný soud Garanta.
+
+###14.4 ÚČINNOST SMLOUVY
+
+Smlouva nabývá platnosti a účinnosti okamžikem jejího podpisu oběma Smluvními stranami.
+
+###14.5 ODDĚLITELNOST USTANOVENÍ
+
+V případě, že kterékoli ustanovení této Smlouvy je nebo se stane či bude shledáno neplatným nebo
+nevymahatelným, neovlivní to (v maximálním rozsahu povoleném právními předpisy) platnost a
+vymahatelnost zbývajících ustanovení této Smlouvy. Smluvní strany se v takovém případě
+zavazují nahradit neplatné či nevymahatelné ustanovení sjednáním ustanovení platného a
+vymahatelného, které bude mít do nejvyšší možné míry stejný a právními předpisy přípustný
+význam a účinek, jako mělo ustanovení, jež má být nahrazeno.
+
+ 
+
+14.6 DOHODA SMLUVNÍCH STRAN
+Tato Smlouva představuje úplnou dohodu Smluvních stran ve vztahu k předmětu této Smlouvy a
+ruší a nahrazuje jakékoli předchozí písemné a ústní dohody a ujednání vzniklé v souvislosti s
+předmětem této Smlouvy, vyjma předchozích licenčních ujednání mezi Smluvními stranami.
+
+###14.7 JEDNÁNÍ ZA SMLUVNÍ STRANY
+
+5 Bez výslovně dohody mezi Smluvními stranami není žádná ze Smluvních stran oprávněna jednat
+ jménem druhé Smluvní strany. '
+
+###14.8 PÍSEMNÁ FORMA
+
+ 
+
+Smlouva může být měněna nebo doplňována pouze způsobem výslovně dohodnutým ve Smlouvě nebo, v případech, na které se tato výslovná ujednání nevztahují, formou písemných dodatků
+ podepsaných oběma Smluvními stranami. Smlouva může být zrušena pouze písemnou formou.
+ 
+###14.9 OZNAMOVÁNÍ
+
+Veškerá oznámení, žádosti nebo jiná sdělení podle této Smlouvy budou učiněna písemně, pokud
+Smlouva výslovně nepovoluje formu jinou. Tato oznámení, žádosti nebo jiná sdělení budou
+považována za řádně učiněná, pokud budou doručena osobně, prostřednictvím kurýra, zaslána
+poštou nebo faxem Smluvní straně, vůči níž mají nebo mohou být učiněna, a to na kontakty
+uvedené v této Smlouvě nebo na jiné kontakty, které příslušná Smluvní strana písemným
+oznámením sdělí Smluvní straně zasílající příslušné oznámení, žádost nebo jiné sdělení. Oznámení
+o změně kontaktních údajů bude účinné v 3. pracovní den po doručení nebo v pozdější den
+v oznámení uvedený. Doručovat elektronickou poštou lze pouze v případech výslovně uvedených
+v této Smlouvě. V případě, že by nebylo možno oznámení doručit, má se za to, že účinky doručení
+dle této Smlouvy nastaly 3. dne následujícího po dni odeslání, nestanoví-li Smlouva v konkrétních
+případech výslovně jinak.
+
+###14.10 KONTAKTY
+
+Smluvní strany budou pro účely oznamování podle článku 14.9 používat níže uvedené kontaktní
+údaje:
+
+(a) Adresy pro doručování.
+
+**Adresa Garanta**: odbor informatiky, Jungmannova 35/29, Praha 1  
+**Adresa správce**: HAGUESS, a.s., Na Sychrově 975/8, Praha IO, PSČ 101 00
+
+(b) E-mailové adresy.
+
+**E-mailová adresa Garanta:** petr.kolbek@cityofprague.cz
+**E-mailová adresa Správce:** haguess@haguess.cz
+
+(c) Telefonní čísla.
+
+**Telefonní číslo Garanta**: 236 00 26 23
+**Telefonní číslo Správce:** +420 267 212 236
+
+(d) Čísla faxu.
+
+**číslo faxu Garanta:** 236  00 71 50
+**číslo faxu správce:** +420 267 212 234
+
+###14.11 POČET VYHOTOVENÍ
+
+Smlouva se vyhotovuje ve 4 stejnopisech, z nichž každá Smluvní strana obdrží po 2
+vyhotoveních.
+
+V PRAZE DNE 31. 7. 2008
+
+Za Hlavní město Praha:  
+
+......................  
+Jméno *nečitelné*    
+Funkce: ředitel odboru informatiky  
+
+ V PRAZE DNE 31. 7. 2008  
+HAGUESS, a.s.:  
+
+........................  
+Jméno: Mirbslava Turková
+Funkce: předseda představenstva
