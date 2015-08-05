@@ -120,16 +120,16 @@ pozdějších předpisů a dále musí obsahovat tyto údaje:
 9. Přílohou vystaveného daňového dokladu (faktury) poskytovatele musí být protokol o
 předání a převzetí podepsaný Oprávněnými zástupci obou smluvních stran.
 
-10. K odsouhlasení a podpisu protokolu o předání a převzetí za nabyvatelejsou oprávněni:
+10. K odsouhlasení a podpisu protokolu o předání a převzetí za nabyvatele jsou oprávněni:
  * a. Ing. Václav Kraus vaclav.kraus@cityofprague.cz, tel. +420 236 00 2360
- * b. Ing. Petr Kolbek petr.kolbek@cityofpraguc.cz. Tel. +420 236 00 2623
+ * b. Ing. Petr Kolbek petr.kolbek@cityofprague.cz. Tel. +420 236 00 2623
 
 11. K odsouhlasení a podpisu protokolu o předání a převzetí za poskytovatele jsou oprávněni statutární zástupci poskytovatele uvedení v obchodním rejstříku.
 
 12. Nabyvatel je oprávněn vrátit do data splatnosti daňový doklad (fakturu), který obsahuje
 nesprávné cenové údaje nebo který není doložený protokolem o předá a převzetí. O tuto
 dobu od vrácení daňového dokladu (faktury) poskytovateli do vystavení nového
-daňového dokladu (faktury) se prodlužuje splatnost daňověho dokladu (faktury).
+daňového dokladu (faktury) se prodlužuje splatnost daňového dokladu (faktury).
 
 ### Čl. IV.
 **Práva a povinnosti smluvních stran**
@@ -209,7 +209,7 @@ e-mailem.
 
 4. Nabyvatel má právo na bezplatné odstranění poskytovatelem uznané vady programu, na
 opravu vadného licenčního produktu či jeho výměnu za bezvadný, a to vždy nejpozději
-do 10 pracovních dnů od data oznámení vady, případně vjiné, přiměřeně lhůtě
+do 10 pracovních dnů od data oznámení vady, případně v jiné, přiměřeně lhůtě
 dohodnuté mezi stranami, nedovolí-li povaha vady její odstranění ve lhůtě 10
 pracovních dnů.
 
@@ -310,7 +310,7 @@ produktů, které tvoří jeden funkční konfigurovatelný celek.
 * Univerzální řídící systém (System KRONUS)
 * Systém pro správu karet (Card Management System QUANTO)
 * Datový zúčtovací systém (Settlement System KWADROM)
-* Zázemí elektronické peněženky (Back~0ffice E-Purse CHANSON)
+* Zázemí elektronické peněženky (Back-Office E-Purse CHANSON)
 
 Licence na Software SKC je poskytována vždy časově neomezená, nepřenositelná a nevýhradní. Součástí Licence Aplikace SKC nejsou zdrojové kódy. Licence na Aplikace SKC
 je poskytována v závislosti na třech parametrech:
@@ -350,7 +350,7 @@ je poskytována v závislosti na třech parametrech:
 
 Výsledná Licence je definována na základě požadavku objednatele podle jím očekávané velikosti
 systému. Objednatel není omezen v realizací upgrade Licence z nižšího typu na vyšší typ. Poskytovatel
-poskytuje licenci typu CJILI. ve variantě, která nabyvateli umožňuje vést informace pro LIMIT
+poskytuje licenci typu C.III. ve variantě, která nabyvateli umožňuje vést informace pro LIMIT
 200.000 evidovaných karet, počet konfigurovaných STANIC je do 45 a Počet integrovaných
 K.APLIKACÍ je do 5. Cena Licence je vypočtena jako:
 
