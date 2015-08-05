@@ -1,3 +1,50 @@
+---
+"id":               &id LIC/40/01/001613/2008
+"layout":           contract
+"datum podpisu":    2008-07-14
+"datum účinnosti":  2008-07-14
+title:              Licenční smlouva
+"použité smluvní typy":
+  - licenční smlouva
+"předmět":          Licenční smlouva pro provoz Servisního karetního centra
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor informatiky
+  "zástupce": Ing. Václav Kraus
+  "funkce":   ředitel odboru informatiky
+  "značka":   *id
+ -   
+  "jméno":    "HAGUESS, a.s"
+  "zástupce": Miroslava Turková
+  "funkce":   předseda představenstva
+  "značka":   neznámá
+  "role":     poskytovatel
+
+"náklady": 17385900
+
+"soubory":
+ - 
+  "název": "Licenční smlouva"
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+ # jen u smluv (nikoliv úplných znění)
+"ruší": 
+   - 
+"mění": 
+   - 
+   
+ # typicky jen u úplných zněních
+"změněno":        
+   - 
+"zrušeno":
+---
+
+
 ## Licenční smlouva Č. LIC/40/01/001613/2008
 
 Níže uvedeného dne, měsíce a roku
