@@ -241,19 +241,19 @@ zákonů (autorský zákon), ve znění pozdějších předpisů.
 
 3. Tato smlouva může být měněna jen se souhlasem smluvních stran, a to formou
 písemných číslovaných dodatků podepsaných zástupci obou smluvních stran. Tato
-smlouva ruší a v plném rozsahu nahrazuje licenční smlouvu č. LIC/40/05/001 128/2006
+smlouva ruší a v plném rozsahu nahrazuje licenční smlouvu č. LIC/40/05/001128/2006
 uzavřenou mezi smluvními stranami dne 6.1 1.2006.
 
 4. Poskytovatel je povinen nakládat se všemi daty poskytnutými nabyvatelem ke
 zpracování jako s informacemi důvěmými. Budou-li data poskytnutá nabyvatelem
 podléhat režimu zvláštní ochrany podle zákona č. 101/2000 Sb., o ochraně osobních
-údajů a o změně některých zákonů, jsou obě smluvní strany povinny zabeZpečit splnění všech ohlašovacích povinností, které citovaný zákon vyžaduje, a obstarat předepsaná
+údajů a o změně některých zákonů, jsou obě smluvní strany povinny zabezpečit splnění všech ohlašovacích povinností, které citovaný zákon vyžaduje, a obstarat předepsaná
 povolení. Bude-li nezbytné pro plnění této smlouvy splnit ohlašovací povinnosti dle cit.
 zákona, realizace předmětu plnění se pozastavuje na dobu do řádného splnění takových
 povinností a obě smluvní strany se zavazují vyvinout veškerou součinnost ke splnění
 těchto ohlašovacich povinností. Poskytovatel se zavazuje, Že pokud se v souvislosti
 s realizací předmětu této smlouvy při plnění svých povinností setkají jeho pověření
-pracovníci s osobními údaji ve smyslu zákona ě. 101/2000 Sb., o ochraně osobních
+pracovníci s osobními údaji ve smyslu zákona č. 101/2000 Sb., o ochraně osobních
 údajů a o změně některých zákonů, učiní veškerá opatření, kromě zachování povinnosti
 mlčenlivosti dle tohoto odstavce, aby nedošlo k neoprávněnému nebo nahodilému
 přístupu k těmto údajům, k jejich změně, zničení či ztrátě, neoprávněným přenosům, k
@@ -299,7 +299,7 @@ Hlavní mesto Praha
 
 ### Příloha 1 - k Licenční smlouvě
 
-**Č. LIC/4O/O1/OO1613/2008**  
+**Č. LIC/40/01/001613/2008**  
 
 **Podrobný popis Software SKC**  
 Popis Licenčního modelu pro Software SKC:
@@ -317,36 +317,36 @@ je poskytována v závislosti na třech parametrech:
 
 1. Počet evidovaných karet v Aplikacích SKC (LIMIT)
 
-|Typ|LIMIT od -do|Cena za evidovanou kartu (CK = 300 Kč bez DPH)|
-|---|---|---|---|
-|A.| 0| 50.000| 100 %|
-|B.| 50.001| 100.000| 73 %|
-|C.| 100.001| 250.000| 58 %|
-|D.| 250.001| 500.000| 51 %|
-|E.| 500.001| 1.000.000| 43 %|
-|F.| 1.000.001| a více| 30%|
++  |Typ|LIMIT od -do|Cena za evidovanou kartu (CK = 300 Kč bez DPH)|
++  |---|---|---|---|
++  |A.| 0| 50.000| 100 %|
++  |B.| 50.001| 100.000| 73 %|
++  |C.| 100.001| 250.000| 58 %|
++  |D.| 250.001| 500.000| 51 %|
++  |E.| 500.001| 1.000.000| 43 %|
++  |F.| 1.000.001| a více| 30%|
 
 2. Počet konfigurovaných uživatelských terminálů pracujících s kartovými aplikacemi v SKC (STANlC)
 
-|Typ| STANIC| od -do| Cena za konfigurovanou stanici (cs = 75.000 Kč bez DPH)|
-|---|---|---|---|
-|I. |0 |15 |100%|
-|II.| 16 |30 |92 %|
-|III.| 31 |45 |84 %|
-|IV.| 46 |60 |76 %|
-|V. |61 |75 |68 %|
-|VI. |76 |a více| 60 %|
++  |Typ| STANIC| od -do| Cena za konfigurovanou stanici (cs = 75.000 Kč bez DPH)|
++  |---|---|---|---|
++  |I. |0 |15 |100%|
++  |II.| 16 |30 |92 %|
++  |III.| 31 |45 |84 %|
++  |IV.| 46 |60 |76 %|
++  |V. |61 |75 |68 %|
++  |VI. |76 |a více| 60 %|
 
 3. Počet kartových aplikaci integrovaných v Aplikaclch SKC (K.APLIKACE)
 
-|Typ|K.APLIKACE od -do|Cena za integrovanou kartovou aplikaci (CA u 1.000.000 Kč bez DPH)|
-|---|---|---|---|
-|1 |0 |5 |100%|
-|2 |5 |10| 83 %|
-|3 |11 |15| 66 %|
-|4 |16 |20| 50 %|
-|5 |21 |25| 33 %|
-|6 |26 |a více| 25 %|
++  |Typ|K.APLIKACE od -do|Cena za integrovanou kartovou aplikaci (CA u 1.000.000 Kč bez DPH)|
++  |---|---|---|---|
++  |1 |0 |5 |100%|
++  |2 |5 |10| 83 %|
++  |3 |11 |15| 66 %|
++  |4 |16 |20| 50 %|
++  |5 |21 |25| 33 %|
++  |6 |26 |a více| 25 %|
 
 Výsledná Licence je definována na základě požadavku objednatele podle jím očekávané velikosti
 systému. Objednatel není omezen v realizací upgrade Licence z nižšího typu na vyšší typ. Poskytovatel
