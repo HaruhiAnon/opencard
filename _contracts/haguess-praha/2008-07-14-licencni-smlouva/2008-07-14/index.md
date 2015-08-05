@@ -488,7 +488,7 @@ Na Michovkách 1686
 DIČ: CZ25085166  
 
 ## Příloha 2 - k Licenční smlouvě
-č. LIC/40/01/001613/2008
+**č. LIC/40/01/001613/2008**
 
 Podrobná specifikace licenční politiky poskytovatele
 Ostatní licenční podmínky
@@ -498,30 +498,30 @@ Software SKC podle specifikace uvedené v příloze č. 1 této Licenční smlou
 autorských práv s tímto Software SKC spojených, a že je ze zákona oprávněn poskytovat
 licenci k využívání Software SKC bez souhlasu třetí strany.
 
-* 1. Nabyvatel je srozuměn se skutečností, že držitelem veškerých autorských práv
+1. Nabyvatel je srozuměn se skutečností, že držitelem veškerých autorských práv
 spojených se Software SKC této Licenční smlouvy je poskytovatel, který nabyvateli
 poskytuje licenci pro využívání Software SKC.
 
-* 2. Nabyvatel se zavazuje používat Software SKC tak, aby nedošlo k porušení či .ohrožení
+2. Nabyvatel se zavazuje používat Software SKC tak, aby nedošlo k porušení či .ohrožení
 autorských práv poskytovatele.
 
-* 3. Převést oprávnění získané na základě této smlouvy na třetí osobu smí nabyvatel pouze s
+3. Převést oprávnění získané na základě této smlouvy na třetí osobu smí nabyvatel pouze s
 předchozím písemným souhlasem poskytovatele.
 
-* 4. Součástí poskytovatelem nabyvateli poskytnuté licence nejsou zdrojové kódy k
+4. Součástí poskytovatelem nabyvateli poskytnuté licence nejsou zdrojové kódy k
 Software SKC.
 
-* 5. Úprava Software SKC (aktualizace nebo též release) je dílem ve smyslu zák. č.
+5. Úprava Software SKC (aktualizace nebo též release) je dílem ve smyslu zák. č.
 121/2000 Sb. (autorský zákon) a požívá plné ochrany podle tohoto zákona. Všechny
 úpravy a aktualizace Software SKC se považují za jeho nedílnou součást.
 
-* 6. Nabyvatel souhlasí s tím, že nesmí provádět žádné změny do Software SKC ani do
+6. Nabyvatel souhlasí s tím, že nesmí provádět žádné změny do Software SKC ani do
 doprovodných souborů vyjma takových změn, které jsou prováděny obslužnými
 programy dodanými s instalací Software SKC. Nabyvatel je povinen informovat
 poskytovatele o všech změnách, které mají nebo mohou mit vliv na Software SKC, a to
 před jejich provedením.
 
-* 7. Nabyvatel není oprávněn zkoumat Software SKC, studovat jej nebo zkoušet jeho
+7. Nabyvatel není oprávněn zkoumat Software SKC, studovat jej nebo zkoušet jeho
 fungování za účelem zjištění myšlenek a principů, na nichž je založen kterýkoliv prvek
 Software SKC, jinak než v rámci obvyklého využívání programu. K jakýmkoliv
 úpravám, doplňkům a změnám Software SKC nebo jeho doprovodné dokumentace, a to
@@ -529,7 +529,7 @@ i když takové zásahy směřují k opravě zřejmé vady nebo jsou v souladu s
 účelem při jeho operativním využití nabyvatelem, je nabyvatel oprávněn pouze na
 základě předchozího písemného souhlasu poskytovatele.
 
-* 8. Veškeré myšlenky a jejich vyjádření obsažené v licenčních produktech jsou zároveň
+8. Veškeré myšlenky a jejich vyjádření obsažené v licenčních produktech jsou zároveň
 předmětem obchodního tajemství poskytovatele. Předmětem obchodního tajemství jsou
 i veškeré další informace o skutečnostech obchodní, výrobní a technické povahy
 týkající se předmětných licenčních produktů, které byly poskytovatelem předány
@@ -544,17 +544,17 @@ zpřístupněny třetím osobám, ledaže by k tomu dostal předchozí písemný
 poskytovatel. Za tim účelem se nabyvatel zavazuje svěřit skutečnosti tvořící obchodní
 tajemství poskytovatele jen těm svým pracovníkům, u kterých je znalost těchto skutečností předpokladem k smluvenému využití Software SKC, a to pouze v nezbytném rozsahu. Tyto pracovníky, jakož i ostatní své pracovníky se nabyvatel zavazuje informovat o tom, že veškeré podkaldy a informace, týkající se Software SKC jsou předmětem obchodního tajemství poskytovatele, zavázat je k mlčenlivosti a zakázat jim, aby si pořizovali kopie jakýchkoliv podkladů či vlastního Software SKC. Nabyvatel se zavazuje zajistit, že dodržování obchodního tajemství jeho pracovníky bude soustavně posuzováno a kontrolováno. 
 
-* 9. Poskytovatel nemůže v žádném případě zaručit nepřetržité a trvale bezchybné fungování jak informačního sysétmu nabyvatele, tak jeho výpočetní techniky, ani neruší za správnst a kvalitu dat zadaných pracovníky nabyvatele v Software SKC. zavazuje se však, že servisní služby budou zajišťovány tak, aby Software SKC byl způsobilý pro užití k smluvenému účelu a zachoval si takto stanovené smluvené a obyvklé vlastnosti. 
+9. Poskytovatel nemůže v žádném případě zaručit nepřetržité a trvale bezchybné fungování jak informačního sysétmu nabyvatele, tak jeho výpočetní techniky, ani neruší za správnst a kvalitu dat zadaných pracovníky nabyvatele v Software SKC. zavazuje se však, že servisní služby budou zajišťovány tak, aby Software SKC byl způsobilý pro užití k smluvenému účelu a zachoval si takto stanovené smluvené a obyvklé vlastnosti. 
 
-* 10. Záruka se nevztahuje na vady způsobené neodbomým použitím Software SKC či jiným  jeho použitím v rozporu s postupem předepsaným v poskytovatelem 'dodané
+10. Záruka se nevztahuje na vady způsobené neodbomým použitím Software SKC či jiným  jeho použitím v rozporu s postupem předepsaným v poskytovatelem 'dodané
 dokumentaci k Software SKC, jakož i jeho neoprávněnému pozměnění či použitím na jiném technickém zařízení než na příslušném hardware dodaném nebo schváleném
 poskytovatelem. Poskytovatel dále neodpovídá za vady způsobené zásahem nabyvatele nebo programem třetí strany do Software SKC, včetně napadení počítačovými viry, změnou instalace programu a změnou nastaveni konfigurace HW, která nebyla
 odsouhlasena poskytovatelem.
 
-* 11. Nabyvatel souhlasí s tím, že porušení ustanovení uvedených v tomto článku představuje
+11. Nabyvatel souhlasí s tím, že porušení ustanovení uvedených v tomto článku představuje
 porušení této smlouvy a straně poskytovatele vzniká nárok na odškodnění.
 
-* 12. Záruka se rovněž nevztahuje na ztrátu dat z paměťových médií a to i v důsledku
+12. Záruka se rovněž nevztahuje na ztrátu dat z paměťových médií a to i v důsledku
 přímého nezavinění obsluhou. Poskytovatel nenese odpovědnost za škody způsobené
 nabyvateli vlivem ztráty či poškození dat, jakož i jakoukoli manipulací s nimi.
 Poskytovatel nese odpovědnost za ztrátu dat pouze v případě, že byla způsobena
