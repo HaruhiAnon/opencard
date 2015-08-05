@@ -571,11 +571,11 @@ Hlavní město Praha
 
 Poskytovatel:
 
-Haguess, a.s.
-Na Michovkóch 1.686
-252 43 Průhonice
-IČ: 25085166
-DIČ: CZ26085166
+Haguess, a.s.  
+Na Michovkách 1686  
+252 43 Průhonice  
+IČ: 25085166  
+DIČ: CZ26085166  
 
 ## Licence aplikačního software
 
