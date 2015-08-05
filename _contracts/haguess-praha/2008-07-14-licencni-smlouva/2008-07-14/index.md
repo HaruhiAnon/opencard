@@ -75,8 +75,7 @@ SKC.
 4. Podrobné podmínky poskytnutí licence jsou uvedeny v příloze č. 2 této Licenční
 smlouvy.
 
-### Čl. III.
-**Předmět smlouvy**  
+### Čl. III. Předmět smlouvy  
 
 1. Poskytovatel se zavazuje poskytnout nabyvateli podle ustanovení § 46 a násl. zákona č. 121/2000 Sb. autorského zákona, ve znění pozdějších předpisů, oprávnění k výkonu
 práva užít Software SKC v licenci typu C. III. 1 (dále jen ”licence”). Licence se uděluje
@@ -89,10 +88,10 @@ do 5 v souladu s přílohou č.1 této smlouvy.
 
 2. Cena za poskytnutí této licence je:
 
-Celková cena bez DPH: 14 610 000 Kč  
-Procentní sazba DPH: 19 %  
-Výše DPH: 2 775 900 Kč  
-Celková cena včetně DPH: 17 385 900 Kč  
+   Celková cena bez DPH: 14 610 000 Kč  
+   Procentní sazba DPH: 19 %  
+   Výše DPH: 2 775 900 Kč  
+   Celková cena včetně DPH: 17 385 900 Kč  
 
 3. Uvedená cena může být změněna jen v případě změny zákonné výše DPH, pokud se tato zákonná změna vztahuje na předmět této smlouvy. Cena za poskytnutí licence k Software SKC zahrnuje i cenu za dodávku příslušných nosičů a dokumentace a cenu za dopravu, balení a úpravu nastavení softwarových produktů za účelem plného využití
 licence podle této smlouvy.
@@ -113,16 +112,16 @@ nabyvateli.
 dokladu (faktury) ve smyslu zákona č. 235/2004 Sb. o dani z přidané hodnoty, ve znění
 pozdějších předpisů a dále musí obsahovat tyto údaje:
 
-* a. Číslo smlouvy nabyvatele, popřípadě dodatku
-* b. Číslo a název zakázky
-* c. Popis plnění (dílčího plnění)
+   * a. Číslo smlouvy nabyvatele, popřípadě dodatku
+   * b. Číslo a název zakázky
+   * c. Popis plnění (dílčího plnění)
 
 9. Přílohou vystaveného daňového dokladu (faktury) poskytovatele musí být protokol o
-předání a převzetí podepsaný Oprávněnými zástupci obou smluvních stran.
+   předání a převzetí podepsaný Oprávněnými zástupci obou smluvních stran.
 
 10. K odsouhlasení a podpisu protokolu o předání a převzetí za nabyvatele jsou oprávněni:
- * a. Ing. Václav Kraus vaclav.kraus@cityofprague.cz, tel. +420 236 00 2360
- * b. Ing. Petr Kolbek petr.kolbek@cityofprague.cz. Tel. +420 236 00 2623
+    * a. Ing. Václav Kraus vaclav.kraus@cityofprague.cz, tel. +420 236 00 2360
+    * b. Ing. Petr Kolbek petr.kolbek@cityofprague.cz. Tel. +420 236 00 2623
 
 11. K odsouhlasení a podpisu protokolu o předání a převzetí za poskytovatele jsou oprávněni statutární zástupci poskytovatele uvedení v obchodním rejstříku.
 
@@ -131,8 +130,7 @@ nesprávné cenové údaje nebo který není doložený protokolem o předá a p
 dobu od vrácení daňového dokladu (faktury) poskytovateli do vystavení nového
 daňového dokladu (faktury) se prodlužuje splatnost daňového dokladu (faktury).
 
-### Čl. IV.
-**Práva a povinnosti smluvních stran**
+### Čl. IV. Práva a povinnosti smluvních stran
 
 1. Poskytovatel se zavazuje poskytnout nový typ licence Software SKC v souladu Čl. III odstavec 1. této smlouvy formou rozšíření úvodní licence Software SKC. Poskytnutí
 nového typu licence Software SKC doloží poskytovatel nabyvateli vystavením
@@ -368,105 +366,108 @@ konfigurována v libovolné konfiguraci, kteráje potřebná pro řádný provoz
 Detailní definice funkčnosti specifikované vjednotlivých bodech této přílohy je vymezena
 interaktivním helpem, kterýje součástí Software SKC a dokumentací k Software SKC.
 
-|**Komponenty**| |**Popis**|**KS**|
-|---|---|---|---|
-| | |1. Univerzální řídící systém KRONUS|2|
-| | |**Administrace nabídky činnosti**|2|
-| | |přihlášení uživatelů do požadovaného systému.|2|
-| | |Dynamická tvorba nabídky činností v závislosti na přihlášeném uživateli a jeho přístupových právech|2|
-| | |**Správa rolí a uživatelů systémů**|2|
-| | |Deinice rolí uživatelů, pro konkrétní roli možnost specifikace, co může uživatel zařazený v této roli provádět. Činnosti jsou popsány do úrovně spouštění jednotlivých formulářů a vytváření tiskových sestav|2|
-| | |Evidence uživatelů a jejich zařazení v rolích|2|
-| | |**Monitoring a reporting**|2|
-| | |Protokolace zakládání důležitých datových entit (např. osoba nebo karet) ve struktuře kdo (uživatel), kde (pracoviště, aplikace, dialog) a kdy data pořídil.|2|
-| | |Protokolace činnosti uživatelů|2|
-| | |Protokolace změn v datech|2|
-| | |Protokolace chyb v běhu programů|2|
-| | |Správa protokolů - protokoly je možné prohlížet, vyhledávat v nich a vytvářet tiskové sestavy (detail nebo seznam záznamů).|2|
-| | |Možnost sledování aktuálně prováděných činností (kdo a kde spustil jakou činnost).|2|
-| | |Archivace protokolů s následným výmazem z provozní databáze. Správa protokolů umožňuje obsluhovat i data archivu.|2|
-| | |Jednotný systém správy reportů a sestav, možnost vyhledávat, prohlížet a tisknout sestavy vytvořené ve všech modulech.|2|
-| | |**2. Card management Quanto**|2|
-| | |**Správa klientů**|2|
-| | |Klientem může být vlastník nebo držitel karty, provozovatel kartové aplikace.|2|
-| | |Správa fyzických a právnických osob.|2|
-| | |Definice organizační struktury právnických osob.|2|
-| | |Vazby mezi fyzickými a právnickými osobami.|2|
-| | |Definice typů adres, kontaktů a připojených dokumentů pro fyzické osoby i právnické osoby.|2|
-| | |Definice rolí osoby (např. provozovatel veřejné nebo vyhrazené kartové aplikace).|2|
-| | |**Evidence žádostí**|2|
-| | |Žádost o vydání karty.|2|
-| | |Žádost o zablokování karty.|2|
-| | |Žádost o zrušení karty.|2|
-| | |Žádost o aktivaci karty.|2|
-| | |Žádost o výměnu karty.|2|
-| | |Žádost o aktivaci/zablokování aplikace na kartě.|2|
-| | |**Evidence kartových aplikací**|2|
-| | |Evidence kartových aplikací ve vazbě na typu čipu|2|
-| | |Evidence kartové aplikcae a jejího stavu pro každou vydanou kartu.|2|
-| | |**Evidence a správa karet**|2|
-| | |Evidence pěti druhů karet: karta občanská, zaměstnanecká, rodičovská, anonymní turistická a sponzorská|2|
-| | |Definice podtiskových šablon pro grafickou perzonalizaci karet.|2|
-| | |Definice typů karet podle výrobce a osázených čipů.|2|
-| | |Správa karet v jejich životním cyklu, tzn. pořízení žádostí, personalizace, vydání karet klientům a zrušení karet.|2|
-| | |Evidence stavu karty ve vztahu ke kartovým aplikacím, které jsou na kartě provozované, a ke stavu těchto aplikací.|2|
-| | |**Komunikace s aplikacemi**|2|
-| | |Dávková komunikace založená na souborech se strukturou XML. Ve směru k systémům kartových aplikací se přenášejí data o klientech a kartách vydaných pro danou aplikaci. Ve směru k programu QUANTO kartová aplikace každý záznam potvrdí, nebo zamítne.|2|
-| | |On-line komunikace. Systém kartové aplikace přečte ve čtečce identifikaci karty, další informace o kartě a jejím držiteli získá z datové základny programu QUANTO.|2|
-| | |Kombinace prvních dvou variant - QUANTO odesílá systému kartové aplikace pouze informace o nově vydaných kartách (příp. žádosti o zablokování), ostatní informace získává kartová aplikace z datové základny programu QUANTO.|2|
-| | |Dávkový export karet zařazených pro danou kartovou aplikaci na tzv. black-list|2|
-| | |**Evidence a správa poplatků**|2|
-| | |Otevřená definice a správa typů poplatků za služby spojené s kartami  kartovými aplikacemi.|2|
-| | |Správa poplatků, vyhledávání a reporty podle klientů a stavů poplatků.|2|
+|**Komponenty, Popis**|**KS**|
+|---|---|
+|**1. Univerzální řídící systém KRONUS**|2|
+|*Administrace nabídky činnosti*|2|
+|přihlášení uživatelů do požadovaného systému.|2|
+|Dynamická tvorba nabídky činností v závislosti na přihlášeném uživateli a jeho přístupových právech|2|
+|*Správa rolí a uživatelů systémů*|2|
+|Deinice rolí uživatelů, pro konkrétní roli možnost specifikace, co může uživatel zařazený v této roli provádět. Činnosti jsou popsány do úrovně spouštění jednotlivých formulářů a vytváření tiskových sestav|2|
+|Evidence uživatelů a jejich zařazení v rolích|2|
+|*Monitoring a reporting*|2|
+|Protokolace zakládání důležitých datových entit (např. osoba nebo karet) ve struktuře kdo (uživatel), kde (pracoviště, aplikace, dialog) a kdy data pořídil.|2|
+|Protokolace činnosti uživatelů|2|
+|Protokolace změn v datech|2|
+|Protokolace chyb v běhu programů|2|
+|Správa protokolů - protokoly je možné prohlížet, vyhledávat v nich a vytvářet tiskové sestavy (detail nebo seznam záznamů).|2|
+|Možnost sledování aktuálně prováděných činností (kdo a kde spustil jakou činnost).|2|
+|Archivace protokolů s následným výmazem z provozní databáze. Správa protokolů umožňuje obsluhovat i data archivu.|2|
+|Jednotný systém správy reportů a sestav, možnost vyhledávat, prohlížet a tisknout sestavy vytvořené ve všech modulech.|2|
 
-|**Komponenty**| |**Popis**|**KS**|
-|---|---|---|---|
-| | |**3. Datový zúčtovací systém Kwadrom**|2|
-| | |**Správa klientů**|2|
-| | |Klient je vlastník účtu|2|
-| | |Správa fyzických a právnických osob|2|
-| | |Definice organizační struktury právnických osob|2|
-| | |Vazby mezi fyzickými a právnickými osobami|2|
-| | |Definice typů adres, kontaktů a propojených dokumentů pro fyzické i právnické osoby|2|
-| | |**Evidence smluv**|2|
-| | |Správa smluv o vedení účtů.|2|
-| | |**Evidence a správa účtů**|2|
-| | |Definice a správa typů účtů|2|
-| | |Správa vnitřních účtů systému.|2|
-| | |Vnitřní účty a účty klientů.|2|
-| | |Evidence bankovních účtů klientů.|2|
-| | |**Evidence a správa poplatků.**|2|
-| | |Otevřená definice a správa typů poplatků za služby spojené s vedením účtů, zpracováním výpisů a zpracováním platebních transakcí.|2|
-| | |Správa poplatků, vyhledávání a reporty podle klientů a stavu poplatků.|2|
-| | |**Evidence zpracování transakcí**|2|
-| | |Definice a správa typů transakcí|2|
-| | |Zpracování platebních transakcí - pořizování, import, export, účtování, ošetření nezařazených plateb.|2|
-| | |Prohlížení transakcí, vyhledávání pro účely reklamací, geneorvání výpisů.|2|
-| | |Zpracování bankovních výpisů|2|
-| | |Generování platebníchp říkazů pro banku|2|
-| | |Vytváření reportů pro účtování.|2|
-| | |**Správa provizí**|2|
-| | |Definice a správa provizí z provedených transakcí|2|
+|**Komponenty, Popis**|**KS**|
+|---|---|
+|*2. Card management Quanto*|2|
+|*Správa klientů*|2|
+|Klientem může být vlastník nebo držitel karty, provozovatel kartové aplikace.|2|
+|Správa fyzických a právnických osob.|2|
+|Definice organizační struktury právnických osob.|2|
+|Vazby mezi fyzickými a právnickými osobami.|2|
+|Definice typů adres, kontaktů a připojených dokumentů pro fyzické osoby i právnické osoby.|2|
+|Definice rolí osoby (např. provozovatel veřejné nebo vyhrazené kartové aplikace).|2|
+|*Evidence žádostí*|2|
+|Žádost o vydání karty.|2|
+|Žádost o zablokování karty.|2|
+|Žádost o zrušení karty.|2|
+|Žádost o aktivaci karty.|2|
+|Žádost o výměnu karty.|2|
+|Žádost o aktivaci/zablokování aplikace na kartě.|2|
+|*Evidence kartových aplikací*|2|
+|Evidence kartových aplikací ve vazbě na typu čipu|2|
+|Evidence kartové aplikcae a jejího stavu pro každou vydanou kartu.|2|
+|*Evidence a správa karet*|2|
+|Evidence pěti druhů karet: karta občanská, zaměstnanecká, rodičovská, anonymní turistická a sponzorská|2|
+|Definice podtiskových šablon pro grafickou perzonalizaci karet.|2|
+|Definice typů karet podle výrobce a osázených čipů.|2|
+|Správa karet v jejich životním cyklu, tzn. pořízení žádostí, personalizace, vydání karet klientům a zrušení karet.|2|
+|Evidence stavu karty ve vztahu ke kartovým aplikacím, které jsou na kartě provozované, a ke stavu těchto aplikací.|2|
+|*Komunikace s aplikacemi*|2|
+|Dávková komunikace založená na souborech se strukturou XML. Ve směru k systémům kartových aplikací se přenášejí data o klientech a kartách vydaných pro danou aplikaci. Ve směru k programu QUANTO kartová aplikace každý záznam potvrdí, nebo zamítne.|2|
+|On-line komunikace. Systém kartové aplikace přečte ve čtečce identifikaci karty, další informace o kartě a jejím držiteli získá z datové základny programu QUANTO.|2|
+|Kombinace prvních dvou variant - QUANTO odesílá systému kartové aplikace pouze informace o nově vydaných kartách (příp. žádosti o zablokování), ostatní informace získává kartová aplikace z datové základny programu QUANTO.|2|
+|Dávkový export karet zařazených pro danou kartovou aplikaci na tzv. black-list|2|
+|*Evidence a správa poplatků*|2|
+|Otevřená definice a správa typů poplatků za služby spojené s kartami  kartovými aplikacemi.|2|
+|Správa poplatků, vyhledávání a reporty podle klientů a stavů poplatků.|2|
 
-|**Komponenty**| |**Popis**|**KS**|
+|**Komponenty, Popis**|**KS**|
 |---|---|---|---|
-| | |**4. Zázemí elektronické peněženky Chanson**|2|
-| | |**Správa klientů**|2|
-| | |Klientem je obchodní nebo vlastník elektronické peněženky|2|
-| | |Správa fyzických a právnických osob.|2|
-| | |Definice organizační struktury právnických osob.|2|
-| | |Vazby mezi fyzickými a právnickými osobami.|2|
-| | |Definice typu adres, kontaktů a připojených dokumentů pro fyzické osoby i právnické osoby|2|
-| | |**Správa zařízení infrastruktury**|2|
-| | |Evidence obchodníků a jejich provozoven, evidence bankovních účtů obchodníků.|2|
-| | |Správa platebních zařízení elektronické peněženky, evidence zařízení ve vazbě na provozovnu obchodníka.|2|
-| | |**Card management elektronické peněženky.**|2|
-| | |Práce s kartami na kterých je aktivovaná aplikace elektronické peněženky (informace programu QUANTO).|2|
-| | |**Evidence zpracování transakcí**|2|
-| | |Příjem azpracování transakce nabíjení/vybíjení elektronické peněženky.|2|
-| | |Import karetních transakcí z front office elektronické peněženky, jejich zpracování a export pro KWADROM.|2|
-| | |Evidence přijatých transakcí elektronické peněženky.|2|
-| | |Generování a export dokladů do KWADROM pro účtování provizí.|2|
+|**3. Datový zúčtovací systém Kwadrom**|2|
+|*Správa klientů*|2|
+|Klient je vlastník účtu|2|
+|Správa fyzických a právnických osob|2|
+|Definice organizační struktury právnických osob|2|
+|Vazby mezi fyzickými a právnickými osobami|2|
+|Definice typů adres, kontaktů a propojených dokumentů pro fyzické i právnické osoby|2|
+|*Evidence smluv*|2|
+|Správa smluv o vedení účtů.|2|
+|*Evidence a správa účtů*|2|
+|Definice a správa typů účtů|2|
+|Správa vnitřních účtů systému.|2|
+|Vnitřní účty a účty klientů.|2|
+|Evidence bankovních účtů klientů.|2|
+|*Evidence a správa poplatků.*|2|
+|Otevřená definice a správa typů poplatků za služby spojené s vedením účtů, zpracováním výpisů a zpracováním platebních transakcí.|2|
+|Správa poplatků, vyhledávání a reporty podle klientů a stavu poplatků.|2|
+|*Evidence zpracování transakcí*|2|
+|Definice a správa typů transakcí|2|
+|Zpracování platebních transakcí - pořizování, import, export, účtování, ošetření nezařazených plateb.|2|
+|Prohlížení transakcí, vyhledávání pro účely reklamací, geneorvání výpisů.|2|
+|Zpracování bankovních výpisů|2|
+|Generování platebníchp říkazů pro banku|2|
+|Vytváření reportů pro účtování.|2|
+|*Správa provizí*|2|
+|Definice a správa provizí z provedených transakcí|2|
+
+|**Komponenty, Popis**|**KS**|
+|---|---|
+|**4. Zázemí elektronické peněženky Chanson**|2|
+|*Správa klientů*|2|
+|Klientem je obchodní nebo vlastník elektronické peněženky|2|
+|Správa fyzických a právnických osob.|2|
+|Definice organizační struktury právnických osob.|2|
+|Vazby mezi fyzickými a právnickými osobami.|2|
+|Definice typu adres, kontaktů a připojených dokumentů pro fyzické osoby i právnické osoby|2|
+|*Správa zařízení infrastruktury*|2|
+|Evidence obchodníků a jejich provozoven, evidence bankovních účtů obchodníků.|2|
+|Správa platebních zařízení elektronické peněženky, evidence zařízení ve vazbě na provozovnu obchodníka.|2|
+|*Card management elektronické peněženky.*|2|
+|Práce s kartami na kterých je aktivovaná aplikace elektronické peněženky (informace programu QUANTO).|2|
+|*Evidence zpracování transakcí*|2|
+|Příjem azpracování transakce nabíjení/vybíjení elektronické peněženky.|2|
+|Import karetních transakcí z front office elektronické peněženky, jejich zpracování a export pro KWADROM.|2|
+|Evidence přijatých transakcí elektronické peněženky.|2|
+|Generování a export dokladů do KWADROM pro účtování provizí.|2|
 
 Poskytovatel prohlašuje a zaručuje, že je oprávněnou osobou knakládání s autorskými
 právy vztahujícími se k Software SKC, a že je oprávněn poskytovat licenci kvyužívání
