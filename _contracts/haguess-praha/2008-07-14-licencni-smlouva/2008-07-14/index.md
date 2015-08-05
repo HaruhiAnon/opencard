@@ -4,8 +4,7 @@ Níže uvedeného dne, měsíce a roku
 
 Smluvní strany:
 
-
-**Hlavní město Praha**
+**Hlavní město Praha**  
 **zast. Ing. Václavem Krausem, ředitelem odboru Informatiky MHMP**  
 IČ: 00064581  
 DIČ: C200064581  
@@ -60,20 +59,20 @@ souladu s touto Licenční smlouvou.
 ### Čl. II
 **Účel Smlouvy**  
 
-* 1. Účelem této smlouvy je upravit vzájemná práva a povinností smluvních stran v
+1. Účelem této smlouvy je upravit vzájemná práva a povinností smluvních stran v
 souvislosti s poskytnutím práv k užití (licence) softwarových produktů specifikovaných
 podrobně v příloze č. 1 této Licenční smlouvy za účelem provozu Servisního Kartového
 Centra.
 
-* 2. Licence bude poskytnuta pro využití vedení evidence o 200 000 vydaných čipových
+2. Licence bude poskytnuta pro využití vedení evidence o 200 000 vydaných čipových
 kartách a vrozsahu nezbytném pro kvalitní provoz Servisního Kartového Centra.
 Licence je toto smlouvou rozšířena z původně poskytnutého typu licence B. I. 1 na typ
 licence C. III. 1. v souladu s přílohou č. 1 této licenční smlouvy.
 
-* 3. Tato licenční smlouva se uzavírá na celou dobu trvání majetkových práv k Software
+3. Tato licenční smlouva se uzavírá na celou dobu trvání majetkových práv k Software
 SKC.
 
-* 4. Podrobné podmínky poskytnutí licence jsou uvedeny v příloze č. 2 této Licenční
+4. Podrobné podmínky poskytnutí licence jsou uvedeny v příloze č. 2 této Licenční
 smlouvy.
 
 ### Čl. III.
