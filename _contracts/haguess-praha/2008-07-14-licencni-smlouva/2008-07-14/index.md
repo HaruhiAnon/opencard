@@ -32,13 +32,10 @@ title:              Licenční smlouva
   "upravitelná verze": 
   "náhled": miniatura.jpg
 
- # jen u smluv (nikoliv úplných znění)
 "ruší": 
    - 
 "mění": 
    - 
-   
- # typicky jen u úplných zněních
 "změněno":        
    - 
 "zrušeno":
