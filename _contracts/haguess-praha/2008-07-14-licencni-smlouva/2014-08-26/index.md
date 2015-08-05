@@ -341,11 +341,11 @@ v závislosti na třech parametrech:
 
 1. Počet evidovaných karet v aplikacích SKC (LIMIT)
 
-|Typ|Limit od-do|Limit od-do|Cena za 1 evidovanou kartu (CK)|
-|---| ------- | ------- | ----- |
-|E.|650.001|do 950.000|cena za licenci v rozsahu limitu E byla Nabyvatelem Poskytovateli v minulosti plně uhrazena|
-|F.|950.001|1.270.000|50,- Kč bez DPH. Cena za navýšení LIMITU v rámci licence typu F bude ze strany Nabyvatele poskytovateli hrazena v souladu s podmínkami dodatku č. 3 Smlouvy.|
-|G.|1.270.001|Neomezenn, konkrétní hodnota LIMITU bude určen požadavkem nabyvatele|Maximálně 50,- Kč bez DPH|
+  |Typ|Limit od-do|Limit od-do|Cena za 1 evidovanou kartu (CK)|
+  |---| ------- | ------- | ----- |
+  |E.|650.001|do 950.000|cena za licenci v rozsahu limitu E byla Nabyvatelem Poskytovateli v minulosti plně uhrazena|
+  |F.|950.001|1.270.000|50,- Kč bez DPH. Cena za navýšení LIMITU v rámci licence typu F bude ze strany Nabyvatele poskytovateli hrazena v souladu s podmínkami dodatku č. 3 Smlouvy.|
+  |G.|1.270.001|Neomezenn, konkrétní hodnota LIMITU bude určen požadavkem nabyvatele|Maximálně 50,- Kč bez DPH|
 
 2. Počet konfigurovaných uživatelských terminálů pracujících s kartovými aplikacemi v SKC (STANIC)
 
