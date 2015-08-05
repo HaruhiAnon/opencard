@@ -1,4 +1,5 @@
 ---
+"id":               LIC/40/01/001613/2008
 "layout":           contract
 "datum podpisu":    2008-07-14
 "datum účinnosti":  2008-07-14
