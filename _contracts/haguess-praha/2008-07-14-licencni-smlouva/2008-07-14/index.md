@@ -56,8 +56,7 @@ autorskými právy nebo jinými právy třetích osob z průmyslového nebo jin�
 duševního vlastnictví, které by omezovaly právo nabyvateli Software SKC užít v
 souladu s touto Licenční smlouvou.
 
-### Čl. II
-**Účel Smlouvy**  
+### Čl. II. Účel Smlouvy  
 
 1. Účelem této smlouvy je upravit vzájemná práva a povinností smluvních stran v
 souvislosti s poskytnutím práv k užití (licence) softwarových produktů specifikovaných
@@ -120,8 +119,8 @@ pozdějších předpisů a dále musí obsahovat tyto údaje:
    předání a převzetí podepsaný Oprávněnými zástupci obou smluvních stran.
 
 10. K odsouhlasení a podpisu protokolu o předání a převzetí za nabyvatele jsou oprávněni:
-    * a. Ing. Václav Kraus vaclav.kraus@cityofprague.cz, tel. +420 236 00 2360
-    * b. Ing. Petr Kolbek petr.kolbek@cityofprague.cz. Tel. +420 236 00 2623
+   * a. Ing. Václav Kraus vaclav.kraus@cityofprague.cz, tel. +420 236 00 2360
+   * b. Ing. Petr Kolbek petr.kolbek@cityofprague.cz. Tel. +420 236 00 2623
 
 11. K odsouhlasení a podpisu protokolu o předání a převzetí za poskytovatele jsou oprávněni statutární zástupci poskytovatele uvedení v obchodním rejstříku.
 
@@ -158,8 +157,7 @@ licence pro jednotlivé části Software SKC, pokud jsou taková povolení vyža
 6. Nabyvatel se zavazuje převzít od poskytovatele nový typ licence a uhradit cenu za její
 poskytnutí uvedenou v Cl. III. odstavec 2, této smlouvy.
 
-### V.
-**Prohlášení a odpovědnost poskytovatele**  
+### Čl. V. Prohlášení a odpovědnost poskytovatele
 
 1. Poskytovatel výslovně prohlašuje, že ošetřil veškerá práva k duševnímu vlastnictví v
 rozsahu nezbytném k naplnění účelu smlouvy, zejména, že je oprávněn poskytnout
@@ -176,8 +174,7 @@ zásahu do práv třetích osob. V případě, že k zásahu do práv třetích 
 se poskytovatel, že nahradí škodu, která nabyvateli vznikne v souvislosti s nároky
 třetích stran z důvodu porušení jejich chráněných práv.
 
-### Čl. VI.
-**Předání a převzetí software**  
+### Čl. VI. Předání a převzetí software  
 
 1. Poskytovatel je povinen nejdéle do 5 kalendářních dnů od uzavření této Licenční smlouvy, provést rozšíření úvodní licence Software SKC na nový typ licence v souladu s Čl. III odstavec 1. této smlouvy, a to v místě sídla nabyvatele. Provedení této úpravy
 licence Software SKC doloží poskytovatel nabyvateli vystavením písemného certifikátu
@@ -190,8 +187,7 @@ písemný protokol.
 3. Nárok na užívání nového typu licence Software SKC dle ČI. III odstavec l. vzniká
 nabyvateli dnem převzetí licence, uvedeným v protokolu o předání a převzetí.
 
-### Čl. VII.
-**Záruka**  
+### Čl. VII. Záruka  
 
 1. Poskytovatel poskytuje záruku, že dodaný Software SKC má ke dni podpisu protokolu
 o předání a převzetí nového typu licence Software SKC funkční vlastnosti popsané v
@@ -215,8 +211,7 @@ pracovních dnů.
 
 6. Záruční doba počíná běžet dnem předání Software SKC podle této smlouvy.
 
-### Čl. VIII.
-**Sankce**  
+### Čl. VIII. Sankce  
 
 1. V případě, že poskytovatel poruší svou povinnost dodat Software SKC v termínu podle
 této smlouvy, bude povinen zaplatit nabyvateli smluvní pokutu ve výši 0,1 % z ceny za
@@ -227,8 +222,7 @@ v termínu podle této smlouvy, bude povinen zaplatit nabyvateli smluvní pokutu
 0,1 % z ceny za poskytnutí licence dle čl. III., odst. 2 této smlouvy za každý den
 prodlení s odstraněním vad.
 
-### Čl. VIII.
-**Závěrečná ustanovení**  
+### Čl. VIII. Závěrečná ustanovení  
 
 1. Nabyvatel je oprávněn požadovat od poskytovatele předložení dokumentů
 osvědčujících plnění jeho závazků dle této smlouvy.
@@ -273,7 +267,7 @@ vynutitelné.
 
 8. Smluvní Strany dále prohlašují, že si smlouvu pečlivě přečetly, všem ustanovením
 smlouvy rozumí a na důkaz svého souhlasu učiněného vážně a svobodně smlouvu
-vlastnoručně podepísují.
+vlastnoručně podepisují.
 
 **Přílohy:**  
 
