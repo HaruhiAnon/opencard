@@ -240,7 +240,7 @@ splatnosti vystaveného daňového dokladu musí odpovídat výše uvedené lhů
 pracovních dnů. Daňový doklad musí mít všechny náležitosti stanovené právními předpisy
 a musí v něm být uveden odkaz na číslo Smlouvy a tento Dodatek.
 
-### 2 PROHLÁŠENÍ S MLUVNÍCH STRAN
+### 2 PROHLÁŠENÍ SMLUVNÍCH STRAN
 
 Smluvní strany činí ve vztahu ke vzájemným právům a povinnostem, které se týkající oprávnění
 Nabyvatele k výkonu práva užít Software SKC, následující prohlášení.
