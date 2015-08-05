@@ -37,8 +37,8 @@ uzavřely tuto
 ### Čl. I. Úvodní ustanovení, postavení smluvních stran
 
 1. Poskytovatel, jakožto osoba oprávněná k výhradnímu vykonávání majetkových práv k
-počítačověmu programu a souvisejícím technologiím, jejichž podrobná specifikace je
-obsažena v příloze ě. 1 této smlouvy (dále též „Software SKC“), touto smlouvou
+počítačovému programu a souvisejícím technologiím, jejichž podrobná specifikace je
+obsažena v příloze č. 1 této smlouvy (dále též „Software SKC“), touto smlouvou
 poskytuje nabyvateli oprávnění k výkonu práva užít Software SKC počítačový program
 (dále též „licencí“) a zároveň se zavazuje provéstv implementaci Softwaru SKC, a to za
 odměnu (dále též „cenu“) a podmínek dále v této smlouvě stanovených.
@@ -65,7 +65,7 @@ podrobně v příloze č. 1 této Licenční smlouvy za účelem provozu Servisn
 Centra.
 
 2. Licence bude poskytnuta pro využití vedení evidence o 200 000 vydaných čipových
-kartách a vrozsahu nezbytném pro kvalitní provoz Servisního Kartového Centra.
+kartách a v rozsahu nezbytném pro kvalitní provoz Servisního Kartového Centra.
 Licence je toto smlouvou rozšířena z původně poskytnutého typu licence B. I. 1 na typ
 licence C. III. 1. v souladu s přílohou č. 1 této licenční smlouvy.
 
@@ -84,13 +84,13 @@ ve formě nevýhradní a nepřenosné licence. Nabyvatel není povinen licenci v
 Licence podle tohoto článku se poskytuje jako časově neomezená. Tato licence (dále
 též „nový typ licence“) nahrazuje úvodní licenci Software SKC formou rozšíření a
 umožňuje vést informace pro LIMIT 200.000 evidovaných čipových karet, počet
-konñgurovaných uživatelských STANIC je 45 a počet integrovaných K. APLIKACÍ je
+konfigurovaných uživatelských STANIC je 45 a počet integrovaných K. APLIKACÍ je
 do 5 v souladu s přílohou č.1 této smlouvy.
 
 2. Cena za poskytnutí této licence je:
 
-Celková cena bez DPI-l: 14 610 000 Kč  
-Procentní sazba DPI-l: 19 %  
+Celková cena bez DPH: 14 610 000 Kč  
+Procentní sazba DPH: 19 %  
 Výše DPH: 2 775 900 Kč  
 Celková cena včetně DPH: 17 385 900 Kč  
 
@@ -136,7 +136,7 @@ daňového dokladu (faktury) se prodlužuje splatnost daňověho dokladu (faktur
 
 1. Poskytovatel se zavazuje poskytnout nový typ licence Software SKC v souladu Čl. III odstavec 1. této smlouvy formou rozšíření úvodní licence Software SKC. Poskytnutí
 nového typu licence Software SKC doloží poskytovatel nabyvateli vystavením
-písemného certifikátu s uvedením identiñkačních údajů nabyvatele, parametrů nového
+písemného certifikátu s uvedením identifikačních údajů nabyvatele, parametrů nového
 typu licence, jakož i uvedením jednotlivých produktů, které tvoří Software SKC dle této
 smlouvy. Převzetí tohoto certifikátu potvrdí nabyvatel podpisem protokolu o předání a
 převzetí.
@@ -236,7 +236,7 @@ prodlení s odstraněním vad.
 osvědčujících plnění jeho závazků dle této smlouvy.
 
 2. Právní vztahy vyplývající z této smlouvy se řídí zejména zákonem č. 121/2000 Sb., o
-právu autorskěm, o právech souvisejících s právem autorským a o změně některých
+právu autorském, o právech souvisejících s právem autorským a o změně některých
 zákonů (autorský zákon), ve znění pozdějších předpisů.
 
 3. Tato smlouva může být měněna jen se souhlasem smluvních stran, a to formou
@@ -245,7 +245,7 @@ smlouva ruší a v plném rozsahu nahrazuje licenční smlouvu č. LIC/40/05/001
 uzavřenou mezi smluvními stranami dne 6.1 1.2006.
 
 4. Poskytovatel je povinen nakládat se všemi daty poskytnutými nabyvatelem ke
-zpracování jako s informacemi důvěmými. Budou-li data poskytnutá nabyvatelem
+zpracování jako s informacemi důvěrnými. Budou-li data poskytnutá nabyvatelem
 podléhat režimu zvláštní ochrany podle zákona č. 101/2000 Sb., o ochraně osobních
 údajů a o změně některých zákonů, jsou obě smluvní strany povinny zabezpečit splnění všech ohlašovacích povinností, které citovaný zákon vyžaduje, a obstarat předepsaná
 povolení. Bude-li nezbytné pro plnění této smlouvy splnit ohlašovací povinnosti dle cit.
@@ -337,7 +337,7 @@ je poskytována v závislosti na třech parametrech:
   |V. |61 |75 |68 %|
   |VI. |76 |a více| 60 %|
 
-3. Počet kartových aplikaci integrovaných v Aplikaclch SKC (K.APLIKACE)
+3. Počet kartových aplikaci integrovaných v Aplikacích SKC (K.APLIKACE)
 
   |Typ|K.APLIKACE od -do|Cena za integrovanou kartovou aplikaci (CA u 1.000.000 Kč bez DPH)|
   |---|---|---|---|
@@ -412,7 +412,7 @@ interaktivním helpem, kterýje součástí Software SKC a dokumentací k Softwa
 | | |Evidence stavu karty ve vztahu ke kartovým aplikacím, které jsou na kartě provozované, a ke stavu těchto aplikací.|2|
 | | |**Komunikace s aplikacemi**|2|
 | | |Dávková komunikace založená na souborech se strukturou XML. Ve směru k systémům kartových aplikací se přenášejí data o klientech a kartách vydaných pro danou aplikaci. Ve směru k programu QUANTO kartová aplikace každý záznam potvrdí, nebo zamítne.|2|
-| | |On-line komunikace. Systém kartové aplikace přečte ve čtečce identifikaci karty, další informace o kartě a jejím držiteli záská z datové základny programu QUANTO.|2|
+| | |On-line komunikace. Systém kartové aplikace přečte ve čtečce identifikaci karty, další informace o kartě a jejím držiteli získá z datové základny programu QUANTO.|2|
 | | |Kombinace prvních dvou variant - QUANTO odesílá systému kartové aplikace pouze informace o nově vydaných kartách (příp. žádosti o zablokování), ostatní informace získává kartová aplikace z datové základny programu QUANTO.|2|
 | | |Dávkový export karet zařazených pro danou kartovou aplikaci na tzv. black-list|2|
 | | |**Evidence a správa poplatků**|2|
@@ -542,9 +542,9 @@ podkladů a informací třetími osobami, ať již k takovému či k jakémukoli
 přísně v tajnosti a dbát, aby tyto skutečnosti nebyly sděleny, svěřeny či jinak
 zpřístupněny třetím osobám, ledaže by k tomu dostal předchozí písemný souhlas
 poskytovatel. Za tim účelem se nabyvatel zavazuje svěřit skutečnosti tvořící obchodní
-tajemství poskytovatele jen těm svým pracovníkům, u kterých je znalost těchto skutečností předpokladem k smluvenému využití Software SKC, a to pouze v nezbytném rozsahu. Tyto pracovníky, jakož i ostatní své pracovníky se nabyvatel zavazuje informovat o tom, že veškeré podkaldy a informace, týkající se Software SKC jsou předmětem obchodního tajemství poskytovatele, zavázat je k mlčenlivosti a zakázat jim, aby si pořizovali kopie jakýchkoliv podkladů či vlastního Software SKC. Nabyvatel se zavazuje zajistit, že dodržování obchodního tajemství jeho pracovníky bude soustavně posuzováno a kontrolováno. 
+tajemství poskytovatele jen těm svým pracovníkům, u kterých je znalost těchto skutečností předpokladem k smluvenému využití Software SKC, a to pouze v nezbytném rozsahu. Tyto pracovníky, jakož i ostatní své pracovníky se nabyvatel zavazuje informovat o tom, že veškeré podklady a informace, týkající se Software SKC jsou předmětem obchodního tajemství poskytovatele, zavázat je k mlčenlivosti a zakázat jim, aby si pořizovali kopie jakýchkoliv podkladů či vlastního Software SKC. Nabyvatel se zavazuje zajistit, že dodržování obchodního tajemství jeho pracovníky bude soustavně posuzováno a kontrolováno. 
 
-9. Poskytovatel nemůže v žádném případě zaručit nepřetržité a trvale bezchybné fungování jak informačního sysétmu nabyvatele, tak jeho výpočetní techniky, ani neruší za správnst a kvalitu dat zadaných pracovníky nabyvatele v Software SKC. zavazuje se však, že servisní služby budou zajišťovány tak, aby Software SKC byl způsobilý pro užití k smluvenému účelu a zachoval si takto stanovené smluvené a obyvklé vlastnosti. 
+9. Poskytovatel nemůže v žádném případě zaručit nepřetržité a trvale bezchybné fungování jak informačního systému nabyvatele, tak jeho výpočetní techniky, ani neruší za správnst a kvalitu dat zadaných pracovníky nabyvatele v Software SKC. zavazuje se však, že servisní služby budou zajišťovány tak, aby Software SKC byl způsobilý pro užití k smluvenému účelu a zachoval si takto stanovené smluvené a obvyklé vlastnosti. 
 
 10. Záruka se nevztahuje na vady způsobené neodbomým použitím Software SKC či jiným  jeho použitím v rozporu s postupem předepsaným v poskytovatelem 'dodané
 dokumentaci k Software SKC, jakož i jeho neoprávněnému pozměnění či použitím na jiném technickém zařízení než na příslušném hardware dodaném nebo schváleném
