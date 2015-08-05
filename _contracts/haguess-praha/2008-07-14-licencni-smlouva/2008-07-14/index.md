@@ -3,10 +3,9 @@
 "layout":           contract
 "datum podpisu":    2008-07-14
 "datum účinnosti":  2008-07-14
-title:              Licenční smlouva
 "použité smluvní typy":
   - licenční smlouva
-"předmět":          Licenční smlouva pro provoz Servisního karetního centra
+"předmět":          Licenční smlouva na Servisní kartové centrum
 "smluvní strany":
  -   
   "role":     nabyvatel
@@ -61,7 +60,7 @@ DIČ: C225085166
 Sídlem: Na Michovkách I. 686, 252 43 Průhonice  
 Bankovní spojení: ČSOB, a.s.  
 Číslo účtu: 163486703/0300  
-Zastoupená: Míroslavou Turkovou, předsedou představenstva  
+Zastoupená: Miroslavou Turkovou, předsedou představenstva  
 dále jen **„poskytovatel“**
 
 
@@ -79,7 +78,7 @@ uzavřely tuto
 počítačovému programu a souvisejícím technologiím, jejichž podrobná specifikace je
 obsažena v příloze č. 1 této smlouvy (dále též „Software SKC“), touto smlouvou
 poskytuje nabyvateli oprávnění k výkonu práva užít Software SKC počítačový program
-(dále též „licencí“) a zároveň se zavazuje provéstv implementaci Softwaru SKC, a to za
+(dále též „licencí“) a zároveň se zavazuje provést v implementaci Softwaru SKC, a to za
 odměnu (dále též „cenu“) a podmínek dále v této smlouvě stanovených.
 
 2. Nabyvatel se touto smlouvou zavazuje vyvinout stanovenou součinnost k převzetí Software SKC.
@@ -146,7 +145,7 @@ nabyvateli.
 
 7. Terminem úhrady se rozumí den odpisu platby z účtu nabyvatele.
 
-8. Oprávněně vystavený daňový doklad (faktura) musí mit veškeré náležitosti daňového
+8. Oprávněně vystavený daňový doklad (faktura) musí mít veškeré náležitosti daňového
 dokladu (faktury) ve smyslu zákona č. 235/2004 Sb. o dani z přidané hodnoty, ve znění
 pozdějších předpisů a dále musí obsahovat tyto údaje:
 
@@ -223,7 +222,7 @@ nejdéle do 5 kalendářních dnů od podpisu této Licenční smlouvy v souladu
 předání a převzetí nového typu licence Software SKC bude smluvními stranami sepsán
 písemný protokol.
 
-3. Nárok na užívání nového typu licence Software SKC dle ČI. III odstavec l. vzniká
+3. Nárok na užívání nového typu licence Software SKC dle ČI. III odstavec I. vzniká
 nabyvateli dnem převzetí licence, uvedeným v protokolu o předání a převzetí.
 
 ### Čl. VII. Záruka  
@@ -254,7 +253,7 @@ pracovních dnů.
 
 1. V případě, že poskytovatel poruší svou povinnost dodat Software SKC v termínu podle
 této smlouvy, bude povinen zaplatit nabyvateli smluvní pokutu ve výši 0,1 % z ceny za
-poskytnutí licence dle ěl. III., odst. 2 této smlouvy za každý den prodlení s dodáním.
+poskytnutí licence dle čl. III., odst. 2 této smlouvy za každý den prodlení s dodáním.
 
 2. V případě, že poskytovatel poruší svou povinnost odstranit vady Software SKC
 v termínu podle této smlouvy, bude povinen zaplatit nabyvateli smluvní pokutu ve výši
@@ -282,7 +281,7 @@ podléhat režimu zvláštní ochrany podle zákona č. 101/2000 Sb., o ochraně
 povolení. Bude-li nezbytné pro plnění této smlouvy splnit ohlašovací povinnosti dle cit.
 zákona, realizace předmětu plnění se pozastavuje na dobu do řádného splnění takových
 povinností a obě smluvní strany se zavazují vyvinout veškerou součinnost ke splnění
-těchto ohlašovacich povinností. Poskytovatel se zavazuje, Že pokud se v souvislosti
+těchto ohlašovacích povinností. Poskytovatel se zavazuje, Že pokud se v souvislosti
 s realizací předmětu této smlouvy při plnění svých povinností setkají jeho pověření
 pracovníci s osobními údaji ve smyslu zákona č. 101/2000 Sb., o ochraně osobních
 údajů a o změně některých zákonů, učiní veškerá opatření, kromě zachování povinnosti
@@ -319,14 +318,14 @@ V Praze dne 14-07-2008
 Poskytovatel  
 
 HAGUESS, a.s.  
-No Míchovkách 1686  
+Na Míchovkách 1686  
 252 43 Průhonice  
 IČ: 25085166  
-DlČ: CZ25085166  
+DIČ: CZ25085166  
 
 Za MHMP  
 Ing. Václav Kraus  
-Hlavní mesto Praha  
+Hlavní město Praha  
 
 ### Příloha 1 - k Licenční smlouvě
 
@@ -357,7 +356,7 @@ je poskytována v závislosti na třech parametrech:
   |E.| 500.001| 1.000.000| 43 %|
   |F.| 1.000.001| a více| 30%|
 
-2. Počet konfigurovaných uživatelských terminálů pracujících s kartovými aplikacemi v SKC (STANlC)
+2. Počet konfigurovaných uživatelských terminálů pracujících s kartovými aplikacemi v SKC (STANIC)
 
   |Typ| STANIC| od -do| Cena za konfigurovanou stanici (cs = 75.000 Kč bez DPH)|
   |---|---|---|---|
@@ -390,14 +389,14 @@ CENA=(LIMIT do * CK% * CK+STANIC do * CS% * CS + K.APLIKACE do * CA% * CA).
 CENA Upgrade je vypočtena jako rozdíl mezi cenou nového typu licence od které .se odečítá cena již
 zakoupené licence.
 
-V rámci Licence poskytovatel dodá jednu hlavní ajednu záložní kopii Software SKC. Záložní kopie je
+V rámci Licence poskytovatel dodá jednu hlavní a jednu záložní kopii Software SKC. Záložní kopie je
 určena pouze pro účely archivace Software SKC nabyvatelem, a vztahují se na ni stejné licenční
 podmínky jako na hlavní kopii. Záložní kopie může být použita pouze v případě, že dojde k fyzickému
 zničení nebo dlouhodobé nedostupnosti kopie Hlavní. Hlavní kopie může být instalována a
-konfigurována v libovolné konfiguraci, kteráje potřebná pro řádný provoz SKC.
+konfigurována v libovolné konfiguraci, která je potřebná pro řádný provoz SKC.
 
-Detailní definice funkčnosti specifikované vjednotlivých bodech této přílohy je vymezena
-interaktivním helpem, kterýje součástí Software SKC a dokumentací k Software SKC.
+Detailní definice funkčnosti specifikované v jednotlivých bodech této přílohy je vymezena
+interaktivním helpem, který je součástí Software SKC a dokumentací k Software SKC.
 
 |**Komponenty, Popis**|**KS**|
 |---|---|
@@ -406,7 +405,7 @@ interaktivním helpem, kterýje součástí Software SKC a dokumentací k Softwa
 |přihlášení uživatelů do požadovaného systému.|2|
 |Dynamická tvorba nabídky činností v závislosti na přihlášeném uživateli a jeho přístupových právech|2|
 |*Správa rolí a uživatelů systémů*|2|
-|Deinice rolí uživatelů, pro konkrétní roli možnost specifikace, co může uživatel zařazený v této roli provádět. Činnosti jsou popsány do úrovně spouštění jednotlivých formulářů a vytváření tiskových sestav|2|
+|Definice rolí uživatelů, pro konkrétní roli možnost specifikace, co může uživatel zařazený v této roli provádět. Činnosti jsou popsány do úrovně spouštění jednotlivých formulářů a vytváření tiskových sestav|2|
 |Evidence uživatelů a jejich zařazení v rolích|2|
 |*Monitoring a reporting*|2|
 |Protokolace zakládání důležitých datových entit (např. osoba nebo karet) ve struktuře kdo (uživatel), kde (pracoviště, aplikace, dialog) a kdy data pořídil.|2|
@@ -437,7 +436,7 @@ interaktivním helpem, kterýje součástí Software SKC a dokumentací k Softwa
 |Žádost o aktivaci/zablokování aplikace na kartě.|2|
 |*Evidence kartových aplikací*|2|
 |Evidence kartových aplikací ve vazbě na typu čipu|2|
-|Evidence kartové aplikcae a jejího stavu pro každou vydanou kartu.|2|
+|Evidence kartové aplikace a jejího stavu pro každou vydanou kartu.|2|
 |*Evidence a správa karet*|2|
 |Evidence pěti druhů karet: karta občanská, zaměstnanecká, rodičovská, anonymní turistická a sponzorská|2|
 |Definice podtiskových šablon pro grafickou perzonalizaci karet.|2|
@@ -475,9 +474,9 @@ interaktivním helpem, kterýje součástí Software SKC a dokumentací k Softwa
 |*Evidence zpracování transakcí*|2|
 |Definice a správa typů transakcí|2|
 |Zpracování platebních transakcí - pořizování, import, export, účtování, ošetření nezařazených plateb.|2|
-|Prohlížení transakcí, vyhledávání pro účely reklamací, geneorvání výpisů.|2|
+|Prohlížení transakcí, vyhledávání pro účely reklamací, generování výpisů.|2|
 |Zpracování bankovních výpisů|2|
-|Generování platebníchp říkazů pro banku|2|
+|Generování platebních příkazů pro banku|2|
 |Vytváření reportů pro účtování.|2|
 |*Správa provizí*|2|
 |Definice a správa provizí z provedených transakcí|2|
@@ -497,14 +496,14 @@ interaktivním helpem, kterýje součástí Software SKC a dokumentací k Softwa
 |*Card management elektronické peněženky.*|2|
 |Práce s kartami na kterých je aktivovaná aplikace elektronické peněženky (informace programu QUANTO).|2|
 |*Evidence zpracování transakcí*|2|
-|Příjem azpracování transakce nabíjení/vybíjení elektronické peněženky.|2|
+|Příjem a zpracování transakce nabíjení/vybíjení elektronické peněženky.|2|
 |Import karetních transakcí z front office elektronické peněženky, jejich zpracování a export pro KWADROM.|2|
 |Evidence přijatých transakcí elektronické peněženky.|2|
 |Generování a export dokladů do KWADROM pro účtování provizí.|2|
 
-Poskytovatel prohlašuje a zaručuje, že je oprávněnou osobou knakládání s autorskými
-právy vztahujícími se k Software SKC, a že je oprávněn poskytovat licenci kvyužívání
-Software SKC vsouladu se zadávací dokumentací a vsouladu stouto Licenční smlouvou
+Poskytovatel prohlašuje a zaručuje, že je oprávněnou osobou k nakládání s autorskými
+právy vztahujícími se k Software SKC, a že je oprávněn poskytovat licenci k využívání
+Software SKC v souladu se zadávací dokumentací a v souladu s touto Licenční smlouvou
 nabyvateli.
 
 V Praze dne 11-07-2008  
@@ -578,9 +577,9 @@ zpřístupněny třetím osobám, ledaže by k tomu dostal předchozí písemný
 poskytovatel. Za tim účelem se nabyvatel zavazuje svěřit skutečnosti tvořící obchodní
 tajemství poskytovatele jen těm svým pracovníkům, u kterých je znalost těchto skutečností předpokladem k smluvenému využití Software SKC, a to pouze v nezbytném rozsahu. Tyto pracovníky, jakož i ostatní své pracovníky se nabyvatel zavazuje informovat o tom, že veškeré podklady a informace, týkající se Software SKC jsou předmětem obchodního tajemství poskytovatele, zavázat je k mlčenlivosti a zakázat jim, aby si pořizovali kopie jakýchkoliv podkladů či vlastního Software SKC. Nabyvatel se zavazuje zajistit, že dodržování obchodního tajemství jeho pracovníky bude soustavně posuzováno a kontrolováno. 
 
-9. Poskytovatel nemůže v žádném případě zaručit nepřetržité a trvale bezchybné fungování jak informačního systému nabyvatele, tak jeho výpočetní techniky, ani neruší za správnst a kvalitu dat zadaných pracovníky nabyvatele v Software SKC. zavazuje se však, že servisní služby budou zajišťovány tak, aby Software SKC byl způsobilý pro užití k smluvenému účelu a zachoval si takto stanovené smluvené a obvyklé vlastnosti. 
+9. Poskytovatel nemůže v žádném případě zaručit nepřetržité a trvale bezchybné fungování jak informačního systému nabyvatele, tak jeho výpočetní techniky, ani neruší za správnost a kvalitu dat zadaných pracovníky nabyvatele v Software SKC. zavazuje se však, že servisní služby budou zajišťovány tak, aby Software SKC byl způsobilý pro užití k smluvenému účelu a zachoval si takto stanovené smluvené a obvyklé vlastnosti. 
 
-10. Záruka se nevztahuje na vady způsobené neodbomým použitím Software SKC či jiným  jeho použitím v rozporu s postupem předepsaným v poskytovatelem 'dodané
+10. Záruka se nevztahuje na vady způsobené neodborným použitím Software SKC či jiným  jeho použitím v rozporu s postupem předepsaným v poskytovatelem 'dodané
 dokumentaci k Software SKC, jakož i jeho neoprávněnému pozměnění či použitím na jiném technickém zařízení než na příslušném hardware dodaném nebo schváleném
 poskytovatelem. Poskytovatel dále neodpovídá za vady způsobené zásahem nabyvatele nebo programem třetí strany do Software SKC, včetně napadení počítačovými viry, změnou instalace programu a změnou nastaveni konfigurace HW, která nebyla
 odsouhlasena poskytovatelem.
@@ -628,7 +627,7 @@ DIČ: CZ00064581
 **Typ licence**  
 * C.III.1
 
-**Maxiální Počet evidovaných karet**  
+**Maximální Počet evidovaných karet**  
 * 200.000
 
 **Maximální počet uživatel.terminálů**  
