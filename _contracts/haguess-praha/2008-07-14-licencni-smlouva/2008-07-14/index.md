@@ -17,7 +17,6 @@ title:              Licenční smlouva
   "jméno":    "HAGUESS, a.s"
   "zástupce": Miroslava Turková
   "funkce":   předseda představenstva
-  "značka":   neznámá
   "role":     poskytovatel
 
 "náklady": 17385900
