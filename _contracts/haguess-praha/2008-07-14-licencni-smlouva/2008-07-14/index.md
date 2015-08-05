@@ -33,11 +33,8 @@ title:              Licenční smlouva
   "náhled": miniatura.jpg
 
 "ruší": 
-   - 
 "mění": 
-   - 
 "změněno":        
-   - 
 "zrušeno":
 ---
 
