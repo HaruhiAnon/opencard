@@ -327,9 +327,7 @@ Za MHMP
 Ing. Václav Kraus  
 Hlavní město Praha  
 
-### Příloha 1 - k Licenční smlouvě
-
-**Č. LIC/40/01/001613/2008**  
+### Příloha 1 - k Licenční smlouvě Č. LIC/40/01/001613/2008  
 
 **Podrobný popis Software SKC**  
 Popis Licenčního modelu pro Software SKC:
@@ -520,8 +518,7 @@ Na Michovkách 1686
 252 43 Průhonice  
 DIČ: CZ25085166  
 
-## Příloha 2 - k Licenční smlouvě
-**č. LIC/40/01/001613/2008**
+## Příloha 2 - k Licenční smlouvě č. LIC/40/01/001613/2008
 
 Podrobná specifikace licenční politiky poskytovatele
 Ostatní licenční podmínky
