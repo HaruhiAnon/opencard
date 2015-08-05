@@ -1,6 +1,4 @@
-## Licenční smlouva
-
-**Č. LIC/40/01/001613/2008**
+## Licenční smlouva Č. LIC/40/01/001613/2008
 
 Níže uvedeného dne, měsíce a roku
 
@@ -37,25 +35,24 @@ uzavřely tuto
 
 **(dále také „smlouva“).**  
 
-### Čl. I.
-**Úvodní ustanovení, postavení smluvních stran**  
+### Čl. I. Úvodní ustanovení, postavení smluvních stran
 
-* 1. Poskytovatel, jakožto osoba oprávněná k výhradnímu vykonávání majetkových práv k
+1. Poskytovatel, jakožto osoba oprávněná k výhradnímu vykonávání majetkových práv k
 počítačověmu programu a souvisejícím technologiím, jejichž podrobná specifikace je
 obsažena v příloze ě. 1 této smlouvy (dále též „Software SKC“), touto smlouvou
 poskytuje nabyvateli oprávnění k výkonu práva užít Software SKC počítačový program
 (dále též „licencí“) a zároveň se zavazuje provéstv implementaci Softwaru SKC, a to za
 odměnu (dále též „cenu“) a podmínek dále v této smlouvě stanovených.
 
-* 2. Nabyvatel se touto smlouvou zavazuje vyvinout stanovenou součinnost k převzetí Software SKC.
+2. Nabyvatel se touto smlouvou zavazuje vyvinout stanovenou součinnost k převzetí Software SKC.
 
-* 3. Poskytovatel prohlašuje, že je v souladu s právním řádem ČR, případně dalšími
+3. Poskytovatel prohlašuje, že je v souladu s právním řádem ČR, případně dalšími
 dotčenými právními řády oprávněn poskytnout nabyvateli právo užít Software SKC
 (licenci) v rozsahu potřebném pro řádné plnění předmětu smlouvy. Poskytovatel je tedy
 na základě výše uvedeného oprávněn tuto Licenční smlouvu uzavřít a řádně plnit
 závazky v ní obsažené.
 
-* 4. Poskytovatel zaručuje, že Software SKC nemá právní vady, zejména není zatížen
+4. Poskytovatel zaručuje, že Software SKC nemá právní vady, zejména není zatížen
 autorskými právy nebo jinými právy třetích osob z průmyslového nebo jiného
 duševního vlastnictví, které by omezovaly právo nabyvateli Software SKC užít v
 souladu s touto Licenční smlouvou.
