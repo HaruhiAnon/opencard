@@ -78,8 +78,7 @@ smlouvy.
 ### Čl. III.
 **Předmět smlouvy**  
 
-
-* 1. Poskytovatel se zavazuje poskytnout nabyvateli podle ustanovení § 46 a násl. zákona č. 121/2000 Sb. autorského zákona, ve znění pozdějších předpisů, oprávnění k výkonu
+1. Poskytovatel se zavazuje poskytnout nabyvateli podle ustanovení § 46 a násl. zákona č. 121/2000 Sb. autorského zákona, ve znění pozdějších předpisů, oprávnění k výkonu
 práva užít Software SKC v licenci typu C. III. 1 (dále jen ”licence”). Licence se uděluje
 ve formě nevýhradní a nepřenosné licence. Nabyvatel není povinen licenci využít.
 Licence podle tohoto článku se poskytuje jako časově neomezená. Tato licence (dále
@@ -88,46 +87,46 @@ umožňuje vést informace pro LIMIT 200.000 evidovaných čipových karet, poč
 konñgurovaných uživatelských STANIC je 45 a počet integrovaných K. APLIKACÍ je
 do 5 v souladu s přílohou č.1 této smlouvy.
 
-* 2. Cena za poskytnutí této licence je:
+2. Cena za poskytnutí této licence je:
 
 Celková cena bez DPI-l: 14 610 000 Kč  
 Procentní sazba DPI-l: 19 %  
 Výše DPH: 2 775 900 Kč  
 Celková cena včetně DPH: 17 385 900 Kč  
 
-* 3. Uvedená cena může být změněna jen v případě změny zákonné výše DPH, pokud se tato zákonná změna vztahuje na předmět této smlouvy. Cena za poskytnutí licence k Software SKC zahrnuje i cenu za dodávku příslušných nosičů a dokumentace a cenu za dopravu, balení a úpravu nastavení softwarových produktů za účelem plného využití
+3. Uvedená cena může být změněna jen v případě změny zákonné výše DPH, pokud se tato zákonná změna vztahuje na předmět této smlouvy. Cena za poskytnutí licence k Software SKC zahrnuje i cenu za dodávku příslušných nosičů a dokumentace a cenu za dopravu, balení a úpravu nastavení softwarových produktů za účelem plného využití
 licence podle této smlouvy.
 
-* 4. O poskytnutí licence bude sepsán protokol o předání a převzetí. Po převzetí plnění
+4. O poskytnutí licence bude sepsán protokol o předání a převzetí. Po převzetí plnění
 nabyvatelem vzniká poskytovateli právo vystavit daňový doklad (fakturu) na cenu
 uvedenou v odstavci 2. toho článku.
 
-* 5. Daňové doklady (faktury) budou vystaveny ve třech vyhotoveních a doručeny na
+5. Daňové doklady (faktury) budou vystaveny ve třech vyhotoveních a doručeny na
 adresu nabyvatele uvedenou v této Licenční smlouvě.
 
-* 6. Lhůta splatnosti daňových dokladů (faktur) je minimálně 30 dnů od jejich doručení
+6. Lhůta splatnosti daňových dokladů (faktur) je minimálně 30 dnů od jejich doručení
 nabyvateli.
 
-* 7. Terminem úhrady se rozumí den odpisu platby z účtu nabyvatele.
+7. Terminem úhrady se rozumí den odpisu platby z účtu nabyvatele.
 
-* 8. Oprávněně vystavený daňový doklad (faktura) musí mit veškeré náležitosti daňového
+8. Oprávněně vystavený daňový doklad (faktura) musí mit veškeré náležitosti daňového
 dokladu (faktury) ve smyslu zákona č. 235/2004 Sb. o dani z přidané hodnoty, ve znění
 pozdějších předpisů a dále musí obsahovat tyto údaje:
 
- * a. Číslo smlouvy nabyvatele, popřípadě dodatku
- * b. Číslo a název zakázky
- * c. Popis plnění (dílčího plnění)
+* a. Číslo smlouvy nabyvatele, popřípadě dodatku
+* b. Číslo a název zakázky
+* c. Popis plnění (dílčího plnění)
 
-* 9. Přílohou vystaveného daňového dokladu (faktury) poskytovatele musí být protokol o
+9. Přílohou vystaveného daňového dokladu (faktury) poskytovatele musí být protokol o
 předání a převzetí podepsaný Oprávněnými zástupci obou smluvních stran.
 
-* 10. K odsouhlasení a podpisu protokolu o předání a převzetí za nabyvatelejsou oprávněni:
+10. K odsouhlasení a podpisu protokolu o předání a převzetí za nabyvatelejsou oprávněni:
  * a. Ing. Václav Kraus vaclav.kraus@cityofprague.cz, tel. +420 236 00 2360
  * b. Ing. Petr Kolbek petr.kolbek@cityofpraguc.cz. Tel. +420 236 00 2623
 
-* 11. K odsouhlasení a podpisu protokolu o předání a převzetí za poskytovatele jsou oprávněni statutární zástupci poskytovatele uvedení v obchodním rejstříku.
+11. K odsouhlasení a podpisu protokolu o předání a převzetí za poskytovatele jsou oprávněni statutární zástupci poskytovatele uvedení v obchodním rejstříku.
 
-* 12. Nabyvatel je oprávněn vrátit do data splatnosti daňový doklad (fakturu), který obsahuje
+12. Nabyvatel je oprávněn vrátit do data splatnosti daňový doklad (fakturu), který obsahuje
 nesprávné cenové údaje nebo který není doložený protokolem o předá a převzetí. O tuto
 dobu od vrácení daňového dokladu (faktury) poskytovateli do vystavení nového
 daňového dokladu (faktury) se prodlužuje splatnost daňověho dokladu (faktury).
@@ -135,46 +134,46 @@ daňového dokladu (faktury) se prodlužuje splatnost daňověho dokladu (faktur
 ### Čl. IV.
 **Práva a povinnosti smluvních stran**
 
-* 1. Poskytovatel se zavazuje poskytnout nový typ licence Software SKC v souladu Čl. III odstavec 1. této smlouvy formou rozšíření úvodní licence Software SKC. Poskytnutí
+1. Poskytovatel se zavazuje poskytnout nový typ licence Software SKC v souladu Čl. III odstavec 1. této smlouvy formou rozšíření úvodní licence Software SKC. Poskytnutí
 nového typu licence Software SKC doloží poskytovatel nabyvateli vystavením
 písemného certifikátu s uvedením identiñkačních údajů nabyvatele, parametrů nového
 typu licence, jakož i uvedením jednotlivých produktů, které tvoří Software SKC dle této
 smlouvy. Převzetí tohoto certifikátu potvrdí nabyvatel podpisem protokolu o předání a
 převzetí.
 
-* 2 . Poskytovatel se zavazuje pružně reagovat na legislativní změny v České republice a
+2. Poskytovatel se zavazuje pružně reagovat na legislativní změny v České republice a
 v případě, kdy taková změny jakkoliv ovlivní Software SKC, je poskytovatel povinen
 dodat příslušnou úpravu Software SKC v termínu, který neohrozí zpracování změnami
 ovlivněných agend v rozsahu funkcionality Software SKC.
 
-* 3. V případě, že mezi publikací právního předpisu ve Sbírce zákonů a datem dodání
+3. V případě, že mezi publikací právního předpisu ve Sbírce zákonů a datem dodání
 úpravy Software SKC je doba kratší než třicet (30) dnů, činí lhůta dodání třicet (30) dnů
 po publikaci tohoto předpisu ve Sbírce zákonů.
 
-* 4. Souladu s legislativou je dosahováno tak, že Software SKC je schopen udržovat data
+4. Souladu s legislativou je dosahováno tak, že Software SKC je schopen udržovat data
 požadovaná legislativou a zpracovávat je logikou vyžadovanou legislativními
 požadavky.
 
-* 5. Poskytovatel se zavazuje na vlastní náklady získat veškeré potřebné dovozní a vývozní
+5. Poskytovatel se zavazuje na vlastní náklady získat veškeré potřebné dovozní a vývozní
 licence pro jednotlivé části Software SKC, pokud jsou taková povolení vyžadována.
 
-* 6. Nabyvatel se zavazuje převzít od poskytovatele nový typ licence a uhradit cenu za její
+6. Nabyvatel se zavazuje převzít od poskytovatele nový typ licence a uhradit cenu za její
 poskytnutí uvedenou v Cl. III. odstavec 2, této smlouvy.
 
 ### V.
 **Prohlášení a odpovědnost poskytovatele**  
 
-* 1. Poskytovatel výslovně prohlašuje, že ošetřil veškerá práva k duševnímu vlastnictví v
+1. Poskytovatel výslovně prohlašuje, že ošetřil veškerá práva k duševnímu vlastnictví v
 rozsahu nezbytném k naplnění účelu smlouvy, zejména, že je oprávněn poskytnout
 nabyvateli právo užít Software SKC k účelům stanoveným ve smlouvě.
 
-* 2. Poskytovatel odpovídá za právní a finanční ošetření případných práv třetích osob
+2. Poskytovatel odpovídá za právní a finanční ošetření případných práv třetích osob
 k Software SKC, a to takovým způsobem, aby mohl být Software SKC nabyvatelem
 bez dalšího užíván k účelu dle smlouvy.
 
-* 3. Poskytovatel odpovídá za to, že užití Software SKC nebude v rozporu s obecně závaznými právními předpisy.
+3. Poskytovatel odpovídá za to, že užití Software SKC nebude v rozporu s obecně závaznými právními předpisy.
 
-* 4. Poskytovatel výslovně prohlašuje, že užitím díla dle této Licenční smlouvy nedojde k
+4. Poskytovatel výslovně prohlašuje, že užitím díla dle této Licenční smlouvy nedojde k
 zásahu do práv třetích osob. V případě, že k zásahu do práv třetích osob dojde, zavazuje
 se poskytovatel, že nahradí škodu, která nabyvateli vznikne v souvislosti s nároky
 třetích stran z důvodu porušení jejich chráněných práv.
@@ -182,51 +181,50 @@ třetích stran z důvodu porušení jejich chráněných práv.
 ### Čl. VI.
 **Předání a převzetí software**  
 
-* 1. Poskytovatel je povinen nejdéle do 5 kalendářních dnů od uzavření této Licenční smlouvy, provést rozšíření úvodní licence Software SKC na nový typ licence v souladu
-s Čl. III odstavec 1. této smlouvy, a to v místě sídla nabyvatele. Provedení této úpravy
+1. Poskytovatel je povinen nejdéle do 5 kalendářních dnů od uzavření této Licenční smlouvy, provést rozšíření úvodní licence Software SKC na nový typ licence v souladu s Čl. III odstavec 1. této smlouvy, a to v místě sídla nabyvatele. Provedení této úpravy
 licence Software SKC doloží poskytovatel nabyvateli vystavením písemného certifikátu
 nejdéle do 5 kalendářních dnů od podpisu této Licenční smlouvy v souladu s Čl. IV odstavec 1. této smlouvy.
 
-* 2. Nabyvatel je povinen nový typ licence ke kompletnímu Software SKC převzít. O
+2. Nabyvatel je povinen nový typ licence ke kompletnímu Software SKC převzít. O
 předání a převzetí nového typu licence Software SKC bude smluvními stranami sepsán
 písemný protokol.
 
-* 3. Nárok na užívání nového typu licence Software SKC dle ČI. III odstavec l. vzniká
+3. Nárok na užívání nového typu licence Software SKC dle ČI. III odstavec l. vzniká
 nabyvateli dnem převzetí licence, uvedeným v protokolu o předání a převzetí.
 
 ### Čl. VII.
 **Záruka**  
 
-* 1. Poskytovatel poskytuje záruku, že dodaný Software SKC má ke dni podpisu protokolu
+1. Poskytovatel poskytuje záruku, že dodaný Software SKC má ke dni podpisu protokolu
 o předání a převzetí nového typu licence Software SKC funkční vlastnosti popsané v
 dokumentaci Software SKC.
 
-* 2. Poskytovatel poskytuje nabyvateli záruku na Software SKC po dobu trvání záruční
+2. Poskytovatel poskytuje nabyvateli záruku na Software SKC po dobu trvání záruční
 lhůty. Záruční lhůta činí 24 měsíců.
 
-* 3. Výskyt vad je nabyvatel povinen oznámit poskytovateli nejpozději do třiceti (30) dnů
+3. Výskyt vad je nabyvatel povinen oznámit poskytovateli nejpozději do třiceti (30) dnů
 ode dne jejich zjištění, a to písemně, jinak jeho právo z odpovědnosti za vadu zaniká.
 Hrozí - li nebezpečí z prodlení, je oprávněn učinit tak předběžně faxovou zprávou nebo
 e-mailem.
 
-* 4. Nabyvatel má právo na bezplatné odstranění poskytovatelem uznané vady programu, na
+4. Nabyvatel má právo na bezplatné odstranění poskytovatelem uznané vady programu, na
 opravu vadného licenčního produktu či jeho výměnu za bezvadný, a to vždy nejpozději
 do 10 pracovních dnů od data oznámení vady, případně vjiné, přiměřeně lhůtě
 dohodnuté mezi stranami, nedovolí-li povaha vady její odstranění ve lhůtě 10
-pracovních dnů..
+pracovních dnů.
 
-* 5. Poskytovatel poskytuje zámku za funkčnost Software SKC.
+5. Poskytovatel poskytuje zámku za funkčnost Software SKC.
 
-* 6. Záruční doba počíná běžet dnem předání Software SKC podle této smlouvy.
+6. Záruční doba počíná běžet dnem předání Software SKC podle této smlouvy.
 
 ### Čl. VIII.
 **Sankce**  
 
-* 1. V případě, že poskytovatel poruší svou povinnost dodat Software SKC v termínu podle
+1. V případě, že poskytovatel poruší svou povinnost dodat Software SKC v termínu podle
 této smlouvy, bude povinen zaplatit nabyvateli smluvní pokutu ve výši 0,1 % z ceny za
 poskytnutí licence dle ěl. III., odst. 2 této smlouvy za každý den prodlení s dodáním.
 
-* 2. V případě, že poskytovatel poruší svou povinnost odstranit vady Software SKC
+2. V případě, že poskytovatel poruší svou povinnost odstranit vady Software SKC
 v termínu podle této smlouvy, bude povinen zaplatit nabyvateli smluvní pokutu ve výši
 0,1 % z ceny za poskytnutí licence dle čl. III., odst. 2 této smlouvy za každý den
 prodlení s odstraněním vad.
@@ -234,19 +232,19 @@ prodlení s odstraněním vad.
 ### Čl. VIII.
 **Závěrečná ustanovení**  
 
-* 1. Nabyvatel je oprávněn požadovat od poskytovatele předložení dokumentů
+1. Nabyvatel je oprávněn požadovat od poskytovatele předložení dokumentů
 osvědčujících plnění jeho závazků dle této smlouvy.
 
-* 2. Právní vztahy vyplývající z této smlouvy se řídí zejména zákonem č. 121/2000 Sb., o
+2. Právní vztahy vyplývající z této smlouvy se řídí zejména zákonem č. 121/2000 Sb., o
 právu autorskěm, o právech souvisejících s právem autorským a o změně některých
 zákonů (autorský zákon), ve znění pozdějších předpisů.
 
-* 3. Tato smlouva může být měněna jen se souhlasem smluvních stran, a to formou
+3. Tato smlouva může být měněna jen se souhlasem smluvních stran, a to formou
 písemných číslovaných dodatků podepsaných zástupci obou smluvních stran. Tato
 smlouva ruší a v plném rozsahu nahrazuje licenční smlouvu č. LIC/40/05/001 128/2006
 uzavřenou mezi smluvními stranami dne 6.1 1.2006.
 
-* 4. Poskytovatel je povinen nakládat se všemi daty poskytnutými nabyvatelem ke
+4. Poskytovatel je povinen nakládat se všemi daty poskytnutými nabyvatelem ke
 zpracování jako s informacemi důvěmými. Budou-li data poskytnutá nabyvatelem
 podléhat režimu zvláštní ochrany podle zákona č. 101/2000 Sb., o ochraně osobních
 údajů a o změně některých zákonů, jsou obě smluvní strany povinny zabeZpečit splnění všech ohlašovacích povinností, které citovaný zákon vyžaduje, a obstarat předepsaná
@@ -262,20 +260,20 @@ přístupu k těmto údajům, k jejich změně, zničení či ztrátě, neopráv
 jejich jinému neoprávněnému zpracování, jakož i k jejich jinému zneužití.
 Poskytovatel nese plnou odpovědnost za případné porušení této povinnosti.
 
-* 5. Bez ohledu na výše uvedené poskytovatel výslovně souhlasí s tím, aby tato smlouva
+5. Bez ohledu na výše uvedené poskytovatel výslovně souhlasí s tím, aby tato smlouva
 byla vedena v Centrální evidenci smluv vedené nabyvatelem, která je veřejně přístupná
 a která obsahuje údaje o smluvních stranách, předmětu smlouvy, číselné označení této
 Smlouvy a datum jejího podpisu.
 
-* 6. Platnosti a účinnosti tato smlouva nabývá dnem podpisu oběma smluvními stranami.
+6. Platnosti a účinnosti tato smlouva nabývá dnem podpisu oběma smluvními stranami.
 
-* 7. Smluvní strany tímto prohlašují, že neexistuje žádné ústní ujednání, žádná smlouva či
+7. Smluvní strany tímto prohlašují, že neexistuje žádné ústní ujednání, žádná smlouva či
 řízení týkající se některé smluvní strany, které by nepříznivě ovlivnilo splnění závazků
 vyplývajících z této smlouvy. Zároveň svým podpisem potvrzují, že veškerá prohlášení
 a dokumenty podle této smlouvy jsou pravdivé, úplné, přesné, platné a právně
 vynutitelné.
 
-* 8. Smluvní Strany dále prohlašují, že si smlouvu pečlivě přečetly, všem ustanovením
+8. Smluvní Strany dále prohlašují, že si smlouvu pečlivě přečetly, všem ustanovením
 smlouvy rozumí a na důkaz svého souhlasu učiněného vážně a svobodně smlouvu
 vlastnoručně podepísují.
 
@@ -320,6 +318,7 @@ je poskytována v závislosti na třech parametrech:
 1. Počet evidovaných karet v Aplikacích SKC (LIMIT)
 
 |Typ|LIMIT od -do|Cena za evidovanou kartu (CK = 300 Kč bez DPH)|
+|---|---|---|---|
 |A.| 0| 50.000| 100 %|
 |B.| 50.001| 100.000| 73 %|
 |C.| 100.001| 250.000| 58 %|
@@ -330,6 +329,7 @@ je poskytována v závislosti na třech parametrech:
 2. Počet konfigurovaných uživatelských terminálů pracujících s kartovými aplikacemi v SKC (STANlC)
 
 |Typ| STANIC| od -do| Cena za konfigurovanou stanici (cs = 75.000 Kč bez DPH)|
+|---|---|---|---|
 |I. |0 |15 |100%|
 |II.| 16 |30 |92 %|
 |III.| 31 |45 |84 %|
@@ -340,6 +340,7 @@ je poskytována v závislosti na třech parametrech:
 3. Počet kartových aplikaci integrovaných v Aplikaclch SKC (K.APLIKACE)
 
 |Typ|K.APLIKACE od -do|Cena za integrovanou kartovou aplikaci (CA u 1.000.000 Kč bez DPH)|
+|---|---|---|---|
 |1 |0 |5 |100%|
 |2 |5 |10| 83 %|
 |3 |11 |15| 66 %|
@@ -353,7 +354,7 @@ poskytuje licenci typu CJILI. ve variantě, která nabyvateli umožňuje vést i
 200.000 evidovaných karet, počet konfigurovaných STANIC je do 45 a Počet integrovaných
 K.APLIKACÍ je do 5. Cena Licence je vypočtena jako:
 
-CENA=(LIMITdo*CK%*CK+STANICdo*CS%*CS+K.APLIKACEdo*CA%*CA).
+CENA=(LIMIT do * CK% * CK+STANIC do * CS% * CS + K.APLIKACE do * CA% * CA).
 
 CENA Upgrade je vypočtena jako rozdíl mezi cenou nového typu licence od které .se odečítá cena již
 zakoupené licence.
@@ -362,12 +363,13 @@ V rámci Licence poskytovatel dodá jednu hlavní ajednu záložní kopii Softwa
 určena pouze pro účely archivace Software SKC nabyvatelem, a vztahují se na ni stejné licenční
 podmínky jako na hlavní kopii. Záložní kopie může být použita pouze v případě, že dojde k fyzickému
 zničení nebo dlouhodobé nedostupnosti kopie Hlavní. Hlavní kopie může být instalována a
-konñgurována v libovolné konfiguraci, kteráje potřebná pro řádný provoz SKC.
+konfigurována v libovolné konfiguraci, kteráje potřebná pro řádný provoz SKC.
 
 Detailní definice funkčnosti specifikované vjednotlivých bodech této přílohy je vymezena
 interaktivním helpem, kterýje součástí Software SKC a dokumentací k Software SKC.
 
 |**Komponenty**| |**Popis**|**KS**|
+|---|---|---|---|
 | | |1. Univerzální řídící systém KRONUS|2|
 | | |**Administrace nabídky činnosti**|2|
 | | |přihlášení uživatelů do požadovaného systému.|2|
@@ -384,7 +386,6 @@ interaktivním helpem, kterýje součástí Software SKC a dokumentací k Softwa
 | | |Možnost sledování aktuálně prováděných činností (kdo a kde spustil jakou činnost).|2|
 | | |Archivace protokolů s následným výmazem z provozní databáze. Správa protokolů umožňuje obsluhovat i data archivu.|2|
 | | |Jednotný systém správy reportů a sestav, možnost vyhledávat, prohlížet a tisknout sestavy vytvořené ve všech modulech.|2|
-
 | | |**2. Card management Quanto**|2|
 | | |**Správa klientů**|2|
 | | |Klientem může být vlastník nebo držitel karty, provozovatel kartové aplikace.|2|
@@ -418,50 +419,54 @@ interaktivním helpem, kterýje součástí Software SKC a dokumentací k Softwa
 | | |Otevřená definice a správa typů poplatků za služby spojené s kartami  kartovými aplikacemi.|2|
 | | |Správa poplatků, vyhledávání a reporty podle klientů a stavů poplatků.|2|
 
-|**3. Datový zúčtovací systém Kwadrom**|2|
-|**Správa klientů**|2|
-|Klient je vlastník účtu|2|
-|Správa fyzických a právnických osob|2|
-Definice organizační struktury právnických osob|2|
-|Vazby mezi fyzickými a právnickými osobami|2|
-|Definice typů adres, kontaktů a propojených dokumentů pro fyzické i právnické osoby|2|
-|**Evidence smluv**|2|
-|Správa smluv o vedení účtů.|2|
-|**Evidence a správa účtů**|2|
-|Definice a správa typů účtů|2|
-|Správa vnitřních účtů systému.|2|
-|Vnitřní účty a účty klientů.|2|
-|Evidence bankovních účtů klientů.|2|
-|**Evidence a správa poplatků.**|2|
-|Otevřená definice a správa typů poplatků za služby spojené s vedením účtů, zpracováním výpisů a zpracováním platebních transakcí.|2|
-|Správa poplatků, vyhledávání a reporty podle klientů a stavu poplatků.|2|
-|**Evidence zpracování transakcí**|2|
-|Definice a správa typů transakcí|2|
-|Zpracování platebních transakcí - pořizování, import, export, účtování, ošetření nezařazených plateb.|2|
-|Prohlížení transakcí, vyhledávání pro účely reklamací, geneorvání výpisů.|2|
-|Zpracování bankovních výpisů|2|
-|Generování platebníchp říkazů pro banku|2|
-|Vytváření reportů pro účtování.|2|
-|**Správa provizí**|2|
-|Definice a správa provizí z provedených transakcí|2|
+|**Komponenty**| |**Popis**|**KS**|
+|---|---|---|---|
+| | |**3. Datový zúčtovací systém Kwadrom**|2|
+| | |**Správa klientů**|2|
+| | |Klient je vlastník účtu|2|
+| | |Správa fyzických a právnických osob|2|
+| | |Definice organizační struktury právnických osob|2|
+| | |Vazby mezi fyzickými a právnickými osobami|2|
+| | |Definice typů adres, kontaktů a propojených dokumentů pro fyzické i právnické osoby|2|
+| | |**Evidence smluv**|2|
+| | |Správa smluv o vedení účtů.|2|
+| | |**Evidence a správa účtů**|2|
+| | |Definice a správa typů účtů|2|
+| | |Správa vnitřních účtů systému.|2|
+| | |Vnitřní účty a účty klientů.|2|
+| | |Evidence bankovních účtů klientů.|2|
+| | |**Evidence a správa poplatků.**|2|
+| | |Otevřená definice a správa typů poplatků za služby spojené s vedením účtů, zpracováním výpisů a zpracováním platebních transakcí.|2|
+| | |Správa poplatků, vyhledávání a reporty podle klientů a stavu poplatků.|2|
+| | |**Evidence zpracování transakcí**|2|
+| | |Definice a správa typů transakcí|2|
+| | |Zpracování platebních transakcí - pořizování, import, export, účtování, ošetření nezařazených plateb.|2|
+| | |Prohlížení transakcí, vyhledávání pro účely reklamací, geneorvání výpisů.|2|
+| | |Zpracování bankovních výpisů|2|
+| | |Generování platebníchp říkazů pro banku|2|
+| | |Vytváření reportů pro účtování.|2|
+| | |**Správa provizí**|2|
+| | |Definice a správa provizí z provedených transakcí|2|
 
-|**4. Zázemí elektronické peněženky Chanson**|2|
-|**Správa klientů**|2|
-|Klientem je obchodní nebo vlastník elektronické peněženky|2|
-|Správa fyzických a právnických osob.|2|
-|Definice organizační struktury právnických osob.|2|
-|Vazby mezi fyzickými a právnickými osobami.|2|
-|Definice typu adres, kontaktů a připojených dokumentů pro fyzické osoby i právnické osoby|2|
-|**Správa zařízení infrastruktury**|2|
-|Evidence obchodníků a jejich provozoven, evidence bankovních účtů obchodníků.|2|
-|Správa platebních zařízení elektronické peněženky, evidence zařízení ve vazbě na provozovnu obchodníka.|2|
-|**Card management elektronické peněženky.**|2|
-|Práce s kartami na kterých je aktivovaná aplikace elektronické peněženky (informace programu QUANTO).|2|
-|**Evidence zpracování transakcí**|2|
-|Příjem azpracování transakce nabíjení/vybíjení elektronické peněženky.|2|
-|Import karetních transakcí z front office elektronické peněženky, jejich zpracování a export pro KWADROM.|2|
-|Evidence přijatých transakcí elektronické peněženky.|2|
-|Generování a export dokladů do KWADROM pro účtování provizí.|2|
+|**Komponenty**| |**Popis**|**KS**|
+|---|---|---|---|
+| | |**4. Zázemí elektronické peněženky Chanson**|2|
+| | |**Správa klientů**|2|
+| | |Klientem je obchodní nebo vlastník elektronické peněženky|2|
+| | |Správa fyzických a právnických osob.|2|
+| | |Definice organizační struktury právnických osob.|2|
+| | |Vazby mezi fyzickými a právnickými osobami.|2|
+| | |Definice typu adres, kontaktů a připojených dokumentů pro fyzické osoby i právnické osoby|2|
+| | |**Správa zařízení infrastruktury**|2|
+| | |Evidence obchodníků a jejich provozoven, evidence bankovních účtů obchodníků.|2|
+| | |Správa platebních zařízení elektronické peněženky, evidence zařízení ve vazbě na provozovnu obchodníka.|2|
+| | |**Card management elektronické peněženky.**|2|
+| | |Práce s kartami na kterých je aktivovaná aplikace elektronické peněženky (informace programu QUANTO).|2|
+| | |**Evidence zpracování transakcí**|2|
+| | |Příjem azpracování transakce nabíjení/vybíjení elektronické peněženky.|2|
+| | |Import karetních transakcí z front office elektronické peněženky, jejich zpracování a export pro KWADROM.|2|
+| | |Evidence přijatých transakcí elektronické peněženky.|2|
+| | |Generování a export dokladů do KWADROM pro účtování provizí.|2|
 
 Poskytovatel prohlašuje a zaručuje, že je oprávněnou osobou knakládání s autorskými
 právy vztahujícími se k Software SKC, a že je oprávněn poskytovat licenci kvyužívání
