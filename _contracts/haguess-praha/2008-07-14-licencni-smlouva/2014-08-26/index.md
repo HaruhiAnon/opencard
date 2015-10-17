@@ -1,3 +1,39 @@
+---
+"id":               LIC/40/01/001613/2008
+"layout":           uz
+"datum účinnosti":  2014-08-26
+"použité smluvní typy":
+  - licenční smlouva
+"předmět":          Licenční smlouva na Servisní kartové centrum
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor informatiky
+  "zástupce": Ing. David Vorlíček
+  "funkce":   ředitel odboru informatiky
+ -   
+  "jméno":    "eMoneyServices, s.r.o."
+  "zástupce": Michal Šilhák
+  "funkce":   jednatel
+  "role":     poskytovatel
+
+"náklady":
+
+"soubory":
+ - 
+  "název": "Licenční smlouva"
+  "podepsaná verze": 
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": 
+
+"ruší": 
+"mění":
+"změněno": LIC/40/01/001613/2008/1 LIC/40/01/001613/2008/2 LIC/40/01/001613/2008/3
+"zrušeno":
+---
+
 ## Licenční smlouva
 
 **Č. LIC/40/01/001613/2008**

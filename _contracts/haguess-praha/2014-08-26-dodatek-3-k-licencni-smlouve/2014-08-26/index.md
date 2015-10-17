@@ -1,3 +1,40 @@
+---
+"id":               LIC/40/01/001613/2008/3
+"layout":           contract
+"datum podpisu":    2014-08-26
+"datum účinnosti":  2014-08-26
+"použité smluvní typy":
+  - licenční smlouva
+"předmět":          Dodatek č. 3 k licenční smlouvě 
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor informatiky
+  "zástupce": Ing. David Vorlíček
+  "funkce":   ředitel odboru informatiky
+ -   
+  "jméno":    "eMoneyServices, s.r.o."
+  "zástupce": Michal Šilhák
+  "funkce":   jednatel
+  "role":     poskytovatel
+
+"náklady":
+
+"soubory":
+ - 
+  "název": "Dodatek k licenčním ujednáním k software SKC"
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění": LIC/40/01/001613/2008
+"změněno": 
+"zrušeno":
+---
+
 ## DODATEK K LICENČNÍM UJEDNÁNÍM K SOFTWARE SKC
 (DODATEK Č. 3 K LICENČNÍ SMLOUVĚ Č. LIC/40/01/001613/2008)  
 

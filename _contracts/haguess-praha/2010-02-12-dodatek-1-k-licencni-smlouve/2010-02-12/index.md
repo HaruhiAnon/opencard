@@ -1,3 +1,41 @@
+---
+"id":               LIC/40/01/001613/2008/1
+"layout":           contract
+"datum podpisu":    2010-02-12
+"datum účinnosti":  2010-02-12
+"použité smluvní typy":
+  - licenční smlouva
+"předmět":          Dodatek č. 1 k licenční smlouvě 
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    MHMP
+  "zástupce": Ing. Martin Trnka
+  "funkce":   ředitel MHMP
+ -   
+  "jméno":    "HAGUESS, a.s"
+  "zástupce": Miroslava Turková
+  "funkce":   předseda představenstva
+  "role":     poskytovatel
+
+"náklady":
+
+"soubory":
+ - 
+  "název": "Dodatek k licenčním ujednáním k software SKC"
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění": LIC/40/01/001613/2008
+"změněno": 
+"zrušeno":
+---
+
+
 # DODATEK K LICENČNÍM UJEDNÁNÍM K SOFTWARE SKC
 
 **(DODATEK Č. 1 K LICENČNÍ SMLOUVĚ Č. LIC /40/01/001613/2008)**  

@@ -1,7 +1,6 @@
 ---
-"id":               LIC/40/01/001613/2008/2
-"layout":           contract
-"datum podpisu":    2010-02-12
+"id":               LIC/40/01/001613/2008
+"layout":           uz
 "datum účinnosti":  2010-02-12
 "použité smluvní typy":
   - licenční smlouva
@@ -10,9 +9,9 @@
  -   
   "role":     nabyvatel
   "jméno":    "Hlavní město Praha"
-  "orgán":    odbor informatiky
-  "zástupce": Ing. Václav Kraus
-  "funkce":   ředitel odboru informatiky
+  "orgán":    MHMP
+  "zástupce": Ing. Martin Trnka
+  "funkce":   ředitel MHMP
  -   
   "jméno":    "HAGUESS, a.s"
   "zástupce": Miroslava Turková
@@ -24,17 +23,16 @@
 "soubory":
  - 
   "název": "Licenční smlouva"
-  "podepsaná verze": contract.pdf
+  "podepsaná verze": 
   "strojově čitelná verze": index.md
   "upravitelná verze": 
-  "náhled": miniatura.jpg
+  "náhled": 
 
 "ruší": 
 "mění":
 "změněno": LIC/40/01/001613/2008/1
 "zrušeno":
 ---
-
 
 ## Licenční smlouva Č. LIC/40/01/001613/2008
 
