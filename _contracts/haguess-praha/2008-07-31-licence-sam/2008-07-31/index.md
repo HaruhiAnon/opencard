@@ -1,35 +1,38 @@
 ---
-"layout":           contract
-"datum podpisu":    2015-02-12
-"datum účinnosti":  2015-02-12 
-title:              Darovací smlouva, SZ, Příbram
+"id":               LIC/40/01/001650/2008
+"layout":           
+"datum podpisu":    
+"datum účinnosti":  
 "použité smluvní typy":
-  - darovací smlouva
-"předmět":          darovací smlouva pro komunální volby 2014, Příbram
-"stav":             splněno
+  - 
+"předmět":          
 "smluvní strany":
  -   
-  "jméno":    "Česká pirátská strana"
-  "orgán":    republikové předsednictvo
-  "zástupce": Ing. Lukáš Černohorský
-  "funkce":   předseda strany
-  "značka":   neznámá
-  "role":     obdarovaný
+  "role":     nabyvatel
+  "jméno":    
+  "orgán":    
+  "zástupce": 
+  "funkce":   
  -   
-  "jméno":    "Strana Zelených"
-  "zástupce": Robin Ujfaluši
-  "funkce":   Hlavní manažer
-  "značka":   neznámá
-  "role":     dárce
+  "jméno":    
+  "zástupce": 
+  "funkce":   
+  "role":     poskytovatel
 
-"ujednané náklady": 5357.00
+"náklady":
 
-"místo uložení":    vedoucí FO, Plzeň
+"soubory":
+ - 
+  "název": 
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
 
-"výběrko":
-
+"ruší": 
 "mění":
- - haguess-praha/2008-07-31-puvodni-smlouva/2008-07-31
+"změněno": 
+"zrušeno":
 ---
 
 Licenční smlouva Č. LIC/40/01/001650/2008

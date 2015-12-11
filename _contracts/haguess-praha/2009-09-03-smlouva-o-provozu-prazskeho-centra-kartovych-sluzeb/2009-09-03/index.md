@@ -1,3 +1,40 @@
+---
+"id":               
+"layout":           contract
+"datum podpisu":    
+"datum účinnosti":  
+"použité smluvní typy":
+  - 
+"předmět":          Smlouva o zajištění provozu PCKS
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    MHMP
+  "zástupce": Ing. Martin Trnka
+  "funkce":   ředitel MHMP
+ -   
+  "jméno":    "HAGUESS, a.s."
+  "zástupce": Miroslava Turková
+  "funkce":   předsedkyně představenstva
+  "role":     poskytovatel
+
+"náklady": 40515120
+
+"soubory":
+ - 
+  "název": 
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění":
+"změněno": 
+"zrušeno":
+---
+
 
 **SMLOUVA O ZAJIŠTĚNÍ PROVOZU PRAŽSKÉHO CENTRA KARTOVÝCH SLUŽEB**
 

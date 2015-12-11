@@ -1,4 +1,39 @@
+---
+"id":               INO/40/01/001653/2008
+"layout":           contract
+"datum podpisu":    2008-07-31
+"datum účinnosti":  2008-07-31
+"použité smluvní typy":
+  - smlouva inominátní
+"předmět":          Smlouva o zpracování osobních údajů
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor informatiky
+  "zástupce": Ing. Václav Kraus
+  "funkce":   ředitel odboru informatiky
+ -   
+  "jméno":    "HAGUESS, a.s."
+  "zástupce": Miroslava Turková
+  "funkce":   předsedkyně představenstva
+  "role":     poskytovatel
 
+"náklady":
+
+"soubory":
+ - 
+  "název": "Smlouva inominátní"
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění":
+"změněno": 
+"zrušeno":
+---
 
 ##SMLOUVA 0 ZPRACOVÁNÍ OSOBNÍCH ÚDAJŮ
 
