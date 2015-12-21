@@ -1,3 +1,53 @@
+---
+"id":               INO/40/01/001966/2009
+"layout":           uz
+"datum účinnosti":  2009-05-25
+"použité smluvní typy":
+  - smlouva inominátní
+"předmět":          Smlouva o zajištění provozu PCKS
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor informatiky
+  "zástupce": Ing. Václav Kraus
+  "funkce":   ředitel odboru informatiky
+ -   
+  "jméno":    "HAGUESS, a.s."
+  "zástupce": Miroslava Turková
+  "funkce":   předsedkyně představenstva
+  "role":     poskytovatel
+
+"náklady": 
+
+"soubory":
+ - 
+  "název": "Smlouva inominátní"
+  "podepsaná verze": 
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": 
+
+"ruší": 
+"mění":
+"změněno": INO/40/01/001966/2009/1
+"zrušeno":
+---
+
+##SMLOUVA O ZAJIŠTĚNÍ PROVOZU PRAŽSKÉHO CENTRA KARTOVÝCH SLUŽEB
+
+**INO/40/01/001966/2009**
+
+uzavřená mezi následujícími stranami  
+
+Hlavní město Praha  
+
+jako „Garant“  
+
+HAGUESS, a.s.  
+ 
+jako „Správce“
+
 ##SEZNAM PŘÍLOH
 
 |||
@@ -6188,4 +6238,217 @@ Jméno: [°]
 Funkce: [°]  
  
 
+PŘÍLOHA 17
 
+PŘElłLED TŘETÍCH osoa vvuživauv'c
+H SPRÁVCEM A PŘEHLED ČINNOSTI, KE KTERÝM JSOU TŘETÍ
+osonv VYUŽÍVÁNY
+
+ 
+
+Správce je oprávněn k výkonu činností dle této Smlouvy
+
+níže:
+
+Společnost
+Učel
+
+Společnost
+Učel
+
+w „ Společnost
+
+Účel
+
+Společnost
+Učel
+
+Společnost
+Učel
+
+Společnost
+Účel
+
+Společnost
+Učel
+
+Společnost
+Učel
+
+Společnost
+Učel
+
+ 
+
+využít následujících osob za účelem uvedeným
+
+Monet+, a.s., Za Dvorem 505, 763 14 Zlín-Štípa
+Služby Personalizace ”
+
+- Asseco
+
+Služby personalizace -'
+
+Czech Republic; as., Podvínný Mlýn 2178/6, 190 00 Praha 9
+
+STÁTNÍ TISKÁRNA CENIN, státní podnik, Růžová 6, čp. 943, 110 00
+
+Praha l
+
+Služby Personalizace
+
+Westpoint, as., Slezská 65/A, 130 00 Praha 3
+Distribuční služba
+
+Cross Point, s.r.o., Bělohorská 71, 169 00 Praha 6
+Obsluhovatel Kontaktních míst SKC
+
+Dopravni podnik hl. m. Prahy, akciová společnost, Sokolovská 217/42,
+l90 22 Praha 9
+Obsluhovatel Kontaktních míst SKC
+
+Městská knihovna v Praze, Mariánské nám. l, l 15 72 Praha l
+Obsluhovatel Kontaktních míst SKC
+
+V.P. a.s., Praha 4, Bohúňova 1339/7, PSČ 149 00
+Obsluhovatel Kontaktních míst SKC
+
+Pasante s.r.o., Praha 1, Hybernská 1007/20, PSČ 110 00
+Obsluhovatel Kontaktních mist SKC
+
+133
+
+ 
+
+PŘÍLOHA 18
+
+TECHNICKÉ, BEZPEČNOSTNÍ A 'čAsovÉ PARAMETRY PROVOZU SBĚRNÉHO MÍSTA OPENCARD
+
+ 
+
+l. Pro zřízení Sběmého místa Opencard musí Garant provést následující kroky.
+
+a.
+b.
+
+Podmínky zřízení a provozu Sběmého místa Opencard A "i“
+
+Zajistit vyškolení dostatečného počtu. pracovníků Sběrného místa opencard
+
+Zajistit zabezpečený prostor dle specifikace Správce pro uchování žádostí o vydání Karty
+
+a dalších Materiálů podaných nebo 'určených kpřevzetí na Sběmém místě opencard
+žadateli O vydání Karty či Držiteli
+
+Zajistit prostor pro uchování smluvních a propagačních materiálů
+
+Pokud Sběrné místo opencard zajišťuje i předáváníKaret Držítelům, musí být zajištěno
+zabezpečené místo pro uchování Karet připravených k předání
+
+II. . .
+Postup při zřízení Sběrného místa Opencard
+
+l. Postup před rozhodnutím o zřízení
+
+a.
+
+b.
+
+C.
+
+Posouzení vhodnosti lokality a kapacity Sběmého místa opencard
+
+. Posouzení fyzických podmínek Sběmého místa Opencard
+
+Posouzení personálního zabezpečení Sběmého místa Opencard
+
+2. Pokud bude výsledek posouzení kladný, zahájí se proces zřízení Sběrného místa Opencard s
+předběžným určením termínu zřízení.
+
+3. Postup při zřizování
+
+a.
+
+Uzavření smlouvy mezi Správcem a Obsluhovatelem Sběrného místa Opencard o provozu
+Sběmého mista Opencard
+
+Uzavření smlouvy o zpracování osobních údajů mezi Garantem a Obsluhovatelem
+Sběmého místa Opencard
+
+Proškolení osob, které budou obsluhovat Sběrné místo Opencard
+
+134
+
+##DODATEK Č. 1 KE SMLOUVĚ INO/40/01/001966/2009 0 ZAJIŠTĚNÍ PROVOZU PRAŽSKÉHO CENTRA KARTOVÝCH SLUŽEB
+
+ 
+uzavřený mezi Smluvními stranami
+
+**Hlavní město Praha**
+
+jako "Garant"
+
+a 
+
+**HAGUESS, a.s.**
+
+jako "Správce"
+
+ 
+
+###DODATEK Č. 1 KE SMLOUVĚ O ZAJIŠTĚNÍ PROVOZU PRAŽSKÉHO CENTRA KARTOVÝCH SLUŽEB
+(dále jen **„Dodatek“**)
+
+MEZI:
+
+(1) **Hlavní město Praha**, se sídlem na adrese Mariánské nám. 2/2, Praha 1, PSČ 110 00,IC: 00064581, zastoupené Ing. Václavem Krausem, ředitelem odboru informatiky Magistrátu hl.m. Prahy (dále jen „Garant”)
+
+a
+
+(2) **HAQUESS, a.s.., se sídlem: Na Michovkách 1. 686, Průhonice, okres Praha-západ, PSČ 252 43, IC: 250 85 166, zapsaná v obchodním rejstříku vedeném Městským soudem v Praze, oddíl B, vložka 11127 (dále jen „Správce”)
+
+(společně dále jen „Smluvní strany“ nebo též jednotlivě jen „Smluvní strana“)
+
+###PREAMBULE
+
+(A) Dne 25.5.2009 Smluvní strany uzavřely smlouvu o zajištění provozu Pražského centra kartových služeb vedenou Garantem v evidenci smluv pod č. INO/40/01/001966/2009 s účinností do 31.7.2009, kterou se Správce zavazuje provozovat jménem a na účet Garanta systém PCKS (dále jen **„Smlouva“**).
+
+(B) Definice pojmů použité ve Smlouvě platí i pro pojmy použité v tomto dodatku.
+
+(C) V rámci jednání o dalším provozu PCKS a jeho zefektivnění se Smluvní strany dohodly na prodloužení účinnosti Smlouvy o 1 měsíc, tj. do 31.8.2009, přičemž na základě svého návrhu bude Správce svou činnost podle Smlouvy vykonávat na základě tohoto dodatku v období od 1.8.2009 do 31.8.2009 v rámci odměny, na kterou mu vznikl nárok dle Smlouvy za období od 1.5.2009 do 31.7.2009.
+
+S OHLEDEM NA VÝŠE UVEDENĚ se Správce a Garant dohodli na následujícím dodatku ke Smlouvě:
+
+1) Účinnost Smlouvy se prodlužuje do 31.8.2009.
+
+2) Správce bude i v době po 31.7.2009 vykonávat veškeré své povinnosti podle Smlouvy v plném rozsahu se zachováním všech relevantních ustanovení Smlouvy, které se na vykonávání činností Správce vztahují. Tyto Činnosti bude Správce zajišťovat nejdéle do 31.8.2009.
+
+3) Smluvní strany se dohodly, že odměna za poskytování služeb podle Smlouvy na základě tohoto dodatku v období od 1.8.2009 do 31.8.2009 je zahrnuta v odměně poskytnuté za činnost vykonanou Správcem v období od 1.5.2009 do 31.7.2009.
+
+4) Správce bude nadále oprávněn vybírat poplatky podle odstavce 3.4.5 Smlouvy a vybrané poplatky použít na úhradu svých nákladů v souladu se Smlouvou.
+
+5) Tento Dodatek vstupuje v platnost dnem jeho podpisu oběma Smluvními stranami a účinnosti
+nabývá ke dni 1.8.2009.
+
+6) Tento Dodatek se vyhotovuje ve 4 stejnopisech, přičemž každý stejnopis má platnost originálu. Garant obdrží tři vyhotovení a Správce jedno vyhotovení.
+
+7) Smluvní strany závěrem prohlašují a stvrzují, že si tento Dodatek před jeho podpisem přečetly a že veškerá ujednání obsažená v tomto Dodatku byla sjednána svobodně, vážně a určitě, na důkaz čehož připojuji pod Dodatkem své podpisy.
+
+   
+
+V Praze dne 14.7.2009 
+
+Za hlavní město Prahu: 
+
+........................  
+Jméno: lng. Václav Kraus  
+Funkce: ředitel odboru informatiky
+Magistrátu hl.m. Prahy
+
+V Praze dne 14.7.2009 
+
+HAGUESS, a.s.
+
+..........................  
+Jméno: Miroslava Tarková  
+Funkce: předseda představenstva

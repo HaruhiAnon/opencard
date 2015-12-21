@@ -1,3 +1,40 @@
+---
+"id":               INO/40/01/001715/2008
+"layout":           contract
+"datum podpisu":    2008-07-10
+"datum účinnosti":  2008-07-10
+"použité smluvní typy":
+  - smlouva inominátní
+"předmět":          Smlouva o dodávce konzultačních služeb
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor informatiky
+  "zástupce": Ing. Václav Kraus
+  "funkce":   ředitel odboru informatiky
+ -   
+  "jméno":    "PADCOM, s.r.o."
+  "zástupce": Ing. Jiří Korejza
+  "funkce":   jednatel
+  "role":     poskytovatel
+
+"náklady": 16000/člověkoden
+
+"soubory":
+ - 
+  "název": "Smlouva inominátní"
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění":
+"změněno": 
+"zrušeno":
+---
+
 ##SMLOUVA O POSKYTOVÁNÍ SLUŽEB VEDOUCÍHO PROJEKTU
 
 * **Číslo smlouvy Objednatele: INO/40/01/001715/2008**

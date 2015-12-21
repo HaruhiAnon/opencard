@@ -1,3 +1,40 @@
+---
+"id":               INO/40/01/001852/2009
+"layout":           contract
+"datum podpisu":    2009-02-17
+"datum účinnosti":  2009-02-17
+"použité smluvní typy":
+  - smlouva inominátní
+"předmět":          Smlouva o dozoru investora ICT projektů Opencard
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor informatiky
+  "zástupce": Ing. Václav Kraus
+  "funkce":   ředitel odboru informatiky
+ -   
+  "jméno":    "PADCOM, s.r.o."
+  "zástupce": Ing. Jiří Korejza
+  "funkce":   jednatel
+  "role":     poskytovatel
+
+"náklady": 1920000 (bez DPH)
+
+"soubory":
+ - 
+  "název": "Smlouva inominátní"
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění":
+"změněno": 
+"zrušeno":
+---
+
 ##SMLOUVA O POSKYTOVÁNÍ SLUŽEB
 
 **Číslo smlouvy Objednatele: INO/40/01/001852/2009**  

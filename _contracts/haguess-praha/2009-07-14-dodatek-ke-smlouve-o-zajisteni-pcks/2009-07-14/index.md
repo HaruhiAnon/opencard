@@ -1,3 +1,39 @@
+---
+"id":               INO/40/01/001966/2009/1
+"layout":           contract
+"datum podpisu":    2009-07-14
+"datum účinnosti":  2009-07-14
+"použité smluvní typy":
+  - smlouva inominátní
+"předmět":          Dodatek ke smlouvě o zajištění PCKS
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor informatiky
+  "zástupce": Ing. Václav Kraus
+  "funkce":   ředitel odboru informatiky
+ -   
+  "jméno":    "HAGUESS, a.s."
+  "zástupce": Miroslava Turková
+  "funkce":   předsedkyně představenstva
+  "role":     poskytovatel
+
+"náklady":
+
+"soubory":
+ - 
+  "název": "Dodatek ke smlouvě o zajištění provozu PCKS"
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění": INO/40/01/001966/2009
+"změněno": 
+"zrušeno":
+---
 
 ##DODATEK Č. 1 KE SMLOUVĚ INO/40/01/001966/2009 0 ZAJIŠTĚNÍ PROVOZU PRAŽSKÉHO CENTRA KARTOVÝCH SLUŽEB
 
