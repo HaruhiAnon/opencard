@@ -1,3 +1,40 @@
+---
+"id":               MAN/40/01/001396/2007
+"layout":           contract
+"datum podpisu":    2007-11-12
+"datum účinnosti":  2007-10-10
+"použité smluvní typy":
+  - mandátní smlouva
+"předmět":          Mandátní smlouva k poskytování on-line služeb pro držitele OpenCard
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor informatiky
+  "zástupce": Ing. Václav Kraus
+  "funkce":   ředitel odboru informatiky
+ -   
+  "jméno":    "Pasante, s.r.o."
+  "zástupce": Robert Horvai
+  "funkce":   jednatel
+  "role":     poskytovatel
+
+"náklady": 76279/měsíčně
+
+"soubory":
+ - 
+  "název": "Mandátní smlouva"
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění":
+"změněno": 
+"zrušeno":
+---
+
 ## Mandátní Smlouva
 
 **MAN/40/01/001396/2007**  
