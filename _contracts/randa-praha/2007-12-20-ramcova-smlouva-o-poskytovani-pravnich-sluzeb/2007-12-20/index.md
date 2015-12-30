@@ -1,3 +1,40 @@
+---
+"id":               POS/40/00/001451/2007
+"layout":           contract
+"datum podpisu":    2007-12-20
+"datum účinnosti":  2007-12-20
+"použité smluvní typy":
+  - smlouva o poskytnutí právní pomoci
+"předmět":          Rámcová smlouva o poskytování právních služeb
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor informatiky
+  "zástupce": Ing. Václav Kraus
+  "funkce":   ředitel odboru informatiky
+ -   
+  "jméno":    "ŘANDA HAVEL LEGAL s.r.o."
+  "zástupce": Mgr. Martin Řanda
+  "funkce":   advokát a jednatel
+  "role":     poskytovatel
+
+"náklady":
+
+"soubory":
+ - 
+  "název": "Smlouva o poskytnutí právní pomoci"
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění":
+"změněno": 
+"zrušeno":
+---
+
 RANDA HAVEL LEGAL  
 Advokátní kancelář law firm  
 

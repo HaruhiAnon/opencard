@@ -1,3 +1,40 @@
+---
+"id":               KUM/40/05/001294/2007
+"layout":           contract
+"datum podpisu":    2007-04-16
+"datum účinnosti":  2007-04-16
+"použité smluvní typy":
+  - kupní smlouva
+"předmět":          Kupní smlouva na dodávku čteček
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor informatiky
+  "zástupce": Ing. Ivan Seyček
+  "funkce":   ředitel odboru informatiky
+ -   
+  "jméno":    "MONET+, a.s."
+  "zástupce": Mgr. Jiří Beneš
+  "funkce":   prokurista společnosti
+  "role":     poskytovatel
+
+"náklady": 878173 (bez DPH)
+
+"soubory":
+ - 
+  "název": "Kupní smlouva"
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění":
+"změněno": 
+"zrušeno":
+---
+
 ##Kupní smlouva
 uzavřená podle § 409 obchodního zákoníku a podle § 12 odst. 6 zákona č. 137/2006 Sb., o
 veřejných zakázkách  

@@ -1,4 +1,41 @@
-## POS/40/01/001634/2008
+---
+"id":               POS/40/01/001645/2008
+"layout":           contract
+"datum podpisu":    2008-08-06
+"datum účinnosti":  2008-08-06
+"použité smluvní typy":
+  - smlouva o poskytnutí právní pomoci
+"předmět":          Rámcová smlouva o poskytování právních služeb
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor informatiky
+  "zástupce": Ing. Václav Kraus
+  "funkce":   ředitel odboru informatiky
+ -   
+  "jméno":    "ŘANDA HAVEL LEGAL s.r.o."
+  "zástupce": Mgr. Martin Řanda
+  "funkce":   advokát a jednatel
+  "role":     poskytovatel
+
+"náklady":
+
+"soubory":
+ - 
+  "název": "Smlouva o poskytnutí právní pomoci"
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění":
+"změněno": 
+"zrušeno":
+---
+
+## POS/40/01/001645/2008
 
 **Hlavní město Praha**  
 Magistrát hl. m. Prahy, odbor informatiky  
@@ -10,16 +47,16 @@ DIČ: CZ00064581
 
 a  
 
-**ŘANDA HAVEL LEGAL s.r.o.**
-IČ: 27636836
-se sídlem: Truhlářská 13-15, Praha 1, PSČ 110 00
-zapsaná v obchodním rejstříku vedeném Městským soudem v Praze, oddíl C, vložka 120572
+**ŘANDA HAVEL LEGAL s.r.o.**  
+IČ: 27636836  
+se sídlem: Truhlářská 13-15, Praha 1, PSČ 110 00  
+zapsaná v obchodním rejstříku vedeném Městským soudem v Praze, oddíl C, vložka 120572  
 (dále jen **„advokátní kancelář“**)
 
 (klient a advokátní kancelář dále jen společně **„smluvní strany“**)
 
 uzavřeli níže uvedeného dne, měsíce a roku, v souladu se zákonem č. 85/1996 Sb., o advokacii,
-v platném znění (dále jen „Zákon“) a vyhlášky č. 177/1996 Sb., advokátní tarif, v platném znění,
+v platném znění (dále jen **„Zákon“**) a vyhlášky č. 177/1996 Sb., advokátní tarif, v platném znění,
 tuto
 
 **RÁMCOVOU SMLOUVU O POSKYTOVÁNÍ PRÁVNÍCH SLUŽEB**
@@ -29,18 +66,14 @@ tuto
 ### 1. Předmět Smlouvy
 
 * 1.1 Advokátní kancelář se zavazuje poskytovat klientovi podle jeho potřeb a v souladu s jeho
-pokyny po dobu účinnosti této Smlouvy právní služby pro další rozvoj digitalizace služeb
-HMP pro občany v oblasti informatiky (včetně oblasti zadávacích řízení) a další
-související právní služby nutné či vhodné pro zajištění řádného postupu odboru
-informatiky Magistrátu hl. m. Prahy v souvislosti s výše uvedeným. Na základě vzájemné
-dohody poskytne advokátní kancelář za podmínek stanovených touto Smlouvou i jakékoli jiné
-právní služby související s činností klienta.
+pokyny po dobu účinnosti této Smlouvy právní služby v souvislosti s revizí dokumentů a
+zajištěním souladu postupu odboru informatiky MHMP s požadavky na ochranu osobních
+údajů a další související právní služby nutné či vhodné pro zajištění řádného postupu
+odboru informatiky Magistrátu hl. m. Prahy v souvislosti s výše uvedeným.
 
-* 1.2 Právní služby podle této Smlouvy budou poskytovány do 30. 09. 2008 nebo do dosažení limitu
-celkové výše odměny vyplacené podle této smlouvy v částce 1.800.000,- Kč (slovy: jeden
-milion osm set tisíc korun českých), podle toho, co nastane dříve; celkový limit objednávky je
-určen jako 75 člověkodnů po 8 hodinách, přičemž finanční limit vychází z kalkulace 3.000,-
-Kč za hodinu..
+* 1.2 Právní služby podle této Smlouvy budou poskytovány do 31. 10. 2008 nebo do dosažení limitu
+celkové výše odměny vyplacené podle této smlouvy v částce 2.000.000,- Kč (slovy: dva
+miliony korun českých), podle toho, co nastane dříve.
 
 * 1.3 Poskytování právních služeb bude realizováno průběžně v prostorách klienta nebo
 v prostorách advokátní kanceláře ŘANDA HAVEL LEGAL v Praze, popřípadě v Plzni, nebo
@@ -102,10 +135,16 @@ korun českých) na jeden případ či související sérii případů.
 ### 6. Odměna za poskytování právních služeb
 
 * 6.1 Smluvní strany se dohodly, že smluvní odměna advokátní kanceláře za právní služby podle
-Strana 2 (celkem 4)článku 1.1. této Smlouvy se sestává z časové odměny na základě hodinové sazby 3.000,-
-Kč/hod bez DPH, tj. 3.570,- Kč/hod s DPH (dále jen „časová odměna“). Účtována bude
-každá započatá čtvrthodina (posuzováno kumulativně v jednom dni). Odměna bude splatná
-v českých korunách a bude k ní připočteno aplikovatelné DPH.
+článku 1.1. této Smlouvy se sestává z časové odměny na základě níže uvedených hodinových
+sazeb:
+
+|(a) Advokát 3.000,- Kč/hod bez DPH|3.570,- Kč/hod včetně DPH|
+|(b) Koncipient 2.500,- Kč/hod bez DPH|2.975,- Kč/hod včetně DPH|
+|(c) Odborný asistent 1.200,- Kč/hod bez DPH|1.428 Kč/hod včetně DPH|
+
+(dále jen **„časová odměna“**). Účtována bude každá započatá čtvrthodina (posuzováno
+kumulativně v jednom dni). Odměna bude splatná v českých korunách a bude k ní připočteno
+aplikovatelné DPH.
 
 * 6.2 Kromě časové odměny podle čl. 6.1 náleží advokátní kanceláři případné soudní přísudky
 vydobyté na protistraně.
@@ -126,7 +165,8 @@ klientem.
 
 * 6.5 Za čas strávený cestováním mimo území hl. m. Prahy nebude účtována časová odměna podle
 čl. 6.1 výše, ale pouze náhrada za ztrátu času ve výši 1.200,- Kč/hod bez DPH.
-6.6 Časová odměna za právní služby, náhrada vzniklých nákladů a náhrada za ztrátu času
+
+* 6.6 Časová odměna za právní služby, náhrada vzniklých nákladů a náhrada za ztrátu času
 cestováním bude vyúčtována vždy zpětně prostřednictvím faktury, zpravidla měsíčně. Dnem
 zdanitelného plnění bude poslední den období, za které budou právní služby vyúčtovány.
 Pokud nebude ústně či písemně dohodnuto jinak, faktura bude mít splatnost 30 dnů od data
@@ -136,16 +176,15 @@ kancelář dovoluje rezervovat právo vyúčtovat jejich náhradu i v průběhu 
 ### 7. Povinnosti klienta
 
 * 7.1 Klient je povinen:
+
  * (a) poskytovat advokátní kanceláři včasné, pravdivé a úplné informace potřebné
 k poskytování právní pomoci a předkládat mu včasně úplné listinné podklady, týkající
 se věci,
  * (b) platit advokátní kanceláři za poskytování právní pomoci včas sjednanou odměnu a
 hotové výdaje ve lhůtách uvedených v čl. 6 této Smlouvy.
-
-* 7.2 Pokud to bude třeba k zastupování klienta a jednání s třetími stranami či úřady, udělí klient
+7.2 Pokud to bude třeba k zastupování klienta a jednání s třetími stranami či úřady, udělí klient
 advokátovi z advokátní kanceláře ke každému konkrétnímu případu plnou moc zvláštní
 listinou.
-
 ### 8. Závěrečná ustanovení
 
 * 8.1 Právní vztah advokátní kanceláře a klienta se řídí touto Smlouvou a obecně závaznými
@@ -157,13 +196,8 @@ znění, a příslušnými ustanoveními obchodního zákoníku upravujícími m
 * 8.3 Tato Smlouva se vyhotovuje ve dvou výtiscích, a to po jednom pro každou ze smluvních
 stran. Její změna je možná jen písemným dodatkem.
 
-V Praze dne 24. července 2008   
-V Praze dne 24. července 2008   
-ŘANDA HAVEL LEGAL s.r.o.   
-Hlavní město Praha  
-Podpis:_________________________  
-Jméno: Mgr. Martin Řanda, LL.M.  
-Funkce: jednatel   
-Podpis: ____________________________  
-Jméno: Ing. Václav Kraus  
-Funkce: Ředitel odboru informatiky  
+|V Praze dne 6. srpna 2008|V Praze dne 6. srpna 2008|
+|ŘANDA HAVEL LEGAL s.r.o.|Hlavní město Praha|
+|Podpis:_________________________|Podpis: ____________________________
+|Jméno: Mgr. Martin Řanda, LL.M.|Jméno: Ing. Václav Kraus|
+|Funkce: jednatel|Funkce: ředitel odboru informatiky|

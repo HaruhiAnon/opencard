@@ -1,3 +1,40 @@
+---
+"id":               DIL/40/05/001367/2007
+"layout":           contract
+"datum podpisu":    2007-09-17
+"datum účinnosti":  2007-09-17
+"použité smluvní typy":
+  - smlouva o dílo
+"předmět":          Smlouva o podpoře a údržbě systému OCSP
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor informatiky
+  "zástupce": Ing. Václav Kraus
+  "funkce":   ředitel odboru informatiky
+ -   
+  "jméno":    "MONET+, a.s."
+  "zástupce": Ing. Břetislav Endrys, Mgr. Jiří Beneš
+  "funkce":   předseda představenstva, prokurista společnosti
+  "role":     poskytovatel
+
+"náklady": 1277917
+
+"soubory":
+ - 
+  "název": "Smlouva o dílo"
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění":
+"změněno": 
+"zrušeno":
+---
+
 ## Smlouva o poskytnutí služeb podpory a údržby systému OCSP
 
 uzavřená podle § 262 a násl. obchodního zákoníku a podle zákona č. 137/2006 Sb., o veřejných zakázkách, ve znění pozdějších předpisů

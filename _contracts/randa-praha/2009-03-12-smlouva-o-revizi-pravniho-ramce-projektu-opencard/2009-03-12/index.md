@@ -1,3 +1,40 @@
+---
+"id":               INO/40/01/001899/2009
+"layout":           contract
+"datum podpisu":    2009-03-12
+"datum účinnosti":  2009-03-12
+"použité smluvní typy":
+  - smlouva inominátní
+"předmět":          Smlouva o revizi právního rámce projektu Opencard
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor informatiky
+  "zástupce": Ing. Václav Kraus
+  "funkce":   ředitel odboru informatiky
+ -   
+  "jméno":    "ŘANDA HAVEL LEGAL s.r.o."
+  "zástupce": Mgr. Martin Řanda
+  "funkce":   advokát a jednatel
+  "role":     poskytovatel
+
+"náklady":
+
+"soubory":
+ - 
+  "název": "Smlouva inominátní"
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění":
+"změněno": 
+"zrušeno":
+---
+
 ### INO/40/01/001899/2009
 
 **Hlavní město Praha**  

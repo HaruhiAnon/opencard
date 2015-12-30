@@ -1,3 +1,40 @@
+---
+"id":               DIL/40/05/001344/2007
+"layout":           contract
+"datum podpisu":    2007-08-28
+"datum účinnosti":  2007-08-28
+"použité smluvní typy":
+  - smlouva o dílo
+"předmět":          Smlouva o dílo seznam pro ověření certifikátu karty opencard
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor informatiky
+  "zástupce": Ing. Václav Kraus
+  "funkce":   ředitel odboru informatiky
+ -   
+  "jméno":    "MONET+, a.s."
+  "zástupce": Ing. Břetislav Endrys, Mgr. Jiří Beneš
+  "funkce":   předseda představenstva, prokurista společnosti
+  "role":     poskytovatel
+
+"náklady": 2783648
+
+"soubory":
+ - 
+  "název": "Smlouva o dílo"
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění":
+"změněno": 
+"zrušeno":
+---
+
 ## Smlouva o dílo
 
 **uzavřená podle § 536 a násl. zákona č. 513/1991 Sb. (obchodní zákoník) a na základě zákona ě. 137/2006 Sb., o veřejných zakázkách, ve znění pozdějších předpisů**
