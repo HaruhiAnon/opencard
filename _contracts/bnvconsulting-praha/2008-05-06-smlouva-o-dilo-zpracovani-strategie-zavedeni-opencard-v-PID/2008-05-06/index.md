@@ -461,3 +461,183 @@ Podpis: _________________________ Podpis: _________________________
 Jméno: Ing. Václav Kraus Jméno: Ing. Radek Novotný 
 
 Funkce:ředitel odboru informatiky Magistrátu hl. m. Prahy,, Funkce: jednatel
+
+## PŘÍLOHA Č.1
+
+**POPIS PLNĚNÍ**  
+
+**Předmětem a cílem projektu** je „Zpracování strategie zavedení Opencard v
+PID“. Dále jen „projekt“.
+
+BNV Consulting provede aktualizaci vize Produktu karty Pražana s ohledem
+na vizi rozvoje PID zejména v oblasti tarifů a odbavení včetně health checku
+projektu karty Pražana s ohledem na harmonogram realizace a rozpočet
+tohoto projektu
+
+**Cílem projektu** je, aby po provedení této analýzy a předložení výsledků
+zadavateli došlo k popsání rizik a návrhů jejich řešení.
+
+BNV consulting provede projekt dle níže uvedených bodů. Vedení organizace
+obdrží následující **výsledky**:
+
+### I.Fáze: Kick-off projektu
+
+**Cíl a výstup:** Vzájemné představení a seznámení s cíli, postupem a časovým harmonogramem projektu.
+
+Zahájení projektu; schůzka mezi BNV consulting a vedením organizace ohledně strategických záměrů organizace v této oblasti.
+
+### II.Fáze: Vlastní práce na projektu
+
+Cíl a výstup: Konkrétní a přehledný návrh s následujícími výstupy:
+* a) sumarizace produktu karty Pražana,
+* b) re-definice vize odbavovacího systému PID,
+* c) vyhodnocení reálnosti harmonogramu a rozpočtu projektu Pražana,
+* d) aktualizace implementačního plánu produktu karty Pražana,
+* e) provedení inventury souvisejících projektů,
+* f) návrh výkonových parametrů pro související projekty.
+
+Vlastní postup na projektu: BNV Consulting bude na projektu postupovat
+formou následujících kroků:
+
+* a) Dohoda na úrovni vedení projektu Opencard,definování cílů a rozpočtu
+projektu,
+* b) Prověření aktuálního stavu projektu: Magistrát hl. m. Prahy, Ropid,
+Dopravní podnik,
+* c) Konfigurace produktu karty Pražana,
+* d) Definování výkonových parametrů a požadavků na související projekty
+(např. „zavření Metra“, vize odbavovacího systému PID apod.)
+* e) Ověření těchto parametrů s vlastníky těchto projektů,
+* f) Sestavení implementačního plánu
+
+### III.Fáze: Předání výsledků
+
+|V ___________dne ___________ |V ___________dne ___________|
+|Objednatel: |Zhotovitel:|
+|Hlavní město Praha |BNV consulting, s.r.o.|
+
+* Podpis: _________________________
+* Jméno:
+* Funkce: 
+
+* Podpis: _________________________
+* Jméno: Ing. Radek Novotný
+* Funkce: jednatel
+
+## PŘÍLOHA Č.2
+
+### ČASOVÝ HARMONOGRAM
+
+Fáze:
+- zahájení projektu: do 25. dubna 2008,
+- vlastní práce na projektu: od 25. dubna 2008,
+- předání dílčích výsledků I: do 31. května 2008:
+ * (c) Vyhodnocení reálnosti harmonogramu a rozpočtu projektu karty Pražana;
+ * (d) Návrh aktualizovaného implementačního plánu produktu karty Pražana;
+
+Na základě předání tohoto dílčího celku bude fakturována dílčí splátka 540.000.- Kč bez DPH.
+
+- předání dílčích výsledků II: do 15. července 2008.
+ * (a) Koncepce produktu karty Pražana;
+ * (b) Vize odbavovacího systému PID;
+ * (e) Inventura souvisejících projektů;
+ * (f) Návrh výkonových parametrů pro související projekty;
+
+Na základě předání tohoto dílčího celku bude fakturována dílčí splátka 910.000.- Kč bez DPH.
+
+|V ___________dne ___________ |V ___________dne ___________|
+|Objednatel: |Zhotovitel:|
+|Hlavní město Praha |BNV consulting, s.r.o.|
+
+Podpis: _________________________
+Jméno:
+Funkce: 
+
+Podpis: _________________________
+Jméno: Ing. Radek Novotný
+Funkce: jednatel
+
+* HLAVNÍ MĚSTO PRAHA
+* MAGISTRÁT HLAVNÍHO MĚSTA PRAHY
+* ODBOR INFORMATIKY
+
+**PROTOKOL O PŘEDÁNÍ PROJEKTU DO PROVOZU**
+
+PROJEKT
+
+|Identifikace projektu|rok/pořadové číslo|
+|Název projektu| |
+|Zkratka| |
+|Zpracovatel (vedoucí projektu)| |
+
+INFORMACE O PŘEDÁVANÝCH VÝSTUPECH PROJEKTU DO PROVOZU
+
+|Typ dokumentu|Název|Označení dokumentu (číslo)|Výstupy projektu|Zodpovědná osoba (kdo akceptoval za MHMP)|Datum akceptace|
+|Akceptační protokoly| | | | | |
+|Akceptační protokoly| | | | | |
+|Akceptační protokoly| | | | | |
+
+|Seznam zaměstnanců proškolených pro správu IS| |
+|Seznam zaměstnanců proškolených pro správu IS| |
+|Seznam zaměstnanců proškolených pro správu IS| |
+
+|Seznam zaměstnanců proškolených jako uživatelé| |
+|Seznam zaměstnanců proškolených jako uživatelé| |
+
+|Doplňující informace| |
+
+
+SCHVALOVACÍ TABULKA
+
+
+ODDĚLENÍ SREŘ
+
+|Jméno a příjmení|Datum|Podpis|
+|Vedoucí projektu| | |
+|Projektový konzultant (pokud je určen)| | |
+
+
+|Dokument|Protokol o předání projektu do provozu|
+|Soubor|1536 BNV consulting příl. 3.doc|
+|Číslování stránek|Strana 1 z 3|
+
+|Koordinátor Řízení projektů| | | |
+|Vedoucí oddělení SREŘ| | | |
+|ODDĚLENÍ PROVOZ|Jméno a příjmení|Datum|Podpis|
+|Analytik SA| | | |
+|Teamový koordinátor SA| | | |
+|Vedoucí oddělení Provoz| | | |
+
+|Dokument|Protokol o předání projektu do provozu|
+|Soubor|1536 BNV consulting příl. 3.doc|
+|Číslování stránek|Strana 2 z 3|
+
+
+* HLAVNÍ MĚSTO PRAHA
+* MAGISTRÁT HLAVNÍHO MĚSTA PRAHY
+* ODBOR INFORMATIKY
+* PROTOKOL O PŘEVZETÍ PROVOZNÍ DOKUMENTACE
+
+PROJEKT  
+
+|Identifikace projektu|rok/pořadové číslo|
+|Název projektu| |
+|Zkratka| |
+|Zpracovatel (vedoucí projektu)| |
+
+PŘEDANÁ DOKUMENTACE (seznam)
+
+|Typ dokumentu|Název|Označení dokumentu (číslo včetně verze)|Popis dokumentu|Fora dokumentu (el./papír)| |
+|Předaná provozní dokumentace (kterou převzal od dodavatele vedoucí projektu či proj. konzultant v rámci akceptace výstupů projektu v průběhu realizace projektu)| | | | | |
+|Předaná provozní dokumentace (kterou převzal od dodavatele vedoucí projektu či proj. konzultant v rámci akceptace výstupů projektu v průběhu realizace projektu)| | | | | |
+|Předaná provozní dokumentace (kterou převzal od dodavatele vedoucí projektu či proj. konzultant v rámci akceptace výstupů projektu v průběhu realizace projektu)| | | | | |
+
+OSOBY
+|Předávající|Jméno a příjmení|Datum|Podpis|
+|Vedoucí projektu| | | |
+|Projektový konzultant (pokud je určen)| | | |
+|Přebírající| | | |
+|Analytik SA| | | |
+
+|Dokument|Protokol o předání projektu do provozu|
+|Soubor|1536 BNV consulting příl. 3.doc|
+|Číslování stránek|Strana 3 z 3|

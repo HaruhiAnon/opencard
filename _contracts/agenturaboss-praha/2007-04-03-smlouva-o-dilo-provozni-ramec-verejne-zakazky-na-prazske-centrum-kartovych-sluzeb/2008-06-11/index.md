@@ -396,7 +396,7 @@ Za Agenturu BOSS, s.r.o.
 
 
 
-## DODATEK č.12.
+## DODATEK č.2.
 ke  
 SMLOUVĚ O DÍLO  
 č. DIL/40/05/001290/2007  

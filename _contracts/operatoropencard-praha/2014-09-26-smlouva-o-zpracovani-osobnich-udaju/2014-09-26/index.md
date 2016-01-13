@@ -1,3 +1,39 @@
+---
+"id":               INO/40/06/003087/2014
+"layout":           contract
+"datum podpisu":    2014-09-26
+"datum účinnosti":  2014-09-26
+"použité smluvní typy":
+  - smlouva inominátní
+"předmět":          Smlouva o zpracování osobních údajů
+"smluvní strany":
+ -   
+  "role":     nabyvatel
+  "jméno":    "Hlavní město Praha"
+  "orgán":    RHMP
+  "zástupce": RNDr. Tomáš Hudeček, Ph.D.
+  "funkce":   primátor hl. m. Prahy
+ -   
+  "jméno":    "Operátor OPENCARD, a.s."
+  "zástupce": Ing. Petr Vychodil, Ondřej Košťál
+  "funkce":   předseda a člen představenstva
+  "role":     poskytovatel
+
+"náklady":
+
+"soubory":
+ - 
+  "název": "Smlouva inominátní"
+  "podepsaná verze": contract.pdf
+  "strojově čitelná verze": index.md
+  "upravitelná verze": 
+  "náhled": miniatura.jpg
+
+"ruší": 
+"mění":
+"změněno": 
+"zrušeno":
+---
 
 Stejnopis č. 4
 
