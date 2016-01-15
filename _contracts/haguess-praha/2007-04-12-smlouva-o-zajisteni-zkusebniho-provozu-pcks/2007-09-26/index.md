@@ -1,8 +1,7 @@
 ---
 "id":               INO/40/05/001296/2007
 "layout":           contract
-"datum podpisu":    2007-04-12
-"datum účinnosti":  2007-04-12
+"datum účinnosti":  2007-09-26
 "použité smluvní typy":
   - smlouva inominátní
 "předmět":          Smlouva o zajištění zkušebního provozu PCKS
@@ -11,7 +10,7 @@
   "role":     nabyvatel
   "jméno":    "Hlavní město Praha"
   "orgán":    odbor informatiky
-  "zástupce": Ing. Ivan Seyček
+  "zástupce": Ing. Václav Kraus
   "funkce":   ředitel odboru informatiky
  -   
   "jméno":    "HAGUESS, a.s."
@@ -19,19 +18,19 @@
   "funkce":   předsedkyně představenstva
   "role":     poskytovatel
 
-"náklady": 17375287
+"náklady": 
 
 "soubory":
  - 
   "název": "Smlouva inominátní"
-  "podepsaná verze": contract.pdf
+  "podepsaná verze": 
   "strojově čitelná verze": index.md
   "upravitelná verze": 
-  "náhled": miniatura.jpg
+  "náhled": 
 
 "ruší": 
 "mění":
-"změněno": 
+"změněno": INO/40/05/001296/2007/1 INO/40/05/001296/2007/2
 "zrušeno":
 ---
 
@@ -1332,3 +1331,519 @@ souladu s Čl. III.1 této přílohy.
 
 	b) V případě, že vada bude prvotně kvalifikována poskytovatelem jako vada kategorie „Střední" dle čl. I.1 této přílohy, poskytovatel nejdéle do 72 hodin od nahlášení vady navrhne způsob obnovení poskytování vadné služeb, tak aby vada nebránila v provozu PCKS, a v plnění závazků vůči třetím osobám.
 
+#DODATEK Č. 1 ke smlouvě
+
+**č. smlouvy objednatele: INO/40/05/001296/2007**
+
+jímž se mění čl. II., XVI., a doplňuje příloha č. 10 smlouvy
+
+Inominátní smlouva, uzavřená mezi:
+
+**1.Hlavním městem Praha**
+
+se sídlem Mariánské nám.2, 110 01 Praha 1
+
+IČ: 00064581, DIČ: CZ00064581
+
+bankovní spojení: PPF banka, a.s., č. ú. 27-5157998/6000
+
+zastoupené Ing. Václavem Krausem, ředitelem odboru informatiky Magistrátu hl.m. Prahy
+
+(dále jen **„objednatel"**)
+
+**2.HAGUESS, a.s.**
+
+se sídlem: Na Michovkách I. 686, 252 43 Průhonice
+
+IČ: 25085166
+
+DIČ: CZ25085166
+
+bankovní spojení: ČSOB, a.s., číslo účtu: 163486703/0300
+
+zastoupená Miroslavou Turkovou, předsedkyní představenstva
+
+(dále jen **„poskytovatel"**)
+
+se v souladu s ustanovením čl. XVI. odst. 3 výše uvedené smlouvy mění takto:
+
+##I.
+
+**V čl. II. s názvem Předmět smlouvy**
+
+za odst. 6 se text doplňuje takto:
+„7. zajistit provoz OCSP serveru v rozsahu určeném přílohou č. 10".
+
+##II.
+
+**V čl. XVI. s názvem Závěrečná ustanovení**
+
+v odst. 9 se text nahrazuje takto:
+
+„Příloha 1 - Specifikace provozu Servisního Kartového Centra
+
+Příloha 2 - Specifikace provozu kontaktního místa palác Adria
+
+Příloha 3 - Specifikace provozu kontaktního místa ve Škodově paláci
+
+Příloha 4 - Specifikace datového propojení kontaktních míst
+
+Příloha 5 - Specifikace provozu webové prezentace
+
+Příloha 6 - Specifikace svozu hotovosti a přípravy dokladů
+
+Příloha 7 - Specifikace součinnosti
+
+Příloha 8 - Specifikace monitoringu kvality služeb
+
+Příloha 9 - Odstraňování vad
+
+Příloha 10 - Specifikace provozu OCSP Serveru"
+
+##III.
+
+**Za přílohu č. 9 Smlouvy se doplňuje Příloha č. 10 Smlouvy takto:**
+
+„
+
+##Příloha 10 - ke smlouvě č. I NO/40/05/001296/2007 Specifikace provozu OCSP serveru
+
+**I. OCSP Server**
+
+1. OCSP server je technické řešení, které slouží k zajištění verifikace platnosti device certifikátu na
+kartě opencard, ve vazbě na centrální řešení SKC. Jeho detailní specifikace je uvedena v čl. IV
+této přílohy.
+
+2. Objednatel tímto prohlašuje, že je oprávněným majitelem OCSK Serveru dle specifikace uvedené
+v čl. IV, a má právo jeho provoz zajistit prostřednictvím třetí osoby.
+
+3. OCSP server bude umístěn ve stejných prostorách, jako Centrální pracoviště SKC.
+
+4. Poskytovatel tímto prohlašuje, že je oprávněn užívat část nemovitosti, v níž se nachází centrální
+pracoviště v rozsahu určeném touto přílohou, na základě platného právního vztahu s majitelem,
+nájemcem nebo podnájemcem této nemovitosti.
+
+5. Veškeré náklady spojené s pořízením, implementací OCSP serveru do centrálního pracoviště a
+jeho technickou podporou, hradí objednatel na svůj účet, stejné jako náklady na činnosti spojené
+s ukončením poskytování služeb dle Smlouvy, jejíž je tato příloha nedílnou součástí.
+
+6. Provozní náklady spojené s provozem OCSP serveru hradí poskytovatel na svůj účet, a objednatel
+je povinen hradit pouze náklady ve výši určené smlouvou, jejíž je tato příloha nedílnou součástí.
+
+**II. Implementace OCSP serveru**
+
+1. Objednatel zajistí činnosti spojené s implementaci OCSP serveru do centrálního prostředí SKC, a
+o způsobu jejich zajištění bude poskytovatele včas a vhodným způsobem informovat.
+
+2. Poskytovatel zajistí součinnost nutnou pro implementaci OCSP serveru do centrálního prostředí,
+tedy zejména umístění pro hardwarové prvky.
+
+3. Poskytovatel není odpovědný za kvalitu a akceptaci implementace, a není povinen převzít OCSP
+server, pokud nesplňuje specifikaci uvedenou v čl. IV, a není jej možné provozovat.
+
+4. OCSP server není součástí centrálního řešení SKC.
+
+**III. Technická podpora OCSP serveru**
+
+1. Objednatel je povinen zajistit přímo nebo prostřednictvím třetích osob technickou podporu OCSP
+serveru, je poskytovateli povinen sdělit na jakých kontaktech, a jakým způsobem je technická
+podpora poskytována.
+
+2. Poskytovatel není odpovědný za nefunkčnost systému způsobenou chybou systému nebo jakékoli
+jeho části, neposkytnutou nebo neodborně poskytnutou technickou podporou objednatelem nebo
+jím pověřené třetí osoby.
+
+3. Poskytovatel je odpovědný za technický stav Centrálního řešení systému SKC, a zajištění
+poskytování datového rozhraní pro funkci OCSP serveru.
+
+4. Poskytovatel nezajišťuje podporu smluvním stranám objednatele, které využívají služeb OCSP
+serveru, ani za podporu interním uživatelům OCSP serveru.'i
+
+**IV. Specifikace OCSP serveru**
+
+Na internetový portál Hlavního města Prahy a na informační web server opencard bude
+přistupováno prostřednictvím device certifikátu uloženého na čipové kartě. Přístup bude
+realizován prostřednictvím oboustranně šifrovaného protokolu HTTPS.
+
+Tento postupu vyžaduje ověření platnosti klientského certifikátu karty „opencard" (certifikát
+C.509).
+
+Platnost certifikátu (kromě standardních kryptografických a ověřovacích operací) bude
+ověřena on-line způsobem vůči serveru OCSP.
+
+Web server se po kryptografickém ověření klientského certifikátu dotáže standardním
+protokolem serveru OCSP, zda je certifikát platný. OCSP server bude platnost certifikátu
+posuzovat na základě databázi (blacklistu) systému SKC.
+
+(obrázek 2)
+
+Ověření platnosti certifikátu (karty) bude probíhat s využitím standardního protokolu OCSP
+(Online Certificate Status Protocol, OCSP je definovaného v RFC 2560).
+
+OCSP je poměrně jednoduchý request- response protokol nabízející mechanismus pro on-line
+přenos informace o zneplatnění certifikátů (revocation status information) od důvěryhodné
+autority označované jako HSM respondér.
+
+(obrázek 3)
+
+Východiska:
+
+1. HSM respondér si vygeneruje pár klíčů a žádost o certifikát pro podepisování
+odpovědí OCSP serveru.
+
+2. Root CA vystaví certifikát pro HSM respondér dle specifického profilu (nastaví
+ExtkeyUsage - id-kp-OCSPSigning, aby bylo možno vystavovat standardní ocsp
+odpovědi).
+
+3. www portál bude mít k dispozici kořenový certifikát CA a tím umožní
+verifikovat jak klientské certifikáty C.509, tak také odpovědi HSM respondéru.
+
+4. Klient (držitel certifikátu C.509) bude mít možnost vhodným kanálem nahlásit
+Card Management Systému (CMS) ztrátu karty nebo možnou zneužitelnost karty
+a CMS zajistí její umístění na BlackList
+
+Stručný popis funkčnosti:
+
+1. Klient se přihlásí k www portálu s využitím čipové karty, kdy probíhá vzájemná autentizace
+
+2. Server ověří klientský certifikát s využitím root certifikátu
+
+3. Server se s využitím protokolu ocsp/http dotáže HSM respondéru na stav karty
+
+4. OCSP server dotaz na stav přenese na BlackList držený v DB Card Managementu
+
+5. Získanou odpověď zapouzdří do odpovědi serveru a nechá si ji podepsat HSM respondérem.
+
+6. Takto zkompletovanou odpověď vrátí - prostřednictvím standardního OCSP
+protokolu - www portálu
+
+V rámci implementace budou dodány následujících licence:
+
+	• Licence OCSP serveru (lks)
+
+	• Licence HSM respondéru (lks)
+
+HSM respondér a OCSP budou dva fyzicky oddělené stroje. OCSP server bude umístěn
+v demilitarizované zóně provozovatele, HSM respondér bude uvnitř chráněného prostředí.
+
+Uvedená implementace není určena pro režim HA s garantovanou dostupností 24/7.
+
+Uvedený systém bude dodán včetně potřebné uživatelské a administrátorské dokumentace.
+Součástí dodávky je také implementace systému a testování kompatibility s portálem
+Hlavního města Prahy (www.praha.eu) a testování kompatibility se serverem
+www.opencard.cz.
+
+Navržená technologie, s ohledem na kapacitní možnosti hardware, umožňuje připojení více
+internetových portálů pro ověření platnosti certifikátů.
+
+**Implementace OCSP bude provedena na následujícím hardware:**
+
+**OCSP server:**
+
+HP ProLiant DL360G5
+
+	• Procesor: Duál - core Intel Xeon 5120 (1,86GHz)
+
+	• Memory: 1 GB (2x 512MB) PC2- 5300 DDR2 667 SDRAM
+
+	• Network Cotroler: Embedded NC7782 Duál Port 10/100/1000T Gigabit network adapter
+
+	• Storage Controler: SMART ARRAY E200i (RAID 0,1)
+
+	• Remote Management: Integrated Ligts-Out (iLO) Standard Management (embedded)
+
+	• Power Supply One 460W (redundant power supply)
+
+	• 160GB 15.000rpm, U320 Universal Hot Plug Drive 2,5" - 2ks
+
+	• HP DVD+R/RW 8x Slim
+
+	• Provedení - do racku
+
+Použitý systémový software:
+
+	• Linux RH Enterprise 4
+
+**HSM respondér server:**
+
+	• HP ProLiant ML310G4
+
+		- Procesor: Duál - core Intel Xeon 3040 (1,86GHz 2MB L2)
+
+		- Memory: 1GB (2x 512MB) Advanced ECC PC2- 5300 DDR2
+
+		- Network Cotroler: Embedded NC320Í PCI Express 10/100/1000T Gigabit network adapter
+
+		- Storage Controler: Integrated four SATA controller with SATA RAID 0,1 2TB maximum (hot plug SATA)
+
+		- 160GB SATA 1,5Gb 7.200rpm, Hard Drive - 2ks
+
+		- HP DVD+R/RW 16x HSM modul SafeNet Gold CSA 8000 PL450
+
+	• Epson LQ300
+
+	• LCD monitor 17", klávesnice, myš
+
+Použitý systémový software:
+
+	• Linux RH Enterprise 4
+
+"
+
+##IV.
+
+1. Ostatní ustanovení smlouvy zůstávají beze změny.
+
+2. Dodatek nabývá účinnosti dnem podpisu oběma smluvními stranami.
+
+3. Dodatek je sepsán ve čtyřech stejnopisech, z nichž tři obdrží objednatel a jeden
+poskytovatel.
+
+V Praze dne 24.9.2007
+
+Za hlavní město Prahu
+
+V Praze dne 24.9.2007
+
+Za Haguess, a.s.
+
+#DODATEK Č. 2 ke smlouvě
+
+**č. smlouvy objednatele: INO/40/05/001296/2007**
+
+jímž se mění čl. II., čl. IV, a doplňuje příloha č. 11 smlouvy
+
+Inominátní smlouva, uzavřená mezi:
+
+**1.Hlavním městem Praha**
+
+se sídlem Mariánské nám.2, 110 01 Praha 1
+
+IČ: 00064581, DIČ: CZ00064581
+
+bankovní spojení: PPF banka, a.s., č. ú. 27-5157998/6000
+
+zastoupené Ing. Václavem Krausem, ředitelem odboru informatiky Magistrátu hl.m. Prahy
+
+(dále jen **„objednatel"**)
+
+a
+
+**2.HAGUESS, a.s.**
+
+se sídlem: Na Michovkách I. 686, 252 43 Průhonice
+
+IČ: 25085166
+
+DIČ: CZ25085166
+
+bankovní spojení: ČSOB, a.s., číslo účtu: 163486703/0300
+
+zastoupená Miroslavou Turkovou, předsedkyní představenstva
+
+(dále jen **„poskytovatel"**)
+
+se v souladu s ustanovením čl. XVI. odst. 3 výše uvedené smlouvy mění takto:
+
+##I.
+
+**V čl. II. s názvem Předmět smlouvy**
+
+za odst. 7 se text doplňuje takto:
+
+„8. zajistit provoz kartové aplikace parkování v rozsahu určeném přílohou č. 11".
+
+##II.
+
+**V čl. II. s názvem Cena a platební podmínky**
+
+V odst. 1 se text nahrazuje takto:
+
+„Celková cena plnění dle čl. II činí 14,502.139,- Kč (slovy čtrnáct-milionů-pětsetdva-tisíc-stotřicetdevět korunu) bez DPH. Cena včetně DPH činí 17,257.529,- Kč. Cena za plnění je členěna takto:
+
+|DETAIL KALKULACE|Cena bez DPH |Vyčíslení DPH |Cena včetně DPH|
+|---|---|---|---|
+|**Zajištění provozu Pražského centra kartových služeb**|**7 635 506**|**1 450 746**|**9 086 252**|
+|Personální náklady na obsluhu centrálního pracoviště|4 252 990|808 068|5 061 058|
+|Příprava pro služby externí personalizační linky|302 016|57 383|359 399|
+|Náklady na komunikaci s externí personalizační linkou|224 516|42 658|267 174|
+|Nájem vybavení pro provoz centrálního pracoviště|614 910|116 833|731 743|
+|Rozšíření pojištění SKC v souladu s požadavky HMP|154 225|29 303|183 528|
+|Alikvotní část podnájmu včetně služeb|657 384|124 899|782 263|
+|Spotřební materiál s marketingová dokumentace opencard|797 282|151 484|948 766|
+|Provoz uživatelské telefonní linky|182 417|34 659|217 076
+|Metodika a školení personálu centrálního pracoviště|449 786|85 459|535 245|
+|**Zajištění provozu kontaktního místa ve Škodově Paláci**|**359 356**|**68 278**|**427 634**|
+|Personální náklady kontaktního místa|227 250|43 178|270 428|
+|Nájem vybavení pro provoz kontaktního místa|26 136|4 966|31 102|
+|Alikvotní část podnájmu prostor kontaktního místa|0|0|0|
+|Náklady na připojištění prostor kontaktního místa|6 485|1 232|7 717|
+|Náklady na komunikaci pracoviště s SKC|11 880|2 257|14 137|
+|Spotřební materiál s marketingová dokumentace opencard|24 117|4 582|28 699|
+|Metodika a školení personálu kontaktního místa|26 080|4 955|31 035|
+|Poštovné a SMS brána klientům opencard|37 408|7 108|44 516|
+|**Zajištění provozu rozšiřujícího kontaktního místa**|**3 327 362**|**632 199**|**3 959 561**|
+|Personální náklady kontaktního místa|1 786 578|339 450|2 126 028|
+|Nájem vybavení pro provoz kontaktního místa|188 911|35 893|224 804|
+|Alikvotní část podnájmu prostor kontaktního místa|392 784|74 629|467 413|
+|Náklady na připojištění prostor kontaktního místa|52 968|10 064|63 032|
+|Náklady na komunikaci pracoviště s SKC|125 253|23 798|149 051|
+|Spotřební materiál s marketingová dokumentace opencard|263 103|49 990|313 093|
+|Metodika a školení personálu kontaktního místa|207 594|39 443|247 037|
+|Poštovné a SMS brána klientům opencard|310 171|58 932|369 103|
+|**Telekomunikační služby (uživatelská linka)**|**883 721**|**167 907**|**1 051 628**|
+|Personální náklady na obsluhu uživatelské linky|447 750|85 073|532 823|
+|Nájem vybavení pro provoz uživatelské linky|105 559|20 056|125 615|
+|Náklady na uživatelskou linku|182 417|34 659|217 076|
+|Náklady na zpracování dokumentace uživatelské linky|147 995|28 119|176 114|
+|**Ostatní služby**|**1 912 011**|**363 282**|**2 275 293**|
+|Zajištění distribuční a svozové služby|384 966|73 144|458 110|
+|Zajištění sběru a zpracování transakcí z kartových aplikací|891 125|169 314|1 060 439|
+|Zajištění provozu webové prezentace UKP|342 504|65 076|407 580|
+|Zajištění redakce webové prezentace UKP|223 875|42 536|266 411|
+|Zajištění manipulace s hotovostí|69 541|13 213|82 754|
+|**KAP 1.10.- 31.10.**|**384 183**|**72 995**|**457 178**|
+|Zajištění provozu kartové aplikace parkování|384 183|72 995|457 178|
+|**Cena celkem (za 7 měsíců)**|**14 502 139**|**2 755 404**|**17 257 529**|
+
+".
+
+##III.
+
+**V čl. XVI. s názvem Závěrečná ustanovení**
+
+v odst. 9 se text nahrazuje takto:
+
+„Příloha 1 - Specifikace provozu Servisního Kartového Centra
+
+Příloha 2 - Specifikace provozu kontaktního místa palác Adria
+
+Příloha 3 - Specifikace provozu kontaktního místa ve Škodově paláci
+
+Příloha 4 - Specifikace datového propojení kontaktních míst
+
+Příloha 5 - Specifikace provozu webové prezentace
+
+Příloha 6 - Specifikace svozu hotovosti a přípravy dokladů
+
+Příloha 7 - Specifikace součinnosti
+
+Příloha 8 - Specifikace monitoringu kvality služeb
+
+Příloha 9 - Odstraňování vad
+
+Příloha 10 - Specifikace provozu OCSP Serveru
+
+Příloha 11 - Specifikace provozu kartové aplikace parkování"
+
+##IV.
+ 
+**Za přílohu č. 10 Smlouvy se doplňuje Příloha č. 11 Smlouvy takto:**
+
+„
+
+##Příloha 11 - ke smlouvě č. INO/40/05/001296/2007 Specifikace provozu kartové aplikace parkování
+
+**1.1. Úvodní ustanovení**
+
+1. Termín zajištění provozu kartové aplikace parkování (dále jen „KAP") je stanoven od
+1.10.2007 do 31.10.2007 v návaznosti na zajištění zkušebního provozu KAP provozovatelem
+na základě Smlouvy o realizaci kartové aplikace parkování dle evidence objednatele č.
+I NO/40/05/001270/2007 specifikované od st. 4, čl. III této smlouvy.
+
+2. Na základě této smlouvy je zajištěn provoz KAP pouze v rozsahu ZPS Městské části Prahy 1.
+
+**1.2. Specifikace provozních charakteristik**
+
+**Provoz bude splňovat následující parametry:**
+
+|Charakteristiky||
+|---|---|
+|A) Doba provozu KAP| Pondělí - Neděle, 00:00 - 24:00 hod|
+|B) Poskytování služeb veřejnosti| Pondělí - Pátek, 07:00 - 19:00 hod, kromě svátků|
+|C) Doba používání systému uživateli| Pondělí - Pátek, 06:00 - 20:00 hod, kromě svátků|
+|D) Servisní okno| Pondělí - Pátek, 20:00 - 06:00 hod, Sobota - Neděle 00:00 - 24:00|
+
+|Dostupnost systému||
+|---|---|
+|Dostupnost za měsíc průměr| 96,5%|
+|Maximální doba úplných výpadků systému za měsíc během doby používání B)| 12 h|
+|Maximální doba úplného výpadku systému na jeden případ během doby používání B)| 4 h|
+|Maximální počet dílčích výpadků systému za měsíc během doby používání| 6|
+
+|Servisní časy||
+|---|---|
+|Služby Helpdesk| Pondělí - Neděle, 00:00 - 24:00 hod|
+|Zpracování požadavků a oprava chyb| Pondělí - Pátek, 08:00 - 17:00 hod, kromě svátků v ČR|
+|Řešení změn v systému| Pondělí - Pátek, 08:00 - 17:00 hod, kromě svátků v ČR|
+
+**Doba reakce**
+
+Doba reakce vyjadřuje dobu, která uplyne od nahlášení anomální události nebo chyby vzniklé při
+provozu systému od nahlášení chyby do zahájení řešení daného problému včetně zpětného potvrzení
+osobě, která problém nahlásila.
+
+|Doba reakce||
+|---|---|
+|Doba reakce během doby používání systému uživateli C):| 60 minut|
+|Doba reakce mimo dobu používání systému uživateli C):| Následující pracovní den|
+
+|Klasifikace požadavků a jejich řešení|||
+|---|---|---|
+|Popis| Reakční doba| Doba řešení|
+|Kritická chyba| 1 hodina| Nesmí překročit 4 hodiny|
+|Závažná chyba| 1 hodina| Nesmí překročit 48 hodin|
+|Vedlejší chyba| 4 hodiny| 5 dnů|
+|Požadavek na změnu| 48 hodin| V závislosti na obsahu požadavku|
+
+**Čl. II.**
+
+**1.3. Pojmy a definice**
+
+|Definice||
+|---|---|
+|Alert| Termín alert označuje zprávu přicházející z monitorování systému, která signalizuje nerutinní sled událostí.|
+|Doba používání| Termín doba používání označuje časový úsek, ve kterém může být systém včetně místa předání využíván na smluvené úrovni služeb a ve kterém je systém monitorován a v případě události jsou iniciovány eliminační postupy.|
+|Doba provozu| Termín doba provozu označuje časový úsek, ve kterém je systém v provozu.|
+|Doba reakce| Termín doba reakce označuje dobu, která uběhne mezi oznámením události a zahájením řešení problému včetně úvodní informace osobě, která událost nahlásila.|
+|Doba uchování zálohy| Termín doba uchováni zálohy specifikuje dobu, po kterou jsou zálohovaná data dostupná pro obnovení.|
+|Dostupnost| Dostupnost systému - vyjadřuje poměr mezi dobou, kdy je systém dostupný s dohodnutými kvalitativními parametry a celkovou plánovanou dobou dostupnosti systému a vztahuje se na provoz systému jako celku: Dostupnost [%] = skutečná doba dostupnosti / plánovaná doba dostupnosti * 100|
+|Provozní doba pro personální úkony| Termín provozní doba pro personální výkony označuje časový úsek, kdy jsou prováděny personální výkony a požadavky jsou přijímány a prováděny.|
+|Řízení problémů| Definice tříd chyb Kritická chyba - je velmi závažné omezeni s kritickými důsledky pro průběh všech procesů SKC (například celkový výpadek systému, žádný dialog v systému není možný) Závažná chyba - podstatné omezení se značnými následky pro průběh dílčích procesů SKC (např. dílčí výpadek systému, pouze omezené možnosti dialogu v důsledku dlouhé doby odezvy) Vedlejší chyba - žádné podstatné omezeni procesů SKC (například chyba zápisu / čtení na zálohovacím médiu)|
+|Servisní časy| Termín servisní časy je používán jako obecný termín pro různé časové úseky. V tomto kontextu se svátky rozumí dny pracovního klidu.|
+|Servisní okno| Časový úsek, kdy systém, nebo jeho dílčí část může procházet údržbou a nemusí být plně k dispozici uživatelům|
+|Výpadek| Výpadek odkazuje na událost a je to doba, po kterou koncový uživatel nemůže využívat systém s určenými kvalitativními vlastnostmi během doby používání.|
+
+**Čl. III.**
+
+**1.4. Příprava datových podkladů**
+
+1. Poskytovatel bude připravovat datové podklady pro rozúčtování příjmů z prodeje parkovacích
+kupónů a dávat tak podklady pro finanční vypořádání subjektů v systému KAP. Jedná se
+zejména o Městské části, na jejichž území se jednotlivé ZPS (a tedy i jednotlivé parkovací
+automat) nachází. Po dobu účinnosti této smlouvy se budou sbírat transakce pouze z destinací
+na území Městské části Praha 1.
+
+2. Datové podklady budou objednateli nebo objednatelem určené třetí straně předány písemně
+formou tiskové sestavy. Datové podklady pro rozúčtování budou předány objednateli vždy za
+uplynulý kalendářní měsíc.
+
+3. Předmětem datového podkladu bude jednak výše příjmů z prodeje parkovacích kupónů, výše
+utracených bodů z parkovacích kupónů v jednotlivých ZPS a výše vybitých parkovacích
+kupónů.
+
+##IV.
+
+1. Ostatní ustanovení smlouvy zůstávají beze změny.
+
+2. Dodatek nabývá účinnosti dnem podpisu oběma smluvními stranami.
+
+3. Dodatek je sepsán ve čtyřech stejnopisech, z nichž tři obdrží objednatel a jeden poskytovatel.
+
+V Praze dne 26.9.2007
+
+Za hlavní město Prahu
+
+V Praze dne 26.9.2007
+
+Za Haguess, a.s.
