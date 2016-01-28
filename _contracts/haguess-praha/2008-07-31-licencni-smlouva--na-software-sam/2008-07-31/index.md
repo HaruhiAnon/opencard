@@ -1,29 +1,29 @@
 ---
 "id":               LIC/40/01/001650/2008
-"layout":           
-"datum podpisu":    
-"datum účinnosti":  
+"layout":           contract
+"datum podpisu":    2008-07-31
+"datum účinnosti":  2008-07-31
 "použité smluvní typy":
-  - 
-"předmět":          
+  - licenční smlouva
+"předmět":          Licenční smlouva na software SAM
 "smluvní strany":
  -   
   "role":     nabyvatel
-  "jméno":    
-  "orgán":    
-  "zástupce": 
-  "funkce":   
+  "jméno":    "Hlavní město Praha"
+  "orgán":    odbor informatiky
+  "zástupce": Ing. Václav Kraus
+  "funkce":   ředitel odboru informatiky
  -   
-  "jméno":    
-  "zástupce": 
-  "funkce":   
+  "jméno":    "HAGUESS, a.s."
+  "zástupce": Miroslava Turková
+  "funkce":   předsedkyně představenstva
   "role":     poskytovatel
 
-"náklady":
+"náklady": 768550
 
 "soubory":
  - 
-  "název": 
+  "název": "Licenční smlouva"
   "podepsaná verze": contract.pdf
   "strojově čitelná verze": index.md
   "upravitelná verze": 
@@ -51,4 +51,3 @@ Bankovní spojení: PPF banka, a.s.
 Zastoupené: Ing. Václavem Krausem, ředitelem odboru informatiky Magistrátu hl. m. Prahy  
 dále jen „nabyvatel“
 
-atd. text smlouvy v .md
